@@ -80,3 +80,4 @@ jobs:
           git diff --cached --quiet || \
             git commit -m "Update snapshot + database ($(date -u +%F))"
           git push
+# ci: touch to force workflow ingestion
