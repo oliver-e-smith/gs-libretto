@@ -1,0 +1,175 @@
+a:link {
+	color: #3300CC;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #660066;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+}
+
+.youare {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-indent: 30px;
+}
+
+
+
+.menuitem {font-family: Arial, Helvetica, sans-serif; font-size: small; color: #000000;}
+
+
+
+.here {font-family: Arial, Helvetica, sans-serif; font-size: small; color: #999999;}
+
+
+.date {
+	font-size: small;
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 10px;
+}
+.head1 {
+	font-size: x-large;
+	font-weight: bold;
+	color: #800000;
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+.head2 {
+	font-size: large;
+	color: #800000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.head3 {
+	font-size: medium;
+	color: #800000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.btext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+}
+
+.lyric {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+}
+
+.tlyric {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+.rubric {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: italic;
+	font-weight: bold;
+	color: #800000;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center
+}
+
+.dir {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	font-weight: bold;
+	color: #800000;
+	text-decoration: none;
+}
+
+.part {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: bold;
+	color: #800000;
+	text-decoration: none;
+}
+
+.pictureframe {
+	border: 8px ridge #CECE9C;
+}
+.body {
+	border: 50px;
+}
+.paragraph {
+	text-indent: 30px;
+	margin-left: 15px;
+	margin-right: 15px;
+	color: #000000;
+}
+.blhead2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-style: normal;
+	font-weight: bolder;
+	color: #000033;
+}
+.under {
+	text-decoration: underline;
+}
+.continuation {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.midis {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin-right: 10px;
+}
+.cast {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	color: #000000;
+}
+.list2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	margin-left: 30px;
+	margin-right: 20px;
+}

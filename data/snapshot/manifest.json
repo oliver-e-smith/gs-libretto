@@ -1,0 +1,3350 @@
+{
+ "https://gsarchive.net/layout/css/basic.css": {
+  "bytes": 3044,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:07Z",
+  "last_modified": "Sun, 29 Nov 2020 17:41:30 GMT",
+  "path": "data/snapshot/layout/css/basic.css",
+  "sha256": "96adf60a9c1ff399b6ffcfc4bdb2ff7aa1438c0aaa8c08a2039ea5154d7fcf99",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/css/basic12.css": {
+  "bytes": 2728,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:17Z",
+  "last_modified": "Sun, 24 Feb 2019 13:58:57 GMT",
+  "path": "data/snapshot/layout/css/basic12.css",
+  "sha256": "0819de127babc5ffb5133c22448d65f242881f0ef00e885073505df3418b86a7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/extlnk.gif": {
+  "bytes": 418,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:28Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:07 GMT",
+  "path": "data/snapshot/layout/images/extlnk.gif",
+  "sha256": "993c37cc5d0ded0338388034477157c0268569798370fed1914ba08f38d4b2aa",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/frame/corner2.gif": {
+  "bytes": 816,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:43Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:22 GMT",
+  "path": "data/snapshot/layout/images/frame/corner2.gif",
+  "sha256": "1d630eaf133c1b75177b3f3e2558e247c0e0c1c80e65087f84e5f2bf1e52f277",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/frame/corner4.gif": {
+  "bytes": 816,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:38Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:22 GMT",
+  "path": "data/snapshot/layout/images/frame/corner4.gif",
+  "sha256": "ee43cb88d1e772bc9ecd65bb75d4c970a45b05d211ce02035b53e3777af8dde6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/frame/trans.gif": {
+  "bytes": 52,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:33Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:24 GMT",
+  "path": "data/snapshot/layout/images/frame/trans.gif",
+  "sha256": "2928fde4dbd0d90909052efc6b3b0e6fcb10b9e3a5590dde6d049c97e56ef68e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/logo3sm.jpg": {
+  "bytes": 10425,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:47Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:08 GMT",
+  "path": "data/snapshot/layout/images/logo3sm.jpg",
+  "sha256": "5265c35075daa8628c9df110e60284d97e731f9b212f5953c5ba382067beef92",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/midi.gif": {
+  "bytes": 373,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:42Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:09 GMT",
+  "path": "data/snapshot/layout/images/midi.gif",
+  "sha256": "63a3157a0ad5ce9c6d129b9cc03f3a2b4a7cd584e5fe30e2cf9220d907c37f34",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/midi_karaoke.gif": {
+  "bytes": 1634,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:00Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:09 GMT",
+  "path": "data/snapshot/layout/images/midi_karaoke.gif",
+  "sha256": "f7dc7a2ae628a57db0518fd6bda9f224d5fcf1386c16aba4c1324c3b6f9a740f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/sheetmusicplus.gif": {
+  "bytes": 808,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:24Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:10 GMT",
+  "path": "data/snapshot/layout/images/sheetmusicplus.gif",
+  "sha256": "d174b132850019c5f3720cb904ef2d9ef4c60143e3deb12dedcb621d86355566",
+  "status": "ok"
+ },
+ "https://gsarchive.net/layout/images/webop.gif": {
+  "bytes": 7682,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:39Z",
+  "last_modified": "Sat, 17 Sep 2016 15:04:11 GMT",
+  "path": "data/snapshot/layout/images/webop.gif",
+  "sha256": "e7b31353432c7d6c5cfd171b284c6219683f6f3b94f5b399c804f3fe42f4dd5b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/Pirates_Errata.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/bab/appeal_tn.gif": {
+  "bytes": 1687,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:00Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:45 GMT",
+  "path": "data/snapshot/pirates/bab/appeal_tn.gif",
+  "sha256": "a5af6df053cc6b75c6272669d89252cc79880481dcd237108acf4f01fa3e496b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/bab.html": {
+  "bytes": 10153,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:48Z",
+  "last_modified": "Sat, 21 Jan 2023 01:32:10 GMT",
+  "path": "data/snapshot/pirates/bab/bab.html",
+  "sha256": "29efea200c694efdcfcd32be3583646a0a0df8c5210c9dac1478766b13a0281e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/felon_tn.gif": {
+  "bytes": 4292,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:11Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:47 GMT",
+  "path": "data/snapshot/pirates/bab/felon_tn.gif",
+  "sha256": "732eb245ed2c2e5415448fcb2d5044f008d88e1707a7ec029903f024451fd52e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/late.gif": {
+  "bytes": 2602,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:16Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:47 GMT",
+  "path": "data/snapshot/pirates/bab/late.gif",
+  "sha256": "33188481bece246f43ad42481bab38b185835ddafa27b00369cd5ab8e5d9a4ef",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/mmge.gif": {
+  "bytes": 2035,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:05Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:47 GMT",
+  "path": "data/snapshot/pirates/bab/mmge.gif",
+  "sha256": "2e3f792b536a344741f81a90d2ef5430dc742d321417ef1cb4052edd814aeacc",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/title.gif": {
+  "bytes": 7868,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:54Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:49 GMT",
+  "path": "data/snapshot/pirates/bab/title.gif",
+  "sha256": "45d03566af126d4f0135631a1297f15ab59bb3f4cbbc79fbb328ba666e36327c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/tree.gif": {
+  "bytes": 1920,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:27Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:49 GMT",
+  "path": "data/snapshot/pirates/bab/tree.gif",
+  "sha256": "7f46212468833351598a0b356f26ccaa62a5a4f4a87def4936dab3db33b0688e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/bab/wave.gif": {
+  "bytes": 3767,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:50 GMT",
+  "path": "data/snapshot/pirates/bab/wave.gif",
+  "sha256": "c08cddc5fa4d0df09c8f7f484f8c1856f04e9332c89bacb19a5ca309b22ea9a6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/carte/doc.html": {
+  "bytes": 27328,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:22Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:11 GMT",
+  "path": "data/snapshot/pirates/carte/doc.html",
+  "sha256": "c1d29369304abbafea5d3e086ad60ce0b62e85c5e2cd7a4503f111bbfc7f5b0e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip01.gif": {
+  "bytes": 2274,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:36Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:55 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip01.gif",
+  "sha256": "c16a4d2b3550921d16a88756a9a1ea60929b833e732c72b7c72d87c747645583",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip02.gif": {
+  "bytes": 1923,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip02.gif",
+  "sha256": "95900a1d25e8af57fb7b3ee6664f19da905b739d246ae33940fa055fe59de0c3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip03.gif": {
+  "bytes": 2011,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:47Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip03.gif",
+  "sha256": "a4a8ac15af3a561df664c3ebd4bf0ed91c4af10e9df72ed9a7e619f2e4aaf84d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip04.gif": {
+  "bytes": 4018,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:08Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip04.gif",
+  "sha256": "a02028c45f256fa7f7a42d4dc49b9f786565142daf7de1a0323159e6c61dd1d8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip05.gif": {
+  "bytes": 4986,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:58Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip05.gif",
+  "sha256": "3581e3638242f93cfbe109fb463cbb9ddd9bcf8c0596cb0d1a120619490fe2fa",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip06.gif": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip07.gif": {
+  "bytes": 3573,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip07.gif",
+  "sha256": "b9e3e743cfb4d7720fca83d5a3f3224fd32561036ebd391281cb6bcf7c115bbd",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip08.gif": {
+  "bytes": 2142,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:08Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip08.gif",
+  "sha256": "dc375a9c4b948bc50a41a68592649f18e35c5da22cad058ae1c7c9a6b7158df4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip09.gif": {
+  "bytes": 4045,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:04Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip09.gif",
+  "sha256": "2fbe7fe70870e7b910b99ccd3e397623498cc02f9db37b4138796a9893ae1664",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip10.gif": {
+  "bytes": 5365,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:12Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip10.gif",
+  "sha256": "cb2603e214422625ea7535c9c7fa0b32b9593087a63d0c51c5f26aa5069ec53c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip11.gif": {
+  "bytes": 1801,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:16Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip11.gif",
+  "sha256": "6e82b19593e00a21efcc8c238369ed77e295f2f591627b68a1fef4d037b2ccaf",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip12.gif": {
+  "bytes": 2781,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip12.gif",
+  "sha256": "3b6fc57b519ea340702afbe41924811a8e498408622bbfbd8253bbab699e2b3c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip13.gif": {
+  "bytes": 3500,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:26Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip13.gif",
+  "sha256": "ae775f56837ebb88ab6fdb6626ba953a56a02ae03a4bafb5e2375c1beeae316a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip14.gif": {
+  "bytes": 2129,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:31Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:59 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip14.gif",
+  "sha256": "f94ebb2c4f4ccbf456b10f8fd9e2513ea9e38c30ce27712731ea23cb9c49e340",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip15.gif": {
+  "bytes": 1897,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:58Z",
+  "last_modified": "Sat, 17 Sep 2016 19:30:59 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip15.gif",
+  "sha256": "7a3d5a029bc099d80830a42f37ced32653cc19462e44790ef6a38e6cf27b9e5d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip16.gif": {
+  "bytes": 2967,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip16.gif",
+  "sha256": "3094c9f63326e1fb33b8350f4557cfa6ec860d4868afe9a261451fd50b959024",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip17.gif": {
+  "bytes": 3549,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:48Z",
+  "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip17.gif",
+  "sha256": "468ad3554b9840c2487b725329fd923ff66790c02e4a919d57c430b96278ad79",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip18.gif": {
+  "bytes": 2231,
+  "etag": null,
+  "fetched": "2026-07-24T12:01:54Z",
+  "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip18.gif",
+  "sha256": "6b14bd6caca7ad0f5b2928ac57777d1b3e4bf49061b460a94bd5698c3bd64358",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/clip_art/clip19.gif": {
+  "bytes": 2433,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:52Z",
+  "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
+  "path": "data/snapshot/pirates/clip_art/clip19.gif",
+  "sha256": "e35db3e24f4db24e13d1667eceb1075b45dd8be84a62f46d9d2ddacb5e039338",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/dance_arr/pp_galop.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/dance_arr/pp_lancers.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/dance_arr/pp_polka.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/dance_arr/pp_quad.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/dance_arr/pp_waltz.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/definitive_pirates.doc.zip": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/definitive_pirates.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/discussion/1-1.html": {
+  "bytes": 19887,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:22Z",
+  "last_modified": "Mon, 20 Nov 2023 02:37:41 GMT",
+  "path": "data/snapshot/pirates/discussion/1-1.html",
+  "sha256": "9353ebfc0c544fb7ee1bb6cdc5739566251796103dad6f6c726789d19b95c43e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/1-2.html": {
+  "bytes": 16303,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:27Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:05 GMT",
+  "path": "data/snapshot/pirates/discussion/1-2.html",
+  "sha256": "34265bcd874b0c2b8b89dc1b3668d2fc983a5a4ef65b70a587cbdfd84289bdc4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/1-3.html": {
+  "bytes": 13137,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:32Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:48 GMT",
+  "path": "data/snapshot/pirates/discussion/1-3.html",
+  "sha256": "ee5cdc8d7618fb1f2dda4b395ed517d79d8247159716ad54cc0fb0b624171dda",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/1-4.html": {
+  "bytes": 21522,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:36Z",
+  "last_modified": "Mon, 20 Nov 2023 02:37:44 GMT",
+  "path": "data/snapshot/pirates/discussion/1-4.html",
+  "sha256": "b90cf8e7cd450c2fb557800e08ee06a529a2408544962c616937405fa7c49780",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/1-5.html": {
+  "bytes": 10635,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:41Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:01 GMT",
+  "path": "data/snapshot/pirates/discussion/1-5.html",
+  "sha256": "6237e60d8126f6881178454f2a1421aa2fb249fccfc4d897d94aa728cf527b0e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/1-6.html": {
+  "bytes": 8772,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:46Z",
+  "last_modified": "Mon, 20 Nov 2023 02:37:39 GMT",
+  "path": "data/snapshot/pirates/discussion/1-6.html",
+  "sha256": "c8009748430549f8a63435b9526bf5a6f8b7df3f277c1545dd857beacccc12f2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/1-7.html": {
+  "bytes": 13631,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:50Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:53 GMT",
+  "path": "data/snapshot/pirates/discussion/1-7.html",
+  "sha256": "174c118e28f5b4c9b746ce71fe87610dbf789d944872c132a5c3f9d2f551c842",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/2.html": {
+  "bytes": 26151,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:55Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:49 GMT",
+  "path": "data/snapshot/pirates/discussion/2.html",
+  "sha256": "4fe19835e20e38369b38d9e67fb8895c7ae90b799b5d794a9e81134352eea5c6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/3-1.html": {
+  "bytes": 17614,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:00Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:00 GMT",
+  "path": "data/snapshot/pirates/discussion/3-1.html",
+  "sha256": "a955d2aa350ae01c58177857d2460c27bb5c996bb5441b45be29bd48c4fc21ef",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/3-2.html": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/discussion/3-3.html": {
+  "bytes": 15938,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:09Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:07 GMT",
+  "path": "data/snapshot/pirates/discussion/3-3.html",
+  "sha256": "2e9b2e35c52a1237da7c8d474269b025ea70887953bbf6353772bd24e4f35b2c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/3-4.html": {
+  "bytes": 9419,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:15Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:50 GMT",
+  "path": "data/snapshot/pirates/discussion/3-4.html",
+  "sha256": "49a42f00102a099c7719239788970c173111bfdbc5931c6ee2e28cc5a36caa5c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/3-5.html": {
+  "bytes": 11415,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:21Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:05 GMT",
+  "path": "data/snapshot/pirates/discussion/3-5.html",
+  "sha256": "6c0ece66d5102327907ed8e26437bb9c509f07e2fed5a94b78b72b491b377bd7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/4.html": {
+  "bytes": 24007,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:26Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:54 GMT",
+  "path": "data/snapshot/pirates/discussion/4.html",
+  "sha256": "48b5a7b8398894f04872ec299707dd0328b3c1394023f0865b56190637aa542b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/5-1.html": {
+  "bytes": 9267,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:31Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:51 GMT",
+  "path": "data/snapshot/pirates/discussion/5-1.html",
+  "sha256": "924eaa0fe2b3e61e0d2b486767a23d9ad6fd351d23a5f660d22bebc3f306a4ca",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/5-2.html": {
+  "bytes": 6095,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:35Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:03 GMT",
+  "path": "data/snapshot/pirates/discussion/5-2.html",
+  "sha256": "9dab4b596a2cdb28d71c7c959bf0b1d55f8ddfa3b7e6812fd77b6ba2de941238",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/6.html": {
+  "bytes": 9401,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:39Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:06 GMT",
+  "path": "data/snapshot/pirates/discussion/6.html",
+  "sha256": "b0b18f66c4b6252a60a2710029118976ae855041ea00e841ac91409921298e9d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/7.html": {
+  "bytes": 3811,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:45Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:56 GMT",
+  "path": "data/snapshot/pirates/discussion/7.html",
+  "sha256": "0c589942e1228a9c6482e00c366cabe8223df41b5795aa8d5f319d1eb0c6c5fa",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/8.html": {
+  "bytes": 7615,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:50Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:53 GMT",
+  "path": "data/snapshot/pirates/discussion/8.html",
+  "sha256": "6d4744d610e0c96cce066c1a339bff6086ff2846379e77431e1fc5f7df941cf0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/9.html": {
+  "bytes": 19195,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:54Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:52 GMT",
+  "path": "data/snapshot/pirates/discussion/9.html",
+  "sha256": "2dbc34b9f0aecfd1451621d707f74f5421941381cccaa8aa58157ba474c23e8f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/appn1.html": {
+  "bytes": 2454,
+  "etag": null,
+  "fetched": "2026-07-24T12:18:58Z",
+  "last_modified": "Mon, 07 Nov 2022 03:40:02 GMT",
+  "path": "data/snapshot/pirates/discussion/appn1.html",
+  "sha256": "763bbaab4758f9017312d5d983725472735cf5c42ac5318ed7905d23703484ca",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/appn2.html": {
+  "bytes": 3869,
+  "etag": null,
+  "fetched": "2026-07-24T12:19:04Z",
+  "last_modified": "Mon, 07 Nov 2022 03:39:55 GMT",
+  "path": "data/snapshot/pirates/discussion/appn2.html",
+  "sha256": "be935a190c2bf4fb878dc463413ca6631f5bf0f3853560e41687dd22a629b1e7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/discussion/discuss_home.html": {
+  "bytes": 13976,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:27Z",
+  "last_modified": "Mon, 20 Nov 2023 02:37:40 GMT",
+  "path": "data/snapshot/pirates/discussion/discuss_home.html",
+  "sha256": "7c095bab737215860eed0ff56f645c1b62e7b9ee81f1ddd368a7e0e59a68e0f9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/away.html": {
+  "bytes": 1925,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:33Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:04 GMT",
+  "path": "data/snapshot/pirates/flint/away.html",
+  "sha256": "d8f572d9540ee61f806100111fb99359fa838c7310bacee852728f2aa8213e3d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/away.jpg": {
+  "bytes": 23712,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:39Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:22 GMT",
+  "path": "data/snapshot/pirates/flint/away.jpg",
+  "sha256": "79fc43dbe9b3623f4db3dfa090c6297431aabc4c12ed557703bbccff0f4b5b04",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/away_t.jpg": {
+  "bytes": 9320,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:26Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:22 GMT",
+  "path": "data/snapshot/pirates/flint/away_t.jpg",
+  "sha256": "5fe8a46a0cd77e5332d6bd635e722816cf7a569b873d1df0c292d55431c79c25",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/cat-like_tread.html": {
+  "bytes": 1958,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:53Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:06 GMT",
+  "path": "data/snapshot/pirates/flint/cat-like_tread.html",
+  "sha256": "ae775842213f7f4b0171ae05081fb14ebe7dab598f92de95eafb28bc9a98e5a8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/cat-like_tread.jpg": {
+  "bytes": 28867,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:58Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:23 GMT",
+  "path": "data/snapshot/pirates/flint/cat-like_tread.jpg",
+  "sha256": "d1056c80bfa8977c3349d255ee2d0647815b7249c4420748f43b4bd63ba2144a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/cat-like_tread_t.jpg": {
+  "bytes": 4788,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:36Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:23 GMT",
+  "path": "data/snapshot/pirates/flint/cat-like_tread_t.jpg",
+  "sha256": "fb9c8b309ef3c221207c17eb5c42a8cb3b4d815697113020b7007c73242bded5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/daughters_enter.html": {
+  "bytes": 1945,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:02Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:05 GMT",
+  "path": "data/snapshot/pirates/flint/daughters_enter.html",
+  "sha256": "32ee9a6ecc1102ba05cec897eb0fbd1a91292dbd1d95ad7d84aeaaec86b28682",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/daughters_enter.jpg": {
+  "bytes": 29100,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:08Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:25 GMT",
+  "path": "data/snapshot/pirates/flint/daughters_enter.jpg",
+  "sha256": "3879751d7edcf452637b79d8fb87a04645789f8f675bb2c57cca475a9487d41e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/daughters_enter_t.jpg": {
+  "bytes": 5238,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:40Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:25 GMT",
+  "path": "data/snapshot/pirates/flint/daughters_enter_t.jpg",
+  "sha256": "ebade12bd3dce862c7a075ff942a5312a3f6b0a6b5a05fa84c9b5cfab094f9d6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/gallery_index.html": {
+  "bytes": 4190,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:06Z",
+  "last_modified": "Mon, 24 Oct 2022 11:09:28 GMT",
+  "path": "data/snapshot/pirates/flint/gallery_index.html",
+  "sha256": "24015f5d66cf3f989ac7fc6c01ccdc36b90763599e68c9c2de316ca2baacbb4d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/on_beach.html": {
+  "bytes": 1972,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:04Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:08 GMT",
+  "path": "data/snapshot/pirates/flint/on_beach.html",
+  "sha256": "8998a719fadb946c7739f1ab0aa8be49deb689b815800a3e7aa7292dd2b95a3a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/on_beach.jpg": {
+  "bytes": 19856,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:09Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:26 GMT",
+  "path": "data/snapshot/pirates/flint/on_beach.jpg",
+  "sha256": "b96cc400de87e508b6e2e8f2a95b1d29543fd598bc02513d75eb9a08439733a0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/on_beach_t.jpg": {
+  "bytes": 6372,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:10Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:26 GMT",
+  "path": "data/snapshot/pirates/flint/on_beach_t.jpg",
+  "sha256": "84fb97123420c398d7435e79fd2e2eceb275bbbd45c2f88fe72e07e4e9b5cfa8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/paddling.html": {
+  "bytes": 1923,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:13Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:07 GMT",
+  "path": "data/snapshot/pirates/flint/paddling.html",
+  "sha256": "8e2e839e35d993da2454ec4d268ce8a78ddd92161cf65aa1303bc6fb18ca2aa7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/paddling.jpg": {
+  "bytes": 21091,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:18Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:27 GMT",
+  "path": "data/snapshot/pirates/flint/paddling.jpg",
+  "sha256": "e3c95997d116d0e0cd6ce7d1d9bac47db13123b4c2483aeeec6367097d99cc32",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/paddling_t.jpg": {
+  "bytes": 7160,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:15Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:28 GMT",
+  "path": "data/snapshot/pirates/flint/paddling_t.jpg",
+  "sha256": "e6333263e82c68270ad00f0814a7a06b95526f9b66ffbbe185e726583b84b8cf",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/pirates_dance.html": {
+  "bytes": 1950,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:43Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:03 GMT",
+  "path": "data/snapshot/pirates/flint/pirates_dance.html",
+  "sha256": "c65014bb40cf0c81db2812d932b6720ca365dfddf0676ff592112b3250f7268f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/pirates_dance.jpg": {
+  "bytes": 25389,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:47Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:29 GMT",
+  "path": "data/snapshot/pirates/flint/pirates_dance.jpg",
+  "sha256": "1fe4bd3a151ab92a2a6286c752a587cd54519ffabf923ac3ac22134cede0c2bb",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/pirates_dance_t.jpg": {
+  "bytes": 5353,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:31Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:29 GMT",
+  "path": "data/snapshot/pirates/flint/pirates_dance_t.jpg",
+  "sha256": "9f60676737c368ed7fffe8af7498094063b84778b1252b451f7f3629cf35424d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/struggle_ensues.html": {
+  "bytes": 1960,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:12Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:09 GMT",
+  "path": "data/snapshot/pirates/flint/struggle_ensues.html",
+  "sha256": "4c68dfa76d25ef2b6e2b2d98e6c6a0ec74d113b54c679d68ffd1608a2e68548d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/struggle_ensues.jpg": {
+  "bytes": 23490,
+  "etag": null,
+  "fetched": "2026-07-24T12:17:17Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:29 GMT",
+  "path": "data/snapshot/pirates/flint/struggle_ensues.jpg",
+  "sha256": "a35d279a36cec9491b452bdd0c0d0ca53b2326d1eb3535db15edba07d27bbca4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/struggle_ensues_t.jpg": {
+  "bytes": 4063,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:44Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:30 GMT",
+  "path": "data/snapshot/pirates/flint/struggle_ensues_t.jpg",
+  "sha256": "be032a56f0ef56c9b49ce1594515defd8f1174f66bba3e40c7b4286a2269deac",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/too_late.html": {
+  "bytes": 1926,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:23Z",
+  "last_modified": "Sun, 15 Jan 2023 14:35:09 GMT",
+  "path": "data/snapshot/pirates/flint/too_late.html",
+  "sha256": "08f0d1e501c507eb9188ed477dab61fa33e45e8827a1a7dc609ea64f0921ade4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/too_late.jpg": {
+  "bytes": 24865,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:28Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:31 GMT",
+  "path": "data/snapshot/pirates/flint/too_late.jpg",
+  "sha256": "7da1e202534f8a3cc08930d132869e306d68f9cd4957690395d59ee95679ddcd",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/flint/too_late_t.jpg": {
+  "bytes": 4864,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:21Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:31 GMT",
+  "path": "data/snapshot/pirates/flint/too_late_t.jpg",
+  "sha256": "ab590ff12ad62721c2098fa4554aff01ac4e9cd21077106a0a72a778a5d42ccc",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/MGS.jpg": {
+  "bytes": 5615,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
+  "path": "data/snapshot/pirates/graphics/MGS.jpg",
+  "sha256": "f7209647ce81e86030bbf01ba57352d87e3e540db2fd5c231e9bc45b21239383",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/PK.jpg": {
+  "bytes": 6219,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:54Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
+  "path": "data/snapshot/pirates/graphics/PK.jpg",
+  "sha256": "e6c310802eef90407bff2dedaeae49a7e19de22f3a230a4623ab2a516885ac70",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/brace.gif": {
+  "bytes": 210,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:17Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:33 GMT",
+  "path": "data/snapshot/pirates/graphics/brace.gif",
+  "sha256": "7f81b2ca69bd16aa2ab24682e71bc8d3ca49dd5d24adc1221f794030c547233c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/casts.gif": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/graphics/doc.gif": {
+  "bytes": 6929,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:26Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:34 GMT",
+  "path": "data/snapshot/pirates/graphics/doc.gif",
+  "sha256": "52a2db89109bb6cb999848d3df5400adc3b9e761b6c1cb4bd439a77d5daa1ae5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/errata.gif": {
+  "bytes": 8871,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:39Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
+  "path": "data/snapshot/pirates/graphics/errata.gif",
+  "sha256": "8f8aa54bbd4388126f289fc5abc4a15463bb146194cd220a1bb273d6443021d9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/errata_1.gif": {
+  "bytes": 3687,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:44Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
+  "path": "data/snapshot/pirates/graphics/errata_1.gif",
+  "sha256": "6e1e10dcf945797a07e9882904ddd55589b2c2560c7203b4e76ef6aeb4e32e2a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/errata_2.gif": {
+  "bytes": 4177,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:49Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
+  "path": "data/snapshot/pirates/graphics/errata_2.gif",
+  "sha256": "2aff3e96dbfe1cc3ca8af9ec7bb4c7ed003deacf659b03334945b8acb64fc437",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/errata_3.gif": {
+  "bytes": 3011,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:53Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
+  "path": "data/snapshot/pirates/graphics/errata_3.gif",
+  "sha256": "c73f3981f7e9ebf41fc289887dc19d3483006ec8d3e996e3ac6ab46eb55921b3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/errata_4.gif": {
+  "bytes": 3849,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:58Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
+  "path": "data/snapshot/pirates/graphics/errata_4.gif",
+  "sha256": "7ce70bf2b38c8718baf0fb800a011322f901eaf15581d805bb1ca1634d9873c6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/gloss.gif": {
+  "bytes": 3377,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:08Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
+  "path": "data/snapshot/pirates/graphics/gloss.gif",
+  "sha256": "9046d7c5ad3298435a5e4689658f82808c26076c99ebb4f1cd4221daeb26569d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/intro.gif": {
+  "bytes": 4411,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:33Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
+  "path": "data/snapshot/pirates/graphics/intro.gif",
+  "sha256": "80690a9cafa1693458426e800bb34f12aa8fe209eeea14c28dcfd35cf22963d5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/pirate.jpg": {
+  "bytes": 13640,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:32Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
+  "path": "data/snapshot/pirates/graphics/pirate.jpg",
+  "sha256": "f12d307e818f9b2e14b2f60952dfc7685f0674e8e05fd328e606bb0092c27fbf",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/piratespenzanceb.jpg": {
+  "bytes": 14823,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
+  "path": "data/snapshot/pirates/graphics/piratespenzanceb.jpg",
+  "sha256": "85846f0fa7e88c9699be705236c373ed98bb0b4307bfa638d4d9ca0f5189cdbc",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/reviews.gif": {
+  "bytes": 6188,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:58Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
+  "path": "data/snapshot/pirates/graphics/reviews.gif",
+  "sha256": "e05417d8c2856cc4f6c6f63feb3ab7d280486523e1f2d52604dc6d39701c3992",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/schirmer_sc.jpg": {
+  "bytes": 2984,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:29Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:39 GMT",
+  "path": "data/snapshot/pirates/graphics/schirmer_sc.jpg",
+  "sha256": "0c36a5a4d95ada43228008d444fc95c36914d9117584567efbf04090d022dc07",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/scores.gif": {
+  "bytes": 5053,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:18Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:39 GMT",
+  "path": "data/snapshot/pirates/graphics/scores.gif",
+  "sha256": "d7f8d5108ca6d2b15b2bd0c61dc9870aaa303a786226457936cb50650b0f7ea3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/sm_title.jpg": {
+  "bytes": 10455,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:06Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:39 GMT",
+  "path": "data/snapshot/pirates/graphics/sm_title.jpg",
+  "sha256": "525c7e72bd1fe808dd81ef426d164c40864ea339387984e6c30d9ad872ac2641",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/temple_pk_sm.jpg": {
+  "bytes": 26000,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:33Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:41 GMT",
+  "path": "data/snapshot/pirates/graphics/temple_pk_sm.jpg",
+  "sha256": "66d96e8226dc9f7e7e70bf2ecd1e129c115c3a378f2fcb7b607f9a7d0e4a5bcf",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/title.jpg": {
+  "bytes": 30306,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:17Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:42 GMT",
+  "path": "data/snapshot/pirates/graphics/title.jpg",
+  "sha256": "b414d96994936cf5fc85b9e109f2785f049029d21ead41fd0cb305c451ec36c7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/title11.jpg": {
+  "bytes": 14492,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:19Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:42 GMT",
+  "path": "data/snapshot/pirates/graphics/title11.jpg",
+  "sha256": "70b256b4d651367df6086ee4a20a6251ccbd47598882580c44f692671a1a413d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/graphics/webop.gif": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/graphics/wostrip.gif": {
+  "bytes": 23390,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:51Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:43 GMT",
+  "path": "data/snapshot/pirates/graphics/wostrip.gif",
+  "sha256": "d85b1620111f8de672b6abea0fc6107b22de0e4cce94c4cd6277dec24ebad608",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/bond_intro.html": {
+  "bytes": 5943,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:46Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:59 GMT",
+  "path": "data/snapshot/pirates/html/bond_intro.html",
+  "sha256": "f490831093f3007c9046ab2fde052653187fcf577d30a59736e0c3cb13f660ba",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/casts.html": {
+  "bytes": 9822,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:03Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:55 GMT",
+  "path": "data/snapshot/pirates/html/casts.html",
+  "sha256": "d27fbf68d2655d20c290f0ffcd06c194738ac15a3cf3b35f63ac192b1ce28207",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/clip_art.html": {
+  "bytes": 6996,
+  "etag": null,
+  "fetched": "2026-07-24T12:00:32Z",
+  "last_modified": "Mon, 06 Feb 2023 02:58:01 GMT",
+  "path": "data/snapshot/pirates/html/clip_art.html",
+  "sha256": "916a146dead91630cdd21883493c589390b16b901687c311e3834d710764a341",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/comment.html": {
+  "bytes": 9787,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:51Z",
+  "last_modified": "Mon, 06 Feb 2023 02:58:00 GMT",
+  "path": "data/snapshot/pirates/html/comment.html",
+  "sha256": "9c07b79e40f55442378e231dd1e2f0765459069cf78aa49c8ae2031629fdc5b3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/index.html": {
+  "bytes": 17408,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:13Z",
+  "last_modified": "Mon, 11 May 2026 10:36:06 GMT",
+  "path": "data/snapshot/pirates/html/index.html",
+  "sha256": "b98ba63b17ce4f7f5fac9657da3820379ed62f453c24b1dec62e8ce4878fb2a3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/intro.html": {
+  "bytes": 13022,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:28Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:56 GMT",
+  "path": "data/snapshot/pirates/html/intro.html",
+  "sha256": "5069a4ba53306ea3eee1367a385e23bd460e1c775d3e0abbaf3da59f7e46bf22",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/notes.html": {
+  "bytes": 13670,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:03Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:56 GMT",
+  "path": "data/snapshot/pirates/html/notes.html",
+  "sha256": "c7f689a3c89dd51a128c49a6ce424df49cd8dcc0d460a2d31e5ec6c119f8a16c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/phil_rehearsal.html": {
+  "bytes": 13054,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:11Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:59 GMT",
+  "path": "data/snapshot/pirates/html/phil_rehearsal.html",
+  "sha256": "05e5ad4d06c91dbc20b81f4ed8ad2b62cf7c6ee56e9bd32785c5847c25e968b9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/pirates.css": {
+  "bytes": 2649,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:50Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:47 GMT",
+  "path": "data/snapshot/pirates/html/pirates.css",
+  "sha256": "d10bda46f109e3d6521a9f57b41be2faeb04cd5852eef2531a3e9c1b9cfdcfed",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/pirates_glos.html": {
+  "bytes": 10918,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:57Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:54 GMT",
+  "path": "data/snapshot/pirates/html/pirates_glos.html",
+  "sha256": "fe663748d9fd29218212f6e30bbdebce5eb48d67bc529addfff338fa14c2c5ba",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/pirates_schirmer_errata.html": {
+  "bytes": 14363,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:34Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:58 GMT",
+  "path": "data/snapshot/pirates/html/pirates_schirmer_errata.html",
+  "sha256": "a88e8dc9fc9f7e8d8bb054c28aedb9437f6dd15ed7a874f8105a66f96acd85d4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/pirates_scores.html": {
+  "bytes": 12363,
+  "etag": null,
+  "fetched": "2026-07-24T11:51:14Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:52 GMT",
+  "path": "data/snapshot/pirates/html/pirates_scores.html",
+  "sha256": "3faca330a03e4439699a9a1bf8ac4db6be466c55fe0e64934404d953f98a5424",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/html/plaque.html": {
+  "bytes": 2667,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:12Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:57 GMT",
+  "path": "data/snapshot/pirates/html/plaque.html",
+  "sha256": "812992b4008ab5b864d7efb4a968569c6f16bf9cdf85993c509ea4769b7507ff",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/covers.html": {
+  "bytes": 12634,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:13Z",
+  "last_modified": "Sat, 21 Jan 2023 01:32:00 GMT",
+  "path": "data/snapshot/pirates/illus_cov/covers.html",
+  "sha256": "25aff204764e1c6dcc6b73ff9b38c952483f51a90655eef2bb903016500037f0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/bullet.gif": {
+  "bytes": 307,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:27 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/bullet.gif",
+  "sha256": "204e22548fd9484b32922e6e3cb623ea2634e392218cead6ef3126b3d85a0ead",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/next.gif": {
+  "bytes": 1010,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:06Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:28 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/next.gif",
+  "sha256": "eea6210a153315cd68fa232464d390e81d73b93381b726b3b2b940f85fbc631b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/ppgalop_sm.jpg": {
+  "bytes": 25336,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:30Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:29 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/ppgalop_sm.jpg",
+  "sha256": "0246ece4ffaef85ce599b3718345b92dd760acb67bfc331b0a2426629f014919",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/pplance_sm.jpg": {
+  "bytes": 22015,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:34Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:30 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/pplance_sm.jpg",
+  "sha256": "f40ca34cdac2fc8be9b40a17b83379e477aafe87c62228801d2dcd7c481c1820",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/pppolka_sm.jpg": {
+  "bytes": 29656,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:38Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:33 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/pppolka_sm.jpg",
+  "sha256": "4dcda11d8beb2836c9151a9059e20c8f0fe8e4d5945a5086b35af292121de27b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/ppquad_sm.jpg": {
+  "bytes": 33706,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:43Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:36 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/ppquad_sm.jpg",
+  "sha256": "6800defe9bae4fbff4cddd0794b3a8bf7a6f8c398c7b6f6c5f77d49f779e80f5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/ppwaltz1_sm.jpg": {
+  "bytes": 16315,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:47Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:37 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/ppwaltz1_sm.jpg",
+  "sha256": "23495c323bcc3c492c9f44e3abc70a80bdeb19a87c176d59cda8e26b8c17b020",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/ppwaltz2_sm.jpg": {
+  "bytes": 17975,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:52Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:39 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/ppwaltz2_sm.jpg",
+  "sha256": "6c7592ceef84124e0b5f99165d54aa3fbfd87dd5cccec8c98b4c92612b7dd725",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/prev.gif": {
+  "bytes": 1168,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:56Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:39 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/prev.gif",
+  "sha256": "27521188b1a2ec69c0c0e2ef462f439b89707d48acb22de468a08fb184751ca2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/illus_cov/graphics/title.gif": {
+  "bytes": 3943,
+  "etag": null,
+  "fetched": "2026-07-24T12:02:25Z",
+  "last_modified": "Sat, 17 Sep 2016 19:35:39 GMT",
+  "path": "data/snapshot/pirates/illus_cov/graphics/title.gif",
+  "sha256": "80656d6bb0918d79fbe24ceb4141beed24b262a7dfdb06a11debfe90f7b35d96",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/1907poster.jpg": {
+  "bytes": 18819,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:52 GMT",
+  "path": "data/snapshot/pirates/images/1907poster.jpg",
+  "sha256": "74d74b682fa24d969e1cdc30edda4c9fb2a24ffd9c85d2cf216cfc48946b0167",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/1919act2_sm.jpg": {
+  "bytes": 15950,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:38Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:53 GMT",
+  "path": "data/snapshot/pirates/images/1919act2_sm.jpg",
+  "sha256": "060dfa3cee431a8c2c7ae8ff1dadc9c67392ddee9c40e07089b910a28b6962be",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/1919paradox_sm.jpg": {
+  "bytes": 21838,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:17Z",
+  "last_modified": "Sat, 17 Sep 2016 19:32:56 GMT",
+  "path": "data/snapshot/pirates/images/1919paradox_sm.jpg",
+  "sha256": "d0e2aa35c1c19068262ba050f781132a76c6658dbcfcdda7be69d09c821ba402",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26act1pardon_sm.jpg": {
+  "bytes": 17322,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:01 GMT",
+  "path": "data/snapshot/pirates/images/26act1pardon_sm.jpg",
+  "sha256": "e1ed70290eb42b097612e34ca0b8a6d11490c719df962cad2dfed9792e210576",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26act2fin_sm.jpg": {
+  "bytes": 17247,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:14Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:02 GMT",
+  "path": "data/snapshot/pirates/images/26act2fin_sm.jpg",
+  "sha256": "ed7f7b0f6236eb556d75f264c1d766d6526fa3d75919a8a65f219573854873a2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26falseone_sm.jpg": {
+  "bytes": 14214,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:17Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:03 GMT",
+  "path": "data/snapshot/pirates/images/26falseone_sm.jpg",
+  "sha256": "c4ea17d2262ac729c89e167eea6decae932dba6968c805ea12b22c95f5aed6b1",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26fin2_sm.jpg": {
+  "bytes": 15198,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:20Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:04 GMT",
+  "path": "data/snapshot/pirates/images/26fin2_sm.jpg",
+  "sha256": "c4aa6c55d3176c5b4bba421d32931c87148c6e8229901dafbb13e77d80c57952",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26king_sm.jpg": {
+  "bytes": 7900,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:05 GMT",
+  "path": "data/snapshot/pirates/images/26king_sm.jpg",
+  "sha256": "ad23ee41fdb0db5f18a41e18d4463f418d651fbb1d22ca1c5dfa844a804361be",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26noise_sm.jpg": {
+  "bytes": 12068,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:59Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:06 GMT",
+  "path": "data/snapshot/pirates/images/26noise_sm.jpg",
+  "sha256": "73be71b8d1160a00affdbd463b4bc44c293fbc71aa8ecc6f634f5a443376f48f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/26pine_sm.jpg": {
+  "bytes": 5911,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:53Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:07 GMT",
+  "path": "data/snapshot/pirates/images/26pine_sm.jpg",
+  "sha256": "e596f51c620a6e6a91ec0925cbdbe0c5b9940b41d95fbee753026c1602590568",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/33glory_sm.jpg": {
+  "bytes": 11236,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:23Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:13 GMT",
+  "path": "data/snapshot/pirates/images/33glory_sm.jpg",
+  "sha256": "54ce8d85fd5b95defd86bb981b1345d0eb271e377bd5b64df9cd62fdc467c7ca",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/33stay_sm.jpg": {
+  "bytes": 10168,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:58Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:15 GMT",
+  "path": "data/snapshot/pirates/images/33stay_sm.jpg",
+  "sha256": "e48fe8fc097e4ff88c91acbfd75e2dfd12b9818cb535c1b2d00f5cf03b52d2c7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/33wandering_sm.jpg": {
+  "bytes": 13332,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:06Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:15 GMT",
+  "path": "data/snapshot/pirates/images/33wandering_sm.jpg",
+  "sha256": "510c4f90c260baf8c96cb25b23bd99b7af219a82c8bbfcd82614d217a9ab925e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/39gen1_sm.jpg": {
+  "bytes": 12975,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:38Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:17 GMT",
+  "path": "data/snapshot/pirates/images/39gen1_sm.jpg",
+  "sha256": "6ffa5801fda7c75b057e8bd353faf57a54c957b91dab106e4d71f79a320370c7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/39kingkate1_sm.jpg": {
+  "bytes": 12558,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:25Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:20 GMT",
+  "path": "data/snapshot/pirates/images/39kingkate1_sm.jpg",
+  "sha256": "efb45dd5fb0257d4140541ab534adf3e81203a32ee5bebdd0946888efba06674",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/39mabel1_sm.jpg": {
+  "bytes": 10307,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:12Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:20 GMT",
+  "path": "data/snapshot/pirates/images/39mabel1_sm.jpg",
+  "sha256": "75f7397f2956fdeba2045b8445e4cc9dad57193d847118ad62bafdef143add24",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/39pirates_sm.jpg": {
+  "bytes": 17799,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:17Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:21 GMT",
+  "path": "data/snapshot/pirates/images/39pirates_sm.jpg",
+  "sha256": "5fb92795465423a29d2c0969d551555c445523ba6cccde4c367ef9d8037ecee2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/50fred_sm.jpg": {
+  "bytes": 9961,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:12Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:23 GMT",
+  "path": "data/snapshot/pirates/images/50fred_sm.jpg",
+  "sha256": "c31ee7a000f08b6070bc579d1470b489e8145409a1b9935d808e7144b449217b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/50gen2_sm.jpg": {
+  "bytes": 10547,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:04Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:24 GMT",
+  "path": "data/snapshot/pirates/images/50gen2_sm.jpg",
+  "sha256": "756dd8bb610b063d37dc78f82845fbc3726ea96afaba1ca44b708db7b17a8d03",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/50king_sm.jpg": {
+  "bytes": 8861,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:24 GMT",
+  "path": "data/snapshot/pirates/images/50king_sm.jpg",
+  "sha256": "a55d95a6acb5df2cd22ee93dd3ce5f995e0b99629d977e912e66617f560f13bd",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/50ruth_sm.jpg": {
+  "bytes": 12346,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:26 GMT",
+  "path": "data/snapshot/pirates/images/50ruth_sm.jpg",
+  "sha256": "dc03c67a339a1d8da0698937e70e4d1cbd2f38671c92b0aacf33498fd05d06e7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/61girls2_sm.jpg": {
+  "bytes": 20351,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:10Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:32 GMT",
+  "path": "data/snapshot/pirates/images/61girls2_sm.jpg",
+  "sha256": "dbc3571f1fadb14940c92aea8867d486fe54e20cae7b92484b815bd732430c4b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/act22_sm.jpg": {
+  "bytes": 37538,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:54Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:39 GMT",
+  "path": "data/snapshot/pirates/images/act22_sm.jpg",
+  "sha256": "8aa1e4018eb8c1fb6e28c670672884b1eb626caadf850c4f4ad5b06aa91750f1",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/bldg.jpg": {
+  "bytes": 189784,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:16Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:46 GMT",
+  "path": "data/snapshot/pirates/images/bldg.jpg",
+  "sha256": "382304d28b7c571d7ca4162f5c221d92b23a5678e0f61fb6a251b01134c12184",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/fred_round_sm.jpg": {
+  "bytes": 17035,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:53Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:47 GMT",
+  "path": "data/snapshot/pirates/images/fred_round_sm.jpg",
+  "sha256": "3613812c16516cf95d999329c7797dfc4fb93d4203a9930040e11958aa5d8fa6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/king2_sm.jpg": {
+  "bytes": 14675,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:28Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:49 GMT",
+  "path": "data/snapshot/pirates/images/king2_sm.jpg",
+  "sha256": "0c19ad04a24ba7d4a12dc21e4dca02067d0718fd30518c3e932f04436ea2939c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/lytton_sm.jpg": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/images/masterson_sm.jpg": {
+  "bytes": 14537,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:57Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:53 GMT",
+  "path": "data/snapshot/pirates/images/masterson_sm.jpg",
+  "sha256": "c6ad918d481342b738396c93d199adfd3db320e95d5d3d5f38cea1e481550520",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/morgan-sm.jpg": {
+  "bytes": 8144,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:00Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:53 GMT",
+  "path": "data/snapshot/pirates/images/morgan-sm.jpg",
+  "sha256": "fee79624c2df87ab5bf2305d5d39ccd67925c9f1ff25300794cb6c1f617df47a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/ov01.jpg": {
+  "bytes": 47293,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:33:58 GMT",
+  "path": "data/snapshot/pirates/images/ov01.jpg",
+  "sha256": "067bcc7290f439a0ee660f4035ae1d4d6ddb9e1e0c427ab0e4989a6c41dda1eb",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/over_sm.jpg": {
+  "bytes": 13378,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:04 GMT",
+  "path": "data/snapshot/pirates/images/over_sm.jpg",
+  "sha256": "7289bb1b84a5cc7f9249e84de0a1df1bd2cecbd4df08b1bc1baa8b1f87fcc334",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/pir_pol_sm.jpg": {
+  "bytes": 12109,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:47Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:06 GMT",
+  "path": "data/snapshot/pirates/images/pir_pol_sm.jpg",
+  "sha256": "f7690d1360b705743a38cf7905bcf9dec9b63f6c347ddd8a2017ddb5683d28fd",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/plaque.jpg": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/images/pratt_sm.jpg": {
+  "bytes": 8997,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:13Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:08 GMT",
+  "path": "data/snapshot/pirates/images/pratt_sm.jpg",
+  "sha256": "acce698db3559ce7ec63483c5db925840ee6cc0baff74e7a1386b442724eb58f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sgt_passmore_sm.jpg": {
+  "bytes": 12347,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:32Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:16 GMT",
+  "path": "data/snapshot/pirates/images/sgt_passmore_sm.jpg",
+  "sha256": "ac25cdb4d7c03bea060175b4cac89d0db78fae688477e819bc5525a8a77526a4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sgt_sheffield_sm.jpg": {
+  "bytes": 7996,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:37Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:17 GMT",
+  "path": "data/snapshot/pirates/images/sgt_sheffield_sm.jpg",
+  "sha256": "9d2fce8bc4e54d0317400a2331a8171bce014cbee3833ba70e8d8906179cb79f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_19801.jpg": {
+  "bytes": 16971,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:06Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:18 GMT",
+  "path": "data/snapshot/pirates/images/sm_19801.jpg",
+  "sha256": "2c17306ed62f071c0df2ddcfe494d0e7b6eb1d0134d5f0db7854a9d49a16add4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_19802.jpg": {
+  "bytes": 15705,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:30Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:18 GMT",
+  "path": "data/snapshot/pirates/images/sm_19802.jpg",
+  "sha256": "78e8c8089c737a61e6bb005ad248b93e8a48d023c9445b531d3b7021b177c390",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_19803.jpg": {
+  "bytes": 9346,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:54Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:19 GMT",
+  "path": "data/snapshot/pirates/images/sm_19803.jpg",
+  "sha256": "3ccd023ba761df2c4a037e8bc5ecaf3c7a510a056efbc0f8ab5f67322139f9a3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_5ave.gif": {
+  "bytes": 11966,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:18Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:19 GMT",
+  "path": "data/snapshot/pirates/images/sm_5ave.gif",
+  "sha256": "e869356706eb6597965268b8befa8e2ae0e56750bd5bd52ed91355b9b513213a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_act1.jpg": {
+  "bytes": 30708,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:28Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:20 GMT",
+  "path": "data/snapshot/pirates/images/sm_act1.jpg",
+  "sha256": "d5878dc88c93e47ea39e45b980280e5ca7e320535d3600f242c8d3adee446a4e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_act2set.jpg": {
+  "bytes": 18343,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:41Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:21 GMT",
+  "path": "data/snapshot/pirates/images/sm_act2set.jpg",
+  "sha256": "e584afbf024f034c1acfe8f041192a8d848acfa55566ec232a364068bb5ef8c2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_fred_power.jpg": {
+  "bytes": 18687,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:47Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:22 GMT",
+  "path": "data/snapshot/pirates/images/sm_fred_power.jpg",
+  "sha256": "7f7c7b54d0d2881c78c99817ab42ac4b1f22aa6ac81bb468ebab35badc751077",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_fredmab_haygriffin.jpg": {
+  "bytes": 13308,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:49Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:22 GMT",
+  "path": "data/snapshot/pirates/images/sm_fredmab_haygriffin.jpg",
+  "sha256": "460b56dd9e24de941fb635c7817069879860ef638021bb480c34fd24bc0ce6c9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_king_hewson.jpg": {
+  "bytes": 13846,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:19Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:22 GMT",
+  "path": "data/snapshot/pirates/images/sm_king_hewson.jpg",
+  "sha256": "9384637793d9cc42714423f37b016edb597bed72f4c06328f083db8ba7522dd3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_king_temple.jpg": {
+  "bytes": 14499,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:56Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:23 GMT",
+  "path": "data/snapshot/pirates/images/sm_king_temple.jpg",
+  "sha256": "b1c7fa0cff05235091b76de6ff8d96adac5248dab71773591f75e50ca6ee9af2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_mab_hood1.jpg": {
+  "bytes": 16755,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:08Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:24 GMT",
+  "path": "data/snapshot/pirates/images/sm_mab_hood1.jpg",
+  "sha256": "e82799234834957fbe51b88e4d743ccda882a07c4c5a5ae0089e88bb9393e61a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_opcomprog.gif": {
+  "bytes": 15884,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:23Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:24 GMT",
+  "path": "data/snapshot/pirates/images/sm_opcomprog.gif",
+  "sha256": "1bdb1dd04b64b66dc90496a042f07d6d1a137cfd847764b71bbddf7b20fa6edf",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_painpost.gif": {
+  "bytes": 11337,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:13Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:25 GMT",
+  "path": "data/snapshot/pirates/images/sm_painpost.gif",
+  "sha256": "b03586236842484b12a05effd4ad3d49e9191850e3f134b2d87e871369cd2b6d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_ruth_barnett.jpg": {
+  "bytes": 9304,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:28Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:26 GMT",
+  "path": "data/snapshot/pirates/images/sm_ruth_barnett.jpg",
+  "sha256": "ed29c3d4f5b93894c9d2e8188948e3dac9369c7b5e41de99bd7c1225e0fd3ed6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_ruth_brandram.jpg": {
+  "bytes": 9782,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:34Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:26 GMT",
+  "path": "data/snapshot/pirates/images/sm_ruth_brandram.jpg",
+  "sha256": "232c0f18338956efc2dc7642a56de0b64d874beb8d6661909f1c92b67514aa07",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_sam_gtemple.jpg": {
+  "bytes": 16757,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:10Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:27 GMT",
+  "path": "data/snapshot/pirates/images/sm_sam_gtemple.jpg",
+  "sha256": "885265460506bc11022bc190717d08a220af68068dfa9ade42ce7ad1dfcb40e8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/sm_sgt_barrington2.jpg": {
+  "bytes": 16170,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:14Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:28 GMT",
+  "path": "data/snapshot/pirates/images/sm_sgt_barrington2.jpg",
+  "sha256": "a60382f2d626a6e39d0a2348598dce7c6e9ba2b40ce7c1a68d8c8511b902fe99",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/smquad.jpg": {
+  "bytes": 21299,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:37Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:18 GMT",
+  "path": "data/snapshot/pirates/images/smquad.jpg",
+  "sha256": "f6ce5305fbed8eacf268a13772ee372b253c1837b60f05d9b98b527723aeae4d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_1919act2.jpg": {
+  "bytes": 4383,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:10Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:30 GMT",
+  "path": "data/snapshot/pirates/images/tn_1919act2.jpg",
+  "sha256": "843fa26c924a920496f2f83aad8dd6e6a727aa7583f2d2a86cd35dfba4ca1e65",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_1919daughters.jpg": {
+  "bytes": 3555,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:05Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
+  "path": "data/snapshot/pirates/images/tn_1919daughters.jpg",
+  "sha256": "6e73aae3ff56682064f344e7e164e28ef44d6418e11d19654868886d10fb734d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_1919paradox.jpg": {
+  "bytes": 3419,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:14Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
+  "path": "data/snapshot/pirates/images/tn_1919paradox.jpg",
+  "sha256": "b597c60740b94ef6893012568a663ea9a6ac87bc6b1161d96a1286ea4b55034a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_1919ruthsgt.jpg": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/images/tn_1919stay.jpg": {
+  "bytes": 4142,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:19Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
+  "path": "data/snapshot/pirates/images/tn_1919stay.jpg",
+  "sha256": "7c712a7ccf39b410f9ab1327d3a2a57646478e504d9a1c4962b02766ef094e49",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_19801.jpg": {
+  "bytes": 4916,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:51Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:32 GMT",
+  "path": "data/snapshot/pirates/images/tn_19801.jpg",
+  "sha256": "0c85e7619cb28c97d7dbd461debfcb232caa8ed9fd9eb1b7aa70f48b140c4e88",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_19802.jpg": {
+  "bytes": 4718,
+  "etag": null,
+  "fetched": "2026-07-24T11:59:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:32 GMT",
+  "path": "data/snapshot/pirates/images/tn_19802.jpg",
+  "sha256": "060ab2c71c4f70df7b35aeb8ed239fd769c904d261b9a8b2bbb24dfa15395150",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_19803.jpg": {
+  "bytes": 3563,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:56Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:32 GMT",
+  "path": "data/snapshot/pirates/images/tn_19803.jpg",
+  "sha256": "177d5fa10a0b41d23f70bdee0d6e58eb567d66808c8dc648f3c4a96d6800f8be",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26act1pardon.jpg": {
+  "bytes": 4661,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:48Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
+  "path": "data/snapshot/pirates/images/tn_26act1pardon.jpg",
+  "sha256": "47fe421a8079a984617c3f289c1ef5756188d91c814b041e34015ddeceaaf62f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26act2fin.jpg": {
+  "bytes": 5165,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:12Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
+  "path": "data/snapshot/pirates/images/tn_26act2fin.jpg",
+  "sha256": "e9a0169c3b16106988440b3a145cfde06c9ff2071b52f668b936b44676c27ca4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26falseone.jpg": {
+  "bytes": 4275,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:53Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
+  "path": "data/snapshot/pirates/images/tn_26falseone.jpg",
+  "sha256": "34dfe92b13267f521cf0ba3139238f1eaf3e354af9358c80839d9c20244075c0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26fin2.jpg": {
+  "bytes": 3660,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:16Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
+  "path": "data/snapshot/pirates/images/tn_26fin2.jpg",
+  "sha256": "abdab9a4acebeaf30caa70fe3c014533c189024e3fa375380918443a1baab370",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26king.jpg": {
+  "bytes": 2638,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:43Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
+  "path": "data/snapshot/pirates/images/tn_26king.jpg",
+  "sha256": "a3898313b7194361886a1ceedb6580a8281fef546840484d19ea5f46251e8c8c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26noise.jpg": {
+  "bytes": 3055,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:07Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
+  "path": "data/snapshot/pirates/images/tn_26noise.jpg",
+  "sha256": "66f4d951f6dff9dbf270819a4d271dfd0b521d6a567da6217c1a82a1465264ec",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26pine.jpg": {
+  "bytes": 2345,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:03Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
+  "path": "data/snapshot/pirates/images/tn_26pine.jpg",
+  "sha256": "1afb7f2e76860554b99709fa9be3dcbeda1fda82e2c2f6924cec4de2fdf080da",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26pour.jpg": {
+  "bytes": 4306,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:38Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
+  "path": "data/snapshot/pirates/images/tn_26pour.jpg",
+  "sha256": "6285939de78531808d059945d6f176e85cd6c0c169b8ed89014b2c509b3d03d4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_26wandering.jpg": {
+  "bytes": 4150,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:57Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:35 GMT",
+  "path": "data/snapshot/pirates/images/tn_26wandering.jpg",
+  "sha256": "84fa0a48daa6b55fd4d69959b73be1eafa2b7e20451a77a03b3bb14534f89ea7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_29paradox.jpg": {
+  "bytes": 2435,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:01Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:35 GMT",
+  "path": "data/snapshot/pirates/images/tn_29paradox.jpg",
+  "sha256": "b9e3c0290d20385e6546491e38001a8f8f1e97187dc229c00370d1f5553f029c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_33disappear.jpg": {
+  "bytes": 3641,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:35 GMT",
+  "path": "data/snapshot/pirates/images/tn_33disappear.jpg",
+  "sha256": "f5ba87718cdab749485007fe0a21fa8f7265687e7d9c8a05821656f7836e6b2f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_33fredmab.jpg": {
+  "bytes": 2499,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:36 GMT",
+  "path": "data/snapshot/pirates/images/tn_33fredmab.jpg",
+  "sha256": "fe4a8ca8f513a63e7987e2b41b15f163cb5292e78e1a49f21a998a9b1e33a47a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_33glory.jpg": {
+  "bytes": 3908,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:56Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:36 GMT",
+  "path": "data/snapshot/pirates/images/tn_33glory.jpg",
+  "sha256": "d67d2249f82302de1f77027f5eefd941b7142654d2a2fd1845b70af8b3a5d29d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_33sgt.jpg": {
+  "bytes": 1927,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:11Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:36 GMT",
+  "path": "data/snapshot/pirates/images/tn_33sgt.jpg",
+  "sha256": "c7630a27339e0318d3babf844865d463695a6ce56311ced2803d40502c3ebeec",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_33stay.jpg": {
+  "bytes": 3289,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:05Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
+  "path": "data/snapshot/pirates/images/tn_33stay.jpg",
+  "sha256": "f3101a15ad4341c034b7fcdc038530662297cf124c22338629014c619302ff32",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_33wandering.jpg": {
+  "bytes": 3727,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:36Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
+  "path": "data/snapshot/pirates/images/tn_33wandering.jpg",
+  "sha256": "fce9a592cd487a13b2e3e5c9f973a601c6ff671a6283e4d0e688effc5962bada",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_39fred1.jpg": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/images/tn_39gen1.jpg": {
+  "bytes": 4525,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
+  "path": "data/snapshot/pirates/images/tn_39gen1.jpg",
+  "sha256": "04bf2808c8692b95b08f2ad6065c6e27268d1e9ca4199afa890f778f245f5310",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_39girls1.jpg": {
+  "bytes": 4780,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:20Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
+  "path": "data/snapshot/pirates/images/tn_39girls1.jpg",
+  "sha256": "a4a8a60fc1170decdd6d876ea4b42012976f5673321202ae1aecd6b6f6e5890f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_39kingkate1.jpg": {
+  "bytes": 4510,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:36Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
+  "path": "data/snapshot/pirates/images/tn_39kingkate1.jpg",
+  "sha256": "24fd0fc85a98fa5626c009a95ad2eb08aebab8a657df83b948af9f576915d9da",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_39mabel1.jpg": {
+  "bytes": 4373,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:26Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
+  "path": "data/snapshot/pirates/images/tn_39mabel1.jpg",
+  "sha256": "e3ce013efee6cedc96fe26e4bb7ecd84586e5909c4cbe7c77c764fc8b60cb8da",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_39pirates.jpg": {
+  "bytes": 4444,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:16Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
+  "path": "data/snapshot/pirates/images/tn_39pirates.jpg",
+  "sha256": "6fad48e5e2e67918a6f139f8afa36689f282ffd79325ff2c542ffc96ba536d1c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_39sgt.jpg": {
+  "bytes": 3919,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:39 GMT",
+  "path": "data/snapshot/pirates/images/tn_39sgt.jpg",
+  "sha256": "637d22f610017820080826a610fb1eb8e8b18ce7839ca175d0972abc6fe30e9b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_50fred.jpg": {
+  "bytes": 3448,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:10Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:39 GMT",
+  "path": "data/snapshot/pirates/images/tn_50fred.jpg",
+  "sha256": "068fbc8d41504a5137c74fe91ec8d790d39b0810a8a6f64406cef5cb74101914",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_50gen2.jpg": {
+  "bytes": 3873,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:19Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:39 GMT",
+  "path": "data/snapshot/pirates/images/tn_50gen2.jpg",
+  "sha256": "dca00837a9a5a9854067c051494c6301377a03a01bce3f10310ae069cd29306a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_50mabel.jpg": {
+  "bytes": 3890,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:56Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
+  "path": "data/snapshot/pirates/images/tn_50mabel.jpg",
+  "sha256": "844bd35da617f9d669e68b7b45abfb63031d769c3e89ec578f9f3c5e13110621",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_50ruth.jpg": {
+  "bytes": 3945,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:01Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
+  "path": "data/snapshot/pirates/images/tn_50ruth.jpg",
+  "sha256": "5c894e39e41ce759e197230b2dd6ecce788efbda76b7ff95b99a916229c794ba",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_61charge.jpg": {
+  "bytes": 4256,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:43Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
+  "path": "data/snapshot/pirates/images/tn_61charge.jpg",
+  "sha256": "8318cf8484d38469ec2807eb57639c3e231df65c27e248a86298b8b4cb22619a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_61fred_mab2.jpg": {
+  "bytes": 4561,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:29Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
+  "path": "data/snapshot/pirates/images/tn_61fred_mab2.jpg",
+  "sha256": "8522366bdac888634f6fb6418ec53d1c53e57478430502229e283efc9df15930",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_61gen1.jpg": {
+  "bytes": 4917,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:33Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:41 GMT",
+  "path": "data/snapshot/pirates/images/tn_61gen1.jpg",
+  "sha256": "5eebacb577669f1a93f86c1269594368aaba3ee061bf78971b8b8bab185b0114",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_61girls2.jpg": {
+  "bytes": 5392,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:47Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:41 GMT",
+  "path": "data/snapshot/pirates/images/tn_61girls2.jpg",
+  "sha256": "61757fca70f450d4a02d8b0780493086dccc372c23aab0bdd238c5f9dd9927e0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_61police.jpg": {
+  "bytes": 4161,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:38Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:41 GMT",
+  "path": "data/snapshot/pirates/images/tn_61police.jpg",
+  "sha256": "22c3dfee34d1f714d49c0247e8d6dadf4f1d7a31b191db306d3ef816b0ce8a91",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_act1.jpg": {
+  "bytes": 5277,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:06Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
+  "path": "data/snapshot/pirates/images/tn_act1.jpg",
+  "sha256": "b866be3ecd70efb58a6eaa314428626d82e995290872516e8ce44bba5e257cf3",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_act2.jpg": {
+  "bytes": 4691,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:11Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
+  "path": "data/snapshot/pirates/images/tn_act2.jpg",
+  "sha256": "90585dd7f8d78fb71f6de919cf5eb740d9e9c3d218a3b4b499f85f2bd3345fe7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_act21.jpg": {
+  "bytes": 5589,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:35Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
+  "path": "data/snapshot/pirates/images/tn_act21.jpg",
+  "sha256": "89c380c96e6b32b9502dc3fc6362ba4f64e1f293d7efb01f5db63339bbe12e58",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_act22.jpg": {
+  "bytes": 5217,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:40Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
+  "path": "data/snapshot/pirates/images/tn_act22.jpg",
+  "sha256": "5676836f5f0bbe914446a94581888bc195941eb227c6a274779d9b85135cf55c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_act23.jpg": {
+  "bytes": 4733,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
+  "path": "data/snapshot/pirates/images/tn_act23.jpg",
+  "sha256": "6bf565c324aef67c5949aa7b9feea19cbc4e1663dc9b76d89adce53ed6fc1fe7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_act2set.jpg": {
+  "bytes": 3289,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:33Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
+  "path": "data/snapshot/pirates/images/tn_act2set.jpg",
+  "sha256": "5b4067a15b4abd9cdd2c1e81894ec5b882dee5d2aaaa3c3fbdfdeafb41d2de39",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_fred.jpg": {
+  "bytes": 4241,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:22Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
+  "path": "data/snapshot/pirates/images/tn_fred.jpg",
+  "sha256": "8a9c650a21a184f9a5887d6e616c67861707fc171578eaf7027d860e79b7438d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_fred_power.jpg": {
+  "bytes": 4281,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:32Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
+  "path": "data/snapshot/pirates/images/tn_fred_power.jpg",
+  "sha256": "cd17e5027399a3ef0a2726b0cd5a64f7435ed6826e6dacc43a16e58623cc9e2f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_fred_round.jpg": {
+  "bytes": 3619,
+  "etag": null,
+  "fetched": "2026-07-24T11:57:52Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:44 GMT",
+  "path": "data/snapshot/pirates/images/tn_fred_round.jpg",
+  "sha256": "526dc8ad99b840b8fed7b8fd5536f84e6f31d046d672a26d054322e49cd64baa",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_kate_edith_isabel.jpg": {
+  "bytes": 4915,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:50Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:44 GMT",
+  "path": "data/snapshot/pirates/images/tn_kate_edith_isabel.jpg",
+  "sha256": "9817abec6c8dc473229bd0a0582e6d2e9308af77ec073f2063e2a74699991654",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_king_hewson.jpg": {
+  "bytes": 4245,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:21Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:44 GMT",
+  "path": "data/snapshot/pirates/images/tn_king_hewson.jpg",
+  "sha256": "09d2ec3d1c2e4aaee4f973ce61505dbc7e7121b37afe29185011af2fb0dd0252",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_king_temple.jpg": {
+  "bytes": 4453,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:36Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
+  "path": "data/snapshot/pirates/images/tn_king_temple.jpg",
+  "sha256": "d6076a16774afc1f8c21df0868fa5d5d22cdbc40bb2bdb0402a87eee5999c130",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_lytton.jpg": {
+  "bytes": 2642,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:55Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
+  "path": "data/snapshot/pirates/images/tn_lytton.jpg",
+  "sha256": "a3bfdbd4dec02417596a7b76d6e02c483a72aa8d396ad0bd609221e1f2ec8280",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_mab_hood.jpg": {
+  "bytes": 4322,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:16Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
+  "path": "data/snapshot/pirates/images/tn_mab_hood.jpg",
+  "sha256": "2b2aa6d5fc2074dbd8b379ca922491b9e65055deb6d3d730c68a5d47f57cbbf0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_mab_hood1.jpg": {
+  "bytes": 3677,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
+  "path": "data/snapshot/pirates/images/tn_mab_hood1.jpg",
+  "sha256": "9f338e6eeb5c23f86aaf5cba9c78c4709257344795e65893edbe260bf8857fe8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_masterson.jpg": {
+  "bytes": 4234,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:23Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:46 GMT",
+  "path": "data/snapshot/pirates/images/tn_masterson.jpg",
+  "sha256": "8264cd790f2ccc86a37bc2a8c34488a03e0f0745b69156e518c7fb580f706c0f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_morgan.jpg": {
+  "bytes": 3487,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:15Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:46 GMT",
+  "path": "data/snapshot/pirates/images/tn_morgan.jpg",
+  "sha256": "f729c2bd831baaa2599423e12f5baf63cd6f4231a9f9ac09dbaf4f28109df180",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_over.jpg": {
+  "bytes": 4223,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:51Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:46 GMT",
+  "path": "data/snapshot/pirates/images/tn_over.jpg",
+  "sha256": "2905f46cbbe6d34633edf4fddec6ef3492d0473dbebdf0d484e95940b9be7e9f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_pir_pol.jpg": {
+  "bytes": 3894,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:24Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
+  "path": "data/snapshot/pirates/images/tn_pir_pol.jpg",
+  "sha256": "2f2890ea6f14af1ecf3b28b5e96f924ecd162ca70b7d55592455c6142d4a4c9b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_pratt.jpg": {
+  "bytes": 3178,
+  "etag": null,
+  "fetched": "2026-07-24T11:58:06Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
+  "path": "data/snapshot/pirates/images/tn_pratt.jpg",
+  "sha256": "f0951716ae43ec89299cfeb1da6b62a19e47197c21b1f184fa11d2b3cff472ac",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_ruth_barnett.jpg": {
+  "bytes": 4363,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
+  "path": "data/snapshot/pirates/images/tn_ruth_barnett.jpg",
+  "sha256": "f51375d94e8e851d5404cb053533f46337f031cc5131ff872cb3fa73284f204d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_ruth_brandram.jpg": {
+  "bytes": 3496,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:26Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
+  "path": "data/snapshot/pirates/images/tn_ruth_brandram.jpg",
+  "sha256": "07c5864612b5609dc58537cf7a53ab53562fd9865a358f74e6602b7bcf6a74d7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_ruth_lewis.jpg": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/images/tn_sam_griffin.jpg": {
+  "bytes": 3555,
+  "etag": null,
+  "fetched": "2026-07-24T11:56:31Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
+  "path": "data/snapshot/pirates/images/tn_sam_griffin.jpg",
+  "sha256": "c753bbd29d5922d50c498724d6bdb90d043f055f1adfc291cd6793805a9ae146",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_sam_gtemple.jpg": {
+  "bytes": 3952,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:52Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
+  "path": "data/snapshot/pirates/images/tn_sam_gtemple.jpg",
+  "sha256": "36dce076563f83fbd8bf109742f008eb279bdbc5d3e4976019b33aa37125cd73",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_sgt_barrington1.jpg": {
+  "bytes": 3304,
+  "etag": null,
+  "fetched": "2026-07-24T11:53:57Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
+  "path": "data/snapshot/pirates/images/tn_sgt_barrington1.jpg",
+  "sha256": "3d7e26c4b8d98ea3feeed930c4f42e1bc00fb309d744592f03f98d038a2bacf9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_sgt_barrington2.jpg": {
+  "bytes": 3668,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:02Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:49 GMT",
+  "path": "data/snapshot/pirates/images/tn_sgt_barrington2.jpg",
+  "sha256": "69e5ee34647d163bc8721e18102929cd7a4f58d431ddb48038f770dcb116559f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_sgt_passmore.jpg": {
+  "bytes": 3441,
+  "etag": null,
+  "fetched": "2026-07-24T11:54:31Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:49 GMT",
+  "path": "data/snapshot/pirates/images/tn_sgt_passmore.jpg",
+  "sha256": "34a4af78dc340abf34900e847f4c575cd2ef0ca446e2b42a9d658e04c6375211",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/images/tn_sgt_sheffield.jpg": {
+  "bytes": 2717,
+  "etag": null,
+  "fetched": "2026-07-24T11:55:01Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:49 GMT",
+  "path": "data/snapshot/pirates/images/tn_sgt_sheffield.jpg",
+  "sha256": "05cc587abebbfe43c0cbd775c272c3aed91c5029857955794c7532b630959298",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/photos/39girls1_sm.jpg": {
+  "bytes": 17872,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:32Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:51 GMT",
+  "path": "data/snapshot/pirates/photos/39girls1_sm.jpg",
+  "sha256": "5cc138b93a675dab83fc2c76df5e8d1451a7d24ca1eaf0de6ab57538985eaa56",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/photos/sm_kate_edith_isabel.jpg": {
+  "bytes": 13818,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:27Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:52 GMT",
+  "path": "data/snapshot/pirates/photos/sm_kate_edith_isabel.jpg",
+  "sha256": "9c75b36c9d985e64aa3c43e0c6bb5f2d279fea34986e72dd06eed3ae1b28c3fc",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/pirates_lib.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/pirates_lib.txt": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/pirates_lib.zip": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/piratesofpenzance.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/piratesofpenzanceE.pdf": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/posters/ac_pp_s.jpg": {
+  "bytes": 35911,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:44Z",
+  "last_modified": "Sat, 17 Sep 2016 19:34:55 GMT",
+  "path": "data/snapshot/pirates/posters/ac_pp_s.jpg",
+  "sha256": "45e0774014aeca19a018a60348263ff67a88468d87435b177ff724cc028fdd17",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/USA/NYtimes.html": {
+  "bytes": 12274,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:45Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:47 GMT",
+  "path": "data/snapshot/pirates/reviews/USA/NYtimes.html",
+  "sha256": "2c843299e03c4ec400f273127b81d35007b8685e78c8377e4f2045fff2acebeb",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/USA/erany.html": {
+  "bytes": 39837,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:55Z",
+  "last_modified": "Mon, 20 Feb 2023 03:03:00 GMT",
+  "path": "data/snapshot/pirates/reviews/USA/erany.html",
+  "sha256": "cd3d6681a05563e6636dbb9454f2433b0ae3665b4292c6b42d3cdf7f446644d0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/USA/tribune.html": {
+  "bytes": 26011,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:35Z",
+  "last_modified": "Mon, 20 Feb 2023 03:02:58 GMT",
+  "path": "data/snapshot/pirates/reviews/USA/tribune.html",
+  "sha256": "acdb3627f0409f48bf10c1f54cd397488e7418249db6674ee5d55d5d225c8e0a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/USA/ustours.html": {
+  "bytes": 11152,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:04Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:50 GMT",
+  "path": "data/snapshot/pirates/reviews/USA/ustours.html",
+  "sha256": "e4233f2a29ff04f1a5cbb27ddce9a05733d56a976af03d0c93f238541414c9d7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800405MP.html": {
+  "bytes": 14783,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:27Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:56 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800405MP.html",
+  "sha256": "d2a5e8f304d797f28c69537f47ea780c227caae32371f699bb0c34d7b0cf17f5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800405glasgow.html": {
+  "bytes": 15580,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:23Z",
+  "last_modified": "Mon, 20 Feb 2023 03:03:04 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800405glasgow.html",
+  "sha256": "b0464be6202ad66ef74ef4c5bf8ceca388698c08d25c16623fe357e146125501",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800405stand.html": {
+  "bytes": 20583,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:32Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:52 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800405stand.html",
+  "sha256": "8b641857528f9e7af5bd1ff3b699e7bc7c067fbcc548cd2c57fc7d39d1da05fc",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800406pmg.html": {
+  "bytes": 18539,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:52Z",
+  "last_modified": "Mon, 20 Feb 2023 03:03:02 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800406pmg.html",
+  "sha256": "73e3e2a1c3a061316ee754fd77e8c70ec2dc127788d9da01bf2319d1e9f38cbb",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800410graphic.html": {
+  "bytes": 17456,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:57Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:58 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800410graphic.html",
+  "sha256": "d8f2ca29d1226b6810bfff5bebcfdd03d37d96e63759a9a2c9ee7ca20f222b67",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800411era.html": {
+  "bytes": 30241,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:02Z",
+  "last_modified": "Fri, 17 Feb 2023 12:18:00 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800411era.html",
+  "sha256": "e9855e6819f2da69f2e7aa0dd5b8f05520a5f35e946efa6efebe99857a798f87",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/800814exam.html": {
+  "bytes": 11205,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:06Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:59 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/800814exam.html",
+  "sha256": "2b7eb28aa7582ac1b7dfd9858550d75e855cd5708d373bef538f5f976ae19f64",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/lloyds800404.html": {
+  "bytes": 12931,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:14Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:55 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/lloyds800404.html",
+  "sha256": "d79af762f25461256bbecb294bca65f1501c7ca781713df63c9ee35a5354a3ec",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/times1880.html": {
+  "bytes": 20123,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:38Z",
+  "last_modified": "Mon, 20 Feb 2023 03:03:06 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/times1880.html",
+  "sha256": "453a43b6550713431c9bcaa8c2e33069d7e6a914758d24723b046440ac106a87",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/op_com/times1881.html": {
+  "bytes": 10338,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:17Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:54 GMT",
+  "path": "data/snapshot/pirates/reviews/op_com/times1881.html",
+  "sha256": "a8e549f3f128384706a3d66557defef1cb0a04e57c00fd45576e0eb07b3287d0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/paignton/paignton.html": {
+  "bytes": 17119,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:26Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:43 GMT",
+  "path": "data/snapshot/pirates/reviews/paignton/paignton.html",
+  "sha256": "e13cec22c8c3a2f61865fa1f301ddbb4686edb1eda74a4ba068bdf37934739c8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/reviews_index.html": {
+  "bytes": 16077,
+  "etag": null,
+  "fetched": "2026-07-24T11:52:28Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:42 GMT",
+  "path": "data/snapshot/pirates/reviews/reviews_index.html",
+  "sha256": "a768b3ad6c0b29f2bc30b69da42daafdc7e073ccbc06c2b6cb93efc14ddfe7f4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/savoy1888/times1888.html": {
+  "bytes": 14336,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:27Z",
+  "last_modified": "Sat, 21 Jan 2023 01:30:45 GMT",
+  "path": "data/snapshot/pirates/reviews/savoy1888/times1888.html",
+  "sha256": "adabaae21e956c54ead1b8f485e84411c8ec92da4ad4798562f4ff5778b68d0c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/savoy1900/times1900.html": {
+  "bytes": 11570,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:37Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:46 GMT",
+  "path": "data/snapshot/pirates/reviews/savoy1900/times1900.html",
+  "sha256": "b91c4b3eb2d65fd5a0af54c14620b3a2b37f750047797731c0af99bd1b881f63",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/savoy1908/times1908.html": {
+  "bytes": 12744,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:47Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:45 GMT",
+  "path": "data/snapshot/pirates/reviews/savoy1908/times1908.html",
+  "sha256": "532ac2bcd13d2b457f201b733f890af43b24a42b02f2753b91df9ae2f8109bf9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/NY1880.gif": {
+  "bytes": 6655,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:40Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:24 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/NY1880.gif",
+  "sha256": "055de35695c86a9503ad6a54befb7b569b8bfa3746a961fe0259b4ece4fb9b20",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/NYTi1880.gif": {
+  "bytes": 6587,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:50Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:24 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/NYTi1880.gif",
+  "sha256": "95a57e283b98ae6d0e9d6dcd32e0d039b1777f90704ad06a90f835f62a282eb4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/NYera1880.gif": {
+  "bytes": 6904,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:00Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:24 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/NYera1880.gif",
+  "sha256": "fff8169a89cf41bec9d5fd7fa7faa06b041f16a4594b6e80e5afb6793f4e7703",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/OC1880.gif": {
+  "bytes": 6682,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:18Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:25 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/OC1880.gif",
+  "sha256": "719f4223d41d4cfed928cdbbfacc4f32ae6c01f7e2c8c4cc89e25f8eef79fd56",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/OC1880a.gif": {
+  "bytes": 6657,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:12Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:25 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/OC1880a.gif",
+  "sha256": "aa467d6808cc1194d1661a0141bc1563c56d2d603b47c5f02966a875dbaa4caa",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/invis.gif": {
+  "bytes": 55,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:46Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:23 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/invis.gif",
+  "sha256": "e506d9d298412b5f6b89fd510acb6e6f8780072df67472177e1e1cf574536371",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/paignton.gif": {
+  "bytes": 8227,
+  "etag": null,
+  "fetched": "2026-07-24T12:10:30Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:25 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/paignton.gif",
+  "sha256": "f3730303ee792675ddf66597d3dcb2366b81071e62c607a1130681dd7408d247",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/times_title1880.jpg": {
+  "bytes": 17130,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:26 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/times_title1880.jpg",
+  "sha256": "c4cd16fddeb694242bb4313be85d70bc0caade7a01671f7dfcaa7658dc73572f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/times_title1881.jpg": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/times_title1888.jpg": {
+  "bytes": 17019,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:31Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:26 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/times_title1888.jpg",
+  "sha256": "f482ffbd92d1d5f120f776a394edfe8bfc1aaa72c32f14f4fb8296d18350f042",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/times_title1900.jpg": {
+  "bytes": 16821,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:42Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:27 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/times_title1900.jpg",
+  "sha256": "7708162ef71d8b2181fb06194dbcc2ff2ddbef12f529ca4d47b4c4b325e054b8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/times_title1908.jpg": {
+  "bytes": 17005,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:53Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:27 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/times_title1908.jpg",
+  "sha256": "1e536da2ecaf500f430d16858b53e5b86089c8711758502b01ae141afed518da",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/tour.gif": {
+  "bytes": 5782,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:04Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:27 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/tour.gif",
+  "sha256": "b0e0e1607aabb09038d80af9f1055e07503fdcf203ec3a63f3e73e69c4dbecab",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/titles/ustour.gif": {
+  "bytes": 5660,
+  "etag": null,
+  "fetched": "2026-07-24T12:11:10Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:28 GMT",
+  "path": "data/snapshot/pirates/reviews/titles/ustour.gif",
+  "sha256": "4946e592f32fe104b4ccb675d8a67d8702baf5f206e680b26d3876a68a42c0e6",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/801011bristol.html": {
+  "bytes": 17414,
+  "etag": null,
+  "fetched": "2026-07-24T12:12:58Z",
+  "last_modified": "Mon, 20 Feb 2023 03:03:08 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/801011bristol.html",
+  "sha256": "f5c4aa1370a15d4389c5df714626ba156e7cd925ec98760788ee0fccb991302d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/801012bristol.html": {
+  "bytes": 14556,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:08Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:07 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/801012bristol.html",
+  "sha256": "cd65d6ed57c1270c15dc8967762f0a971ca2949343ee66d1b24bf33d84701b38",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/801017era.html": {
+  "bytes": 10133,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:12Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:35 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/801017era.html",
+  "sha256": "696395241f51c3dcfb2f239f3128c512ac895a3adf0d3bd16a84d6b0a405e9e9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/801113leicester.html": {
+  "bytes": 13222,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:17Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:29 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/801113leicester.html",
+  "sha256": "79d4421d17584629a02eaeaf7def963de24c0da486b657f69e915a97df077c3a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/801116liverpool.html": {
+  "bytes": 12087,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:21Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:16 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/801116liverpool.html",
+  "sha256": "e60480dfe73ca13faadf1e0036bf4010c8dcdeff97f0a4868e8ca43f82575a85",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810104whartle.html": {
+  "bytes": 10496,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:25Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:14 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810104whartle.html",
+  "sha256": "e4dea623a638d7583d8a5940c332f14943f573b8c94f35eacec8c72558cfcbd9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810122edin.html": {
+  "bytes": 10851,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:31Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:40 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810122edin.html",
+  "sha256": "356f6f5a12f70e6a5d179e13b12c213f925ab390b23e58814015f69fa98d4727",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810129chester.html": {
+  "bytes": 12186,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:35Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:43 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810129chester.html",
+  "sha256": "6960f0758bf8dd596a94c7f63c89a09b0919fdd6b0dc63f7ec69a44d2cac3e81",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810216york.html": {
+  "bytes": 16268,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:41Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:11 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810216york.html",
+  "sha256": "3a121478941bd87462f6c04dd4a93203540a4e5d87d58636b9dffaa87a0a7133",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810228cardiff.html": {
+  "bytes": 11097,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:47Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:33 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810228cardiff.html",
+  "sha256": "af53dc062c28bfc37abb81975c57d0cd6bb3581f241aa9e9e65a0c4637bf7c0f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810302liverpool.html": {
+  "bytes": 9203,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:53Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:10 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810302liverpool.html",
+  "sha256": "faf9c54e4391e1b8269eacc718b6d7866dce32aff95c662aed7d72293c1272f7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810319mcr.html": {
+  "bytes": 12545,
+  "etag": null,
+  "fetched": "2026-07-24T12:13:57Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:08 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810319mcr.html",
+  "sha256": "632807caf4e18f5c285c32b23e2321e966e666dbc0addd0c892c5ac9e4e68a64",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8103soton.html": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810420pmouth.html": {
+  "bytes": 17901,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:02Z",
+  "last_modified": "Mon, 20 Feb 2023 03:03:12 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810420pmouth.html",
+  "sha256": "d0c676ff492348d64e95f42cbc74acf18187add92b087a5cddb73062e0b042af",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810423dublin.html": {
+  "bytes": 10739,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:11Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:26 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810423dublin.html",
+  "sha256": "b56f2bff7a3a6a48bc08720ffee2973b651b46847f45311168624c7b04dafb1f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810517bristol.html": {
+  "bytes": 13304,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:21Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:38 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810517bristol.html",
+  "sha256": "0f2126067b1e47ac14dd35ef83bbcf746a58613bef4e169e22c6bff5e7a21e88",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810621huddsfld.html": {
+  "bytes": 19590,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:26Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:42 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810621huddsfld.html",
+  "sha256": "4329853fdf08cfff1e80bfbbb258104d5c7f61b4a0ded275f705d50f730c95b1",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810716douglas.html": {
+  "bytes": 10768,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:32Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:20 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810716douglas.html",
+  "sha256": "27be16e05abca90a0aff9089afbee694678fde5be3a793d8fb679ad9d8c04e28",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810730era.html": {
+  "bytes": 9868,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:37Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:37 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810730era.html",
+  "sha256": "74f7dff614582ea65806d360d63951c55c2d9fd99bb4b662039cc29df8de0736",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810803derby.html": {
+  "bytes": 9016,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:42Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:32 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810803derby.html",
+  "sha256": "a1d63ef7f11bf845b2e610e15cea63a031df624c4c2c171662bb82ede28bcc17",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810817potsmth.html": {
+  "bytes": 12920,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:47Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:01 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810817potsmth.html",
+  "sha256": "070f8a874e8a3d8f33d1c94fc29f54773be18cbaa328f36a839c5490a5762a13",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810823belfast.html": {
+  "bytes": 14933,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:52Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:18 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810823belfast.html",
+  "sha256": "7c253e2c0ba58fcf506481f4ab9b1545ac1d326335739fac4e17df1bacd77923",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/810924nwch.html": {
+  "bytes": 9480,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:58Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:36 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/810924nwch.html",
+  "sha256": "3e255edf6c48f5c5065152c0c96f1b3ee02a57b6abdee38a720ac8bfc35c1d17",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/811008york.html": {
+  "bytes": 9213,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:02Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:17 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/811008york.html",
+  "sha256": "0354ce56817c9d87643d93161a0c4b265198b23196ff57342d5de42abe4e291b",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/811129bristol.html": {
+  "bytes": 9632,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:08Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:13 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/811129bristol.html",
+  "sha256": "279dcb103413784cb93fdbc41fdecfa29baf74f1978d04e03413d0fc2d7db876",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/811203bristol.html": {
+  "bytes": 9636,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:12Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:09 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/811203bristol.html",
+  "sha256": "ab9d9e983080232fb402926a35e7867a681e9a95cd1e15f7af8bc4593a627a21",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/820418huddfld.html": {
+  "bytes": 10867,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:18Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:23 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/820418huddfld.html",
+  "sha256": "fa8f63122c39699cf146641cbb38fc12c48f615fd15ee2119869f4ff84d291dd",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/820425sheff.html": {
+  "bytes": 10752,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:24Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:02 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/820425sheff.html",
+  "sha256": "e2264159f951a46ab615c5f0129fd41734edafdbb859c168141d2019fc3d6c7a",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8205dundee.html": {
+  "bytes": 14144,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:29Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:04 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8205dundee.html",
+  "sha256": "5619be81cd7ada58a0206ab8d2156d67282a457c27a0925d2d5c4b30534dfbc9",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8206leed.html": {
+  "bytes": 9250,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:34Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:27 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8206leed.html",
+  "sha256": "84bb9da93e892789afca4f57801a11e8c575998d5ea46d995166e588fb5f6ebc",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8208mcr.html": {
+  "bytes": 9442,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:38Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:28 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8208mcr.html",
+  "sha256": "e1ff957d566a2246835c2c3ac9e2e393cf759e18fb6048d7e30d5a92ae493580",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8209dublin.html": {
+  "bytes": 8824,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:44Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:15 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8209dublin.html",
+  "sha256": "9189b0f63f1517374c6ba1fb2420cdaab84920779b614ee767c6c27a96ad15c2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8209lpool.html": {
+  "bytes": 9352,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:48Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:21 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8209lpool.html",
+  "sha256": "10318c269d672dff8d0410137faa7928a7d27e0b0a71103d1e55ccfd08b114e5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8212sheff.html": {
+  "bytes": 10530,
+  "etag": null,
+  "fetched": "2026-07-24T12:15:54Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:31 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8212sheff.html",
+  "sha256": "1b114398eac21c2cd63b3543cfb5402baa7f29253f4e9f3d8e3a3b4cd7138dbf",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/8305cardiff.html": {
+  "bytes": 10410,
+  "etag": null,
+  "fetched": "2026-07-24T12:16:00Z",
+  "last_modified": "Sat, 21 Jan 2023 01:31:24 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/8305cardiff.html",
+  "sha256": "cba4ea4d0fc41ef8a939ad92ba5c44bf27e4c79f1930e9f6e95cadeafe5436f2",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/reviews/tour/spacer.gif": {
+  "bytes": 255,
+  "etag": null,
+  "fetched": "2026-07-24T12:14:07Z",
+  "last_modified": "Sat, 17 Sep 2016 19:36:42 GMT",
+  "path": "data/snapshot/pirates/reviews/tour/spacer.gif",
+  "sha256": "8dbc4469ccf5e088fb13b061a4814191fa04ef97fa2165d602048cec64399e75",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp01.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp02.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp03.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp05.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp06_7.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp08.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp11.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp12.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp13.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp14.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp15.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp16_17.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp18_19.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp20.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp21_2.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp23.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp24.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp25.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/kar/pp27.kar": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/overture.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pirates_overture.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp01.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp02.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp03.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp04.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp05.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp06_7.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp08.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp11.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp12.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp13.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp14.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp15.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp16_17.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp18_19.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp20.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp21_2.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp23.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp24.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp25.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp27.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/mid/pp9_10.mid": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/operhome.html": {
+  "bytes": 15577,
+  "etag": null,
+  "fetched": "2026-07-24T11:50:00Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:47 GMT",
+  "path": "data/snapshot/pirates/web_op/operhome.html",
+  "sha256": "041abbb5d6322fd744604427ca0c1b41e39c81a1fcd08a48b1e49c88ff283727",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates00.html": {
+  "bytes": 4840,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:37Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:54 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates00.html",
+  "sha256": "9430714b8275c1fd3f20ac1536b38a887aa655ae2f6a7a54438f2262e6f9ef50",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates01.html": {
+  "bytes": 8210,
+  "etag": null,
+  "fetched": "2026-07-24T12:03:56Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:51 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates01.html",
+  "sha256": "525dcbf663e29941b47a8396e73e689cd410b7a6f8d8c128d5c3beadac1f4b8f",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates02.html": {
+  "bytes": 6920,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:24Z",
+  "last_modified": "Mon, 20 Feb 2023 03:02:36 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates02.html",
+  "sha256": "ede000c8df2eafe8fde95821b7a972963705362f1b3c41bd5e6cff513af7f83c",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates02d.html": {
+  "bytes": 10191,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:40Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:06 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates02d.html",
+  "sha256": "6ff21c7aaaac93c1b874abe211fa8ddf42ec26055a44bf6af28b67fcb8cbdb32",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates03.html": {
+  "bytes": 7878,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:51Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:43 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates03.html",
+  "sha256": "86725067a55690955d1ac7e0a5629bd01fcc2725c24fe3a7617c727333a156d0",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates03d.html": {
+  "status": "error:RemoteProtocolError"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates04.html": {
+  "bytes": 9954,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:12Z",
+  "last_modified": "Mon, 20 Feb 2023 03:02:39 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates04.html",
+  "sha256": "a35a43e8645a31b57027b0c3512a31893f265b44676615ac309b308a808db6b5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates05.html": {
+  "bytes": 8362,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:23Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:47 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates05.html",
+  "sha256": "8d1bd15e7a0d150562f9e66b7cf17f9739438e9ff1972bc4a77f049bcb52f841",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates05d.html": {
+  "bytes": 4702,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:38Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:58 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates05d.html",
+  "sha256": "07952cf4951a8ee86cba747c66cc5d9514645e45091ec2d490ecad0c45c3e2d8",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates06.html": {
+  "bytes": 12073,
+  "etag": null,
+  "fetched": "2026-07-24T12:05:42Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:48 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates06.html",
+  "sha256": "7ab7e5005182bc0d6de54150f03491d4b189d2e1f9d903dfe6b7ea8fea324868",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates08.html": {
+  "bytes": 8677,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:02Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:00 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates08.html",
+  "sha256": "7ea03e423f67afbcda5c10a44ae5ece70b45e65596053d34c9c7d7edc5a9d919",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates09.html": {
+  "bytes": 10597,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:17Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:56 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates09.html",
+  "sha256": "5229f01b3e6ea73d44b245edea2cba0c8b6b55de2e650555baf3bc4fec6876db",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates11.html": {
+  "bytes": 8552,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:21Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:50 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates11.html",
+  "sha256": "06e13a1325addd69c52a36d8a537e0bee631949c2f76f3541c6e62b7e92ddcc7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates12.html": {
+  "bytes": 6279,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:34Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:57 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates12.html",
+  "sha256": "6f4d12850c3baa27cad5fe716f0d99248ae8b2e28db60abeeb8300fd285cafd7",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates13.html": {
+  "bytes": 10344,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:43Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:45 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates13.html",
+  "sha256": "efd89375b21a2c2c56a901c2da7f254910d83dd1b42a2bbbd044f00de67846b4",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates13d.html": {
+  "bytes": 8259,
+  "etag": null,
+  "fetched": "2026-07-24T12:06:58Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:52 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates13d.html",
+  "sha256": "0501ae832848cd916a00aee9796c636b18413b1d135a21f75cbd3b916dd99d5e",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates14.html": {
+  "bytes": 19274,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:08Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:02 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates14.html",
+  "sha256": "35ef3f1c7bc0ff58f2f66ff2d051e9050360828cea464cea845239a4234bfe5d",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates15.html": {
+  "bytes": 6307,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:33Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:42 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates15.html",
+  "sha256": "20e913f006b29709384ea8829976c7f3dc46641332ba28892f045a736053d206",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates15d.html": {
+  "bytes": 5751,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:44Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:53 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates15d.html",
+  "sha256": "f39b18eafcd43b4b272b169521b646bb63bf6d5adc48dc3401b38e2070d4d503",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates16.html": {
+  "bytes": 23712,
+  "etag": null,
+  "fetched": "2026-07-24T12:07:48Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:55 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates16.html",
+  "sha256": "3dc5b7cf96f5a36146b39371af4af6717326d708603ff947dff03f5cbf13bb63",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates18.html": {
+  "bytes": 15928,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:06Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:57 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates18.html",
+  "sha256": "bb0cd8f7ebad71cdd61ccb8794617ac219f3801e66a4dabdea194c858d6fd3a5",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates18d.html": {
+  "bytes": 7363,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:33Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:05 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates18d.html",
+  "sha256": "6be47d638d135eb0235313d132926371cb45bebee157ee85f7dd53777ac17503",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates1d.html": {
+  "bytes": 5144,
+  "etag": null,
+  "fetched": "2026-07-24T12:04:14Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:46 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates1d.html",
+  "sha256": "9feadf346c7cb529ab4f1b668f713bf34c12e388b87b4e922ad9e9437b044285",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates20.html": {
+  "bytes": 8715,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:39Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:43 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates20.html",
+  "sha256": "c1b3b14cc2d86cef3ffaf2db86e2aecbb4f3e58f7aeb56a42937514cd4136263",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates21.html": {
+  "bytes": 15383,
+  "etag": null,
+  "fetched": "2026-07-24T12:08:43Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:41 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates21.html",
+  "sha256": "36f73affba0a122fa82814efc5d9e8dcfd0067cf2ce92735f6a5790ad1c27556",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates23.html": {
+  "bytes": 10042,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:03Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:01 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates23.html",
+  "sha256": "a818c3c7e8a7a89bd1defde5e17ad9ee6718af015885d2fc18a90d54529ad068",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates23d.html": {
+  "bytes": 5959,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:18Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:51 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates23d.html",
+  "sha256": "bed2bf6bcd7e8c6aacad76e118e42a801fec51c3cebdfe76acb4c01b09be47fa",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates24.html": {
+  "bytes": 11716,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:27Z",
+  "last_modified": "Mon, 06 Feb 2023 02:56:49 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates24.html",
+  "sha256": "5679cab34520ece196dd25cb408c9c12b860702d24395decfd1141b2ba4f5034",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates25.html": {
+  "bytes": 14009,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:43Z",
+  "last_modified": "Mon, 06 Feb 2023 02:57:03 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates25.html",
+  "sha256": "d29706a59e7feee8d82fee4fdbab2fb398496a56a818ab956869ea6b1c13ccde",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates27.html": {
+  "bytes": 30331,
+  "etag": null,
+  "fetched": "2026-07-24T12:09:53Z",
+  "last_modified": "Mon, 20 Feb 2023 03:02:47 GMT",
+  "path": "data/snapshot/pirates/web_op/pirates27.html",
+  "sha256": "32b6d725f8a47b68fe9f29f8b3563ec4f634d993f925228a3349dc560df57019",
+  "status": "ok"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates_kar.zip": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/pirates/web_op/pirates_mid.zip": {
+  "status": "skipped_media"
+ },
+ "https://gsarchive.net/styles/gsarchive.css": {
+  "bytes": 3514,
+  "etag": null,
+  "fetched": "2026-07-24T11:49:55Z",
+  "last_modified": "Fri, 23 Jan 2026 11:05:42 GMT",
+  "path": "data/snapshot/styles/gsarchive.css",
+  "sha256": "161a5976fd737879f316f7f7d1e314f6f69d5e2d98d0c3f16693ad4fee2eb6da",
+  "status": "ok"
+ }
+}
