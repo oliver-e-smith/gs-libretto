@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% from "_block.html" import render_block %}
+{% block title %}{{ s.number_label or 'Dialogue' }} — {{ s.opera_title }}{% endblock %}
+{% block content %}
+<div class="crumb"><a href="/">All operas</a> ·
+  <a href="/opera/{{ s.opera_slug }}">{{ s.opera_title }}</a>
+  {% if s.act %} · Act {{ s.act }}{% endif %}</div>
+<h1>{{ s.number_label or '' }}{% if s.title %} — “{{ s.title }}”{% endif %}</h1>
+<p class="srclink"><a href="{{ s.source_url }}">original page at gsarchive.net ↗</a></p>
+
+{% for b in blocks %}{{ render_block(b, crumbs=False) }}{% endfor %}
+
+<p>
+{% if neighbours.prev %}<a href="/opera/{{ s.opera_slug }}/{{ neighbours.prev.seq }}">&larr; {{ neighbours.prev.number_label or neighbours.prev.title or 'previous' }}</a>{% endif %}
+{% if neighbours.next %} &nbsp;·&nbsp; <a href="/opera/{{ s.opera_slug }}/{{ neighbours.next.seq }}">{{ neighbours.next.number_label or neighbours.next.title or 'next' }} &rarr;</a>{% endif %}
+</p>
+{% endblock %}

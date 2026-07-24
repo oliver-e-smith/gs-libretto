@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% from "_block.html" import render_block %}
+{% block content %}
+<form class="search" action="/" method="get">
+  <input type="text" name="q" value="{{ q }}" placeholder="Search any line — e.g. take any heart but ours" autofocus>
+  <select name="opera">
+    <option value="">All operas</option>
+    {% for o in operas %}
+    <option value="{{ o.slug }}" {{ 'selected' if o.slug == opera }}>
+      {{ o.title }}</option>
+    {% endfor %}
+  </select>
+  <input type="text" name="character" value="{{ character }}"
+         placeholder="Character (e.g. Mabel)" style="flex:0 1 11rem; padding:0.5rem 0.7rem; font:inherit; border:1px solid var(--soft); border-radius:4px;">
+  <button type="submit">Search</button>
+</form>
+
+{% if q %}
+  <p>{{ results|length }} result{{ '' if results|length == 1 else 's' }}
+     for <strong>“{{ q }}”</strong>{% if character %} sung by
+     <strong>{{ character }}</strong>{% endif %}</p>
+  {% for b in results %}{{ render_block(b) }}{% endfor %}
+{% else %}
+  <h1>Browse the operas</h1>
+  <table class="toc">
+  {% for o in operas %}
+    <tr><td>{{ o.premiere_year }}</td>
+        <td><a href="/opera/{{ o.slug }}">{{ o.title }}</a></td>
+        <td>{% if o.sections %}{{ o.sections }} sections{% else %}
+            <span class="tag">not yet parsed</span>{% endif %}</td></tr>
+  {% endfor %}
+  </table>
+  <p style="margin-top:1.5rem"><span class="tag">API</span> Machine-readable
+  access at <code>/api/search?q=…</code>, <code>/api/operas</code>,
+  <code>/api/opera/&lt;slug&gt;/numbers</code> —
+  <a href="/api/docs">API documentation</a>.</p>
+{% endif %}
+{% endblock %}

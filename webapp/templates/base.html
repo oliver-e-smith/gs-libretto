@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}G&amp;S Libretto Database{% endblock %}</title>
+<style>
+:root { --ink:#26221c; --paper:#faf7f2; --accent:#7a1f2b; --soft:#e8e1d5;
+        --muted:#7d7466; }
+* { box-sizing: border-box; }
+body { margin:0; font:16px/1.55 Georgia, 'Times New Roman', serif;
+       color:var(--ink); background:var(--paper); }
+header { background:var(--accent); color:#f6ead9; padding:0.9rem 1.2rem; }
+header a { color:inherit; text-decoration:none; }
+header .sub { font-size:0.8rem; opacity:0.85; font-style:italic; }
+main { max-width: 60rem; margin: 0 auto; padding: 1.2rem; }
+a { color: var(--accent); }
+form.search { display:flex; gap:0.5rem; flex-wrap:wrap; margin:1rem 0; }
+form.search input[type=text] { flex:1 1 16rem; padding:0.5rem 0.7rem;
+  font:inherit; border:1px solid var(--soft); border-radius:4px; }
+form.search select { font:inherit; padding:0.45rem; border:1px solid var(--soft);
+  border-radius:4px; background:#fff; }
+form.search button { font:inherit; padding:0.45rem 1.1rem; border:0;
+  background:var(--accent); color:#fff; border-radius:4px; cursor:pointer; }
+.result, .block { background:#fff; border:1px solid var(--soft);
+  border-radius:6px; padding:0.9rem 1.1rem; margin:0.9rem 0; }
+.crumb { font-size:0.85rem; color:var(--muted); margin-bottom:0.4rem; }
+.crumb a { color:inherit; }
+.voices { display:flex; gap:1.4rem; flex-wrap:wrap; }
+.voice { flex:1 1 14rem; min-width:12rem; }
+.simul .voice { border-left:3px solid var(--soft); padding-left:0.8rem; }
+.simul-note { font-size:0.75rem; letter-spacing:0.06em; text-transform:uppercase;
+  color:var(--accent); margin-bottom:0.3rem; }
+.attr { font-weight:bold; font-variant:small-caps; letter-spacing:0.03em; }
+.line { margin:0; }
+.line.dir { font-style:italic; color:var(--muted); }
+.srclink { font-size:0.8rem; margin-top:0.5rem; }
+footer { max-width:60rem; margin:2rem auto; padding:1rem 1.2rem;
+  border-top:1px solid var(--soft); font-size:0.82rem; color:var(--muted); }
+h1 { font-size:1.5rem; } h2 { font-size:1.2rem; }
+table.toc { border-collapse:collapse; width:100%; }
+table.toc td { padding:0.3rem 0.6rem; border-bottom:1px solid var(--soft);
+  vertical-align:top; }
+.tag { font-size:0.72rem; background:var(--soft); border-radius:3px;
+  padding:0.1rem 0.4rem; color:var(--muted); }
+mark { background:#f3dfa0; }
+.charlist span { display:inline-block; margin:0.15rem 0.35rem 0.15rem 0; }
+</style>
+</head>
+<body>
+<header>
+  <a href="/"><strong>G&amp;S Libretto Database</strong></a>
+  <div class="sub">Gilbert &amp; Sullivan libretti, searchable — built from the
+  Gilbert and Sullivan Archive</div>
+</header>
+<main>{% block content %}{% endblock %}</main>
+<footer>
+  All libretto content originates from the volunteer-run
+  <a href="https://gsarchive.net">Gilbert and Sullivan Archive</a>
+  (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>),
+  with gratitude. Every entry links to the Archive's original page — please
+  visit and support the Archive. This site re-shares under the same licence.
+</footer>
+</body>
+</html>

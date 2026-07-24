@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}{{ opera.title }} — G&amp;S Libretto Database{% endblock %}
+{% block content %}
+<div class="crumb"><a href="/">All operas</a></div>
+<h1>{{ opera.title }} <span class="tag">{{ opera.premiere_year }}</span></h1>
+
+{% if characters %}
+<h2>Dramatis personæ</h2>
+<p class="charlist">
+{% for c in characters if not c.is_group %}
+  <span><a href="/?character={{ c.name|urlencode }}&opera={{ opera.slug }}&q=%2A">{{ c.name }}</a>{% if c.description %} <em>{{ c.description }}</em>{% endif %}{{ '' if loop.last else ' ·' }}</span>
+{% endfor %}
+</p>
+{% endif %}
+
+<h2>Contents</h2>
+<table class="toc">
+{% for s in sections %}
+  <tr>
+    <td>{% if s.act %}Act {{ s.act }}{% endif %}</td>
+    <td>{{ s.number_label or '' }}</td>
+    <td><a href="/opera/{{ opera.slug }}/{{ s.seq }}">
+        {% if s.kind == 'dialogue' %}{{ s.title or s.number_label or 'Dialogue' }}
+        {% else %}{{ s.title or s.number_label }}{% endif %}</a>
+        {% if s.kind == 'dialogue' %}<span class="tag">dialogue</span>{% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</table>
+{% endblock %}

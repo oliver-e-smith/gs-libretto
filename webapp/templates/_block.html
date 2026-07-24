@@ -1,0 +1,28 @@
+{% macro render_block(b, crumbs=True) %}
+<div class="{{ 'result' if crumbs else 'block' }} {{ 'simul' if b.simultaneous }}">
+  {% if crumbs %}
+  <div class="crumb">
+    <a href="/opera/{{ b.opera }}">{{ b.opera_title }}</a>
+    {% if b.act %} · Act {{ b.act }}{% endif %}
+    {% if b.number %} · <a href="/opera/{{ b.opera }}/{{ b.section_seq }}">
+      {{ b.number }}{% if b.number_title %} — “{{ b.number_title }}”{% endif %}</a>
+    {% endif %}
+  </div>
+  {% endif %}
+  {% if b.simultaneous %}<div class="simul-note">sung simultaneously</div>{% endif %}
+  <div class="voices">
+    {% for v in b.voices %}
+    <div class="voice">
+      {% if v.attribution %}<div class="attr">{{ v.attribution }}</div>{% endif %}
+      {% for l in v.lines %}
+      <p class="line {{ 'dir' if l.d }}">{{ l.t }}</p>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+  {% if crumbs %}
+  <div class="srclink"><a href="{{ b.source_url }}">original page at
+    gsarchive.net ↗</a></div>
+  {% endif %}
+</div>
+{% endmacro %}

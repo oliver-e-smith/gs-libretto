@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
-data/gs.sqlite*
+# data/gs.sqlite is committed by CI so Vercel can serve it
 .venv/

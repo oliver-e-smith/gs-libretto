@@ -10,6 +10,7 @@ Usage:
 """
 
 import argparse
+import os
 import re
 import time
 from pathlib import Path
@@ -22,7 +23,7 @@ from . import db
 from .parse_webop import OperaConfig, parse_page, squash
 
 ROOT = Path(__file__).resolve().parent.parent
-SNAP = ROOT / "data" / "snapshot"
+SNAP = Path(os.environ.get("GSDB_SNAPSHOT", ROOT / "data" / "snapshot"))
 BASE = "https://gsarchive.net/"
 
 

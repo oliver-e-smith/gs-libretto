@@ -1,10 +1,11 @@
 """SQLite helpers."""
 
+import os
 import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DB_PATH = ROOT / "data" / "gs.sqlite"
+DB_PATH = Path(os.environ.get("GSDB_DB", ROOT / "data" / "gs.sqlite"))
 SCHEMA = Path(__file__).with_name("schema.sql")
 
 

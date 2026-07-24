@@ -1,0 +1,82 @@
+name: Snapshot, build & validate
+
+on:
+  workflow_dispatch:
+    inputs:
+      opera:
+        description: "Opera slug to crawl+build (or 'all')"
+        default: "pirates"
+      include_media:
+        description: "Also download MIDI/PDF media"
+        type: boolean
+        default: false
+  schedule:
+    # Monthly gentle refresh (conditional GETs; unchanged pages cost ~nothing)
+    - cron: "17 3 3 * *"
+
+# Never run two crawls at once — politeness first.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Crawl (polite; resumable)
+        run: |
+          OPERA="${{ github.event.inputs.opera || 'pirates' }}"
+          EXTRA=""
+          if [ "${{ github.event.inputs.include_media }}" = "true" ]; then
+            EXTRA="--include-media"
+          fi
+          if [ "$OPERA" = "all" ]; then
+            for slug in thespis trial sorcerer pinafore pirates patience \
+                        iolanthe ida mikado ruddigore yeomen gondoliers \
+                        utopia grandduke; do
+              python -m crawler.crawl --opera "$slug" --refresh $EXTRA || true
+            done
+          else
+            python -m crawler.crawl --opera "$OPERA" --refresh $EXTRA
+          fi
+
+      - name: Build database
+        run: |
+          OPERA="${{ github.event.inputs.opera || 'pirates' }}"
+          if [ "$OPERA" = "all" ]; then
+            for slug in thespis trial sorcerer pinafore pirates patience \
+                        iolanthe ida mikado ruddigore yeomen gondoliers \
+                        utopia grandduke; do
+              python -m gsdb.build --opera "$slug" || true
+            done
+          else
+            python -m gsdb.build --opera "$OPERA"
+          fi
+
+      - name: Run tests
+        run: pip install pytest && python -m pytest tests/ -q
+
+      - name: Validation report
+        run: |
+          OPERA="${{ github.event.inputs.opera || 'pirates' }}"
+          if [ "$OPERA" != "all" ]; then
+            python -m gsdb.validate --opera "$OPERA" | tee validation.txt
+          fi
+
+      - name: Commit snapshot + database
+        run: |
+          git config user.name "gs-libretto-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data/
+          git diff --cached --quiet || \
+            git commit -m "Update snapshot + database ($(date -u +%F))"
+          git push
