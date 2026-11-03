@@ -1,7 +1,7 @@
 {
  "https://gsarchive.net/layout/css/basic.css": {
   "bytes": 3044,
-  "checked": "2026-10-03T09:17:48Z",
+  "checked": "2026-11-03T11:01:59Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:07Z",
   "last_modified": "Sun, 29 Nov 2020 17:41:30 GMT",
@@ -11,7 +11,7 @@
  },
  "https://gsarchive.net/layout/css/basic12.css": {
   "bytes": 2728,
-  "checked": "2026-10-03T09:17:58Z",
+  "checked": "2026-11-03T11:02:07Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:17Z",
   "last_modified": "Sun, 24 Feb 2019 13:58:57 GMT",
@@ -21,7 +21,7 @@
  },
  "https://gsarchive.net/layout/images/extlnk.gif": {
   "bytes": 418,
-  "checked": "2026-10-03T09:14:15Z",
+  "checked": "2026-11-03T10:58:13Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:28Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:07 GMT",
@@ -31,17 +31,17 @@
  },
  "https://gsarchive.net/layout/images/frame/corner2.gif": {
   "bytes": 816,
-  "checked": "2026-09-03T08:10:33Z",
+  "checked": "2026-11-03T11:01:32Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:43Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:22 GMT",
   "path": "data/snapshot/layout/images/frame/corner2.gif",
   "sha256": "1d630eaf133c1b75177b3f3e2558e247c0e0c1c80e65087f84e5f2bf1e52f277",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/layout/images/frame/corner4.gif": {
   "bytes": 816,
-  "checked": "2026-10-03T09:17:19Z",
+  "checked": "2026-11-03T11:01:26Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:38Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:22 GMT",
@@ -51,7 +51,7 @@
  },
  "https://gsarchive.net/layout/images/frame/trans.gif": {
   "bytes": 52,
-  "checked": "2026-10-03T09:17:13Z",
+  "checked": "2026-11-03T11:01:21Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:33Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:24 GMT",
@@ -61,7 +61,7 @@
  },
  "https://gsarchive.net/layout/images/logo3sm.jpg": {
   "bytes": 10425,
-  "checked": "2026-10-03T09:17:28Z",
+  "checked": "2026-11-03T11:01:38Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:47Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:08 GMT",
@@ -71,7 +71,7 @@
  },
  "https://gsarchive.net/layout/images/midi.gif": {
   "bytes": 373,
-  "checked": "2026-10-03T09:28:33Z",
+  "checked": "2026-11-03T11:12:37Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:42Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:09 GMT",
@@ -81,7 +81,7 @@
  },
  "https://gsarchive.net/layout/images/midi_karaoke.gif": {
   "bytes": 1634,
-  "checked": "2026-10-03T09:28:55Z",
+  "checked": "2026-11-03T11:12:58Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:00Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:09 GMT",
@@ -91,7 +91,7 @@
  },
  "https://gsarchive.net/layout/images/sheetmusicplus.gif": {
   "bytes": 808,
-  "checked": "2026-10-03T09:16:05Z",
+  "checked": "2026-11-03T11:00:07Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:24Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:10 GMT",
@@ -101,7 +101,7 @@
  },
  "https://gsarchive.net/layout/images/webop.gif": {
   "bytes": 7682,
-  "checked": "2026-10-03T09:14:24Z",
+  "checked": "2026-11-03T10:58:24Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:39Z",
   "last_modified": "Sat, 17 Sep 2016 15:04:11 GMT",
@@ -114,7 +114,7 @@
  },
  "https://gsarchive.net/pirates/bab/appeal_tn.gif": {
   "bytes": 1687,
-  "checked": "2026-10-03T09:24:52Z",
+  "checked": "2026-11-03T11:08:57Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:00Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:45 GMT",
@@ -124,7 +124,7 @@
  },
  "https://gsarchive.net/pirates/bab/bab.html": {
   "bytes": 10153,
-  "checked": "2026-10-03T09:24:42Z",
+  "checked": "2026-11-03T11:08:47Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:48Z",
   "last_modified": "Sat, 21 Jan 2023 01:32:10 GMT",
@@ -134,7 +134,7 @@
  },
  "https://gsarchive.net/pirates/bab/felon_tn.gif": {
   "bytes": 4292,
-  "checked": "2026-10-03T09:25:01Z",
+  "checked": "2026-11-03T11:09:06Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:11Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:47 GMT",
@@ -144,7 +144,7 @@
  },
  "https://gsarchive.net/pirates/bab/late.gif": {
   "bytes": 2602,
-  "checked": "2026-10-03T09:25:07Z",
+  "checked": "2026-11-03T11:09:11Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:47 GMT",
@@ -154,7 +154,7 @@
  },
  "https://gsarchive.net/pirates/bab/mmge.gif": {
   "bytes": 2035,
-  "checked": "2026-10-03T09:24:56Z",
+  "checked": "2026-11-03T11:09:01Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:05Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:47 GMT",
@@ -164,7 +164,7 @@
  },
  "https://gsarchive.net/pirates/bab/title.gif": {
   "bytes": 7868,
-  "checked": "2026-10-03T09:24:48Z",
+  "checked": "2026-11-03T11:08:52Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:54Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:49 GMT",
@@ -174,7 +174,7 @@
  },
  "https://gsarchive.net/pirates/bab/tree.gif": {
   "bytes": 1920,
-  "checked": "2026-10-03T09:25:15Z",
+  "checked": "2026-11-03T11:09:21Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:27Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:49 GMT",
@@ -184,7 +184,7 @@
  },
  "https://gsarchive.net/pirates/bab/wave.gif": {
   "bytes": 3767,
-  "checked": "2026-10-03T09:25:11Z",
+  "checked": "2026-11-03T11:09:16Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:50 GMT",
@@ -194,7 +194,7 @@
  },
  "https://gsarchive.net/pirates/carte/doc.html": {
   "bytes": 27328,
-  "checked": "2026-10-03T09:18:02Z",
+  "checked": "2026-11-03T11:02:12Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:22Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:11 GMT",
@@ -204,7 +204,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip01.gif": {
   "bytes": 2274,
-  "checked": "2026-10-03T09:25:25Z",
+  "checked": "2026-11-03T11:09:31Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:36Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:55 GMT",
@@ -214,7 +214,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip02.gif": {
   "bytes": 1923,
-  "checked": "2026-10-03T09:25:53Z",
+  "checked": "2026-11-03T11:09:55Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
@@ -224,7 +224,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip03.gif": {
   "bytes": 2011,
-  "checked": "2026-10-03T09:25:37Z",
+  "checked": "2026-11-03T11:09:41Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
@@ -234,7 +234,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip04.gif": {
   "bytes": 4018,
-  "checked": "2026-10-03T09:26:58Z",
+  "checked": "2026-11-03T11:10:59Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:08Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
@@ -244,7 +244,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip05.gif": {
   "bytes": 4986,
-  "checked": "2026-10-03T09:25:47Z",
+  "checked": "2026-11-03T11:09:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:58Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:56 GMT",
@@ -254,7 +254,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip06.gif": {
   "bytes": 3119,
-  "checked": "2026-10-03T09:26:29Z",
+  "checked": "2026-11-03T11:10:30Z",
   "etag": null,
   "fetched": "2026-08-03T06:51:28Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
@@ -264,7 +264,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip07.gif": {
   "bytes": 3573,
-  "checked": "2026-10-03T09:25:31Z",
+  "checked": "2026-11-03T11:09:36Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:42Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
@@ -274,7 +274,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip08.gif": {
   "bytes": 2142,
-  "checked": "2026-10-03T09:25:57Z",
+  "checked": "2026-11-03T11:09:59Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:08Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
@@ -284,7 +284,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip09.gif": {
   "bytes": 4045,
-  "checked": "2026-10-03T09:26:53Z",
+  "checked": "2026-11-03T11:10:53Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:04Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:57 GMT",
@@ -294,7 +294,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip10.gif": {
   "bytes": 5365,
-  "checked": "2026-10-03T09:26:03Z",
+  "checked": "2026-11-03T11:10:05Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:12Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
@@ -304,7 +304,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip11.gif": {
   "bytes": 1801,
-  "checked": "2026-10-03T09:26:08Z",
+  "checked": "2026-11-03T11:10:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
@@ -314,7 +314,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip12.gif": {
   "bytes": 2781,
-  "checked": "2026-10-03T09:26:13Z",
+  "checked": "2026-11-03T11:10:16Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
@@ -324,7 +324,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip13.gif": {
   "bytes": 3500,
-  "checked": "2026-10-03T09:26:19Z",
+  "checked": "2026-11-03T11:10:20Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:26Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:58 GMT",
@@ -334,7 +334,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip14.gif": {
   "bytes": 2129,
-  "checked": "2026-10-03T09:26:24Z",
+  "checked": "2026-11-03T11:10:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:31Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:59 GMT",
@@ -344,7 +344,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip15.gif": {
   "bytes": 1897,
-  "checked": "2026-10-03T09:26:49Z",
+  "checked": "2026-11-03T11:10:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:58Z",
   "last_modified": "Sat, 17 Sep 2016 19:30:59 GMT",
@@ -354,7 +354,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip16.gif": {
   "bytes": 2967,
-  "checked": "2026-10-03T09:26:34Z",
+  "checked": "2026-11-03T11:10:34Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:42Z",
   "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
@@ -364,7 +364,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip17.gif": {
   "bytes": 3549,
-  "checked": "2026-10-03T09:26:39Z",
+  "checked": "2026-11-03T11:10:39Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:48Z",
   "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
@@ -374,7 +374,7 @@
  },
  "https://gsarchive.net/pirates/clip_art/clip18.gif": {
   "bytes": 2231,
-  "checked": "2026-10-03T09:26:43Z",
+  "checked": "2026-11-03T11:10:44Z",
   "etag": null,
   "fetched": "2026-07-24T12:01:54Z",
   "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
@@ -390,7 +390,7 @@
   "last_modified": "Sat, 17 Sep 2016 19:31:00 GMT",
   "path": "data/snapshot/pirates/clip_art/clip19.gif",
   "sha256": "e35db3e24f4db24e13d1667eceb1075b45dd8be84a62f46d9d2ddacb5e039338",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/dance_arr/pp_galop.pdf": {
   "status": "skipped_media"
@@ -415,7 +415,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-1.html": {
   "bytes": 19887,
-  "checked": "2026-09-03T08:35:04Z",
+  "checked": "2026-11-03T11:26:06Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:22Z",
   "last_modified": "Mon, 20 Nov 2023 02:37:41 GMT",
@@ -425,7 +425,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-2.html": {
   "bytes": 16303,
-  "checked": "2026-09-03T08:35:09Z",
+  "checked": "2026-11-03T11:26:11Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:27Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:05 GMT",
@@ -435,7 +435,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-3.html": {
   "bytes": 13137,
-  "checked": "2026-09-03T08:35:15Z",
+  "checked": "2026-11-03T11:26:15Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:32Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:48 GMT",
@@ -445,7 +445,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-4.html": {
   "bytes": 21522,
-  "checked": "2026-09-03T08:35:20Z",
+  "checked": "2026-11-03T11:26:21Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:36Z",
   "last_modified": "Mon, 20 Nov 2023 02:37:44 GMT",
@@ -455,7 +455,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-5.html": {
   "bytes": 10635,
-  "checked": "2026-09-03T08:35:24Z",
+  "checked": "2026-11-03T11:26:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:41Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:01 GMT",
@@ -465,7 +465,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-6.html": {
   "bytes": 8772,
-  "checked": "2026-09-03T08:35:29Z",
+  "checked": "2026-11-03T11:26:31Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:46Z",
   "last_modified": "Mon, 20 Nov 2023 02:37:39 GMT",
@@ -475,7 +475,7 @@
  },
  "https://gsarchive.net/pirates/discussion/1-7.html": {
   "bytes": 13631,
-  "checked": "2026-09-03T08:35:33Z",
+  "checked": "2026-11-03T11:26:35Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:50Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:53 GMT",
@@ -485,7 +485,7 @@
  },
  "https://gsarchive.net/pirates/discussion/2.html": {
   "bytes": 26151,
-  "checked": "2026-09-03T08:35:38Z",
+  "checked": "2026-11-03T11:26:40Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:55Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:49 GMT",
@@ -495,17 +495,17 @@
  },
  "https://gsarchive.net/pirates/discussion/3-1.html": {
   "bytes": 17614,
-  "checked": "2026-08-03T07:08:07Z",
+  "checked": "2026-11-03T11:26:44Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:00Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:00 GMT",
   "path": "data/snapshot/pirates/discussion/3-1.html",
   "sha256": "a955d2aa350ae01c58177857d2460c27bb5c996bb5441b45be29bd48c4fc21ef",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/discussion/3-2.html": {
   "bytes": 14313,
-  "checked": "2026-09-03T08:35:48Z",
+  "checked": "2026-11-03T11:26:50Z",
   "etag": null,
   "fetched": "2026-08-03T07:08:13Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:00 GMT",
@@ -515,7 +515,7 @@
  },
  "https://gsarchive.net/pirates/discussion/3-3.html": {
   "bytes": 15938,
-  "checked": "2026-09-03T08:35:54Z",
+  "checked": "2026-11-03T11:26:54Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:09Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:07 GMT",
@@ -525,7 +525,7 @@
  },
  "https://gsarchive.net/pirates/discussion/3-4.html": {
   "bytes": 9419,
-  "checked": "2026-09-03T08:35:59Z",
+  "checked": "2026-11-03T11:27:00Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:15Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:50 GMT",
@@ -535,7 +535,7 @@
  },
  "https://gsarchive.net/pirates/discussion/3-5.html": {
   "bytes": 11415,
-  "checked": "2026-09-03T08:36:04Z",
+  "checked": "2026-11-03T11:27:05Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:21Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:05 GMT",
@@ -545,7 +545,7 @@
  },
  "https://gsarchive.net/pirates/discussion/4.html": {
   "bytes": 24007,
-  "checked": "2026-09-03T08:36:09Z",
+  "checked": "2026-11-03T11:27:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:26Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:54 GMT",
@@ -555,7 +555,7 @@
  },
  "https://gsarchive.net/pirates/discussion/5-1.html": {
   "bytes": 9267,
-  "checked": "2026-09-03T08:36:15Z",
+  "checked": "2026-11-03T11:27:14Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:31Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:51 GMT",
@@ -565,7 +565,7 @@
  },
  "https://gsarchive.net/pirates/discussion/5-2.html": {
   "bytes": 6095,
-  "checked": "2026-09-03T08:36:20Z",
+  "checked": "2026-11-03T11:27:19Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:35Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:03 GMT",
@@ -575,7 +575,7 @@
  },
  "https://gsarchive.net/pirates/discussion/6.html": {
   "bytes": 9401,
-  "checked": "2026-09-03T08:36:25Z",
+  "checked": "2026-11-03T11:27:23Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:39Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:06 GMT",
@@ -585,7 +585,7 @@
  },
  "https://gsarchive.net/pirates/discussion/7.html": {
   "bytes": 3811,
-  "checked": "2026-09-03T08:36:31Z",
+  "checked": "2026-11-03T11:27:28Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:45Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:56 GMT",
@@ -595,7 +595,7 @@
  },
  "https://gsarchive.net/pirates/discussion/8.html": {
   "bytes": 7615,
-  "checked": "2026-09-03T08:36:36Z",
+  "checked": "2026-11-03T11:27:34Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:50Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:53 GMT",
@@ -605,7 +605,7 @@
  },
  "https://gsarchive.net/pirates/discussion/9.html": {
   "bytes": 19195,
-  "checked": "2026-09-03T08:36:41Z",
+  "checked": "2026-11-03T11:27:38Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:54Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:52 GMT",
@@ -615,7 +615,7 @@
  },
  "https://gsarchive.net/pirates/discussion/appn1.html": {
   "bytes": 2454,
-  "checked": "2026-09-03T08:36:47Z",
+  "checked": "2026-11-03T11:27:42Z",
   "etag": null,
   "fetched": "2026-07-24T12:18:58Z",
   "last_modified": "Mon, 07 Nov 2022 03:40:02 GMT",
@@ -625,7 +625,7 @@
  },
  "https://gsarchive.net/pirates/discussion/appn2.html": {
   "bytes": 3869,
-  "checked": "2026-09-03T08:36:53Z",
+  "checked": "2026-11-03T11:27:49Z",
   "etag": null,
   "fetched": "2026-07-24T12:19:04Z",
   "last_modified": "Mon, 07 Nov 2022 03:39:55 GMT",
@@ -635,17 +635,17 @@
  },
  "https://gsarchive.net/pirates/discussion/discuss_home.html": {
   "bytes": 13976,
-  "checked": "2026-09-03T08:21:36Z",
+  "checked": "2026-11-03T11:12:21Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:27Z",
   "last_modified": "Mon, 20 Nov 2023 02:37:40 GMT",
   "path": "data/snapshot/pirates/discussion/discuss_home.html",
   "sha256": "7c095bab737215860eed0ff56f645c1b62e7b9ee81f1ddd368a7e0e59a68e0f9",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/flint/away.html": {
   "bytes": 1925,
-  "checked": "2026-10-03T09:41:25Z",
+  "checked": "2026-11-03T11:25:16Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:33Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:04 GMT",
@@ -655,7 +655,7 @@
  },
  "https://gsarchive.net/pirates/flint/away.jpg": {
   "bytes": 23712,
-  "checked": "2026-10-03T09:41:30Z",
+  "checked": "2026-11-03T11:25:20Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:39Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:22 GMT",
@@ -665,7 +665,7 @@
  },
  "https://gsarchive.net/pirates/flint/away_t.jpg": {
   "bytes": 9320,
-  "checked": "2026-10-03T09:24:18Z",
+  "checked": "2026-11-03T11:08:23Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:26Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:22 GMT",
@@ -675,7 +675,7 @@
  },
  "https://gsarchive.net/pirates/flint/cat-like_tread.html": {
   "bytes": 1958,
-  "checked": "2026-10-03T09:41:45Z",
+  "checked": "2026-11-03T11:25:36Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:53Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:06 GMT",
@@ -685,7 +685,7 @@
  },
  "https://gsarchive.net/pirates/flint/cat-like_tread.jpg": {
   "bytes": 28867,
-  "checked": "2026-10-03T09:41:49Z",
+  "checked": "2026-11-03T11:25:42Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:58Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:23 GMT",
@@ -695,7 +695,7 @@
  },
  "https://gsarchive.net/pirates/flint/cat-like_tread_t.jpg": {
   "bytes": 4788,
-  "checked": "2026-10-03T09:24:27Z",
+  "checked": "2026-11-03T11:08:33Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:36Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:23 GMT",
@@ -705,7 +705,7 @@
  },
  "https://gsarchive.net/pirates/flint/daughters_enter.html": {
   "bytes": 1945,
-  "checked": "2026-10-03T09:41:55Z",
+  "checked": "2026-11-03T11:25:47Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:02Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:05 GMT",
@@ -715,7 +715,7 @@
  },
  "https://gsarchive.net/pirates/flint/daughters_enter.jpg": {
   "bytes": 29100,
-  "checked": "2026-10-03T09:42:00Z",
+  "checked": "2026-11-03T11:25:51Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:08Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:25 GMT",
@@ -725,7 +725,7 @@
  },
  "https://gsarchive.net/pirates/flint/daughters_enter_t.jpg": {
   "bytes": 5238,
-  "checked": "2026-10-03T09:24:32Z",
+  "checked": "2026-11-03T11:08:38Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:40Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:25 GMT",
@@ -735,7 +735,7 @@
  },
  "https://gsarchive.net/pirates/flint/gallery_index.html": {
   "bytes": 4190,
-  "checked": "2026-10-03T09:23:59Z",
+  "checked": "2026-11-03T11:08:04Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:06Z",
   "last_modified": "Mon, 24 Oct 2022 11:09:28 GMT",
@@ -745,7 +745,7 @@
  },
  "https://gsarchive.net/pirates/flint/on_beach.html": {
   "bytes": 1972,
-  "checked": "2026-10-03T09:40:54Z",
+  "checked": "2026-11-03T11:24:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:04Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:08 GMT",
@@ -755,7 +755,7 @@
  },
  "https://gsarchive.net/pirates/flint/on_beach.jpg": {
   "bytes": 19856,
-  "checked": "2026-10-03T09:41:00Z",
+  "checked": "2026-11-03T11:24:54Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:09Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:26 GMT",
@@ -765,7 +765,7 @@
  },
  "https://gsarchive.net/pirates/flint/on_beach_t.jpg": {
   "bytes": 6372,
-  "checked": "2026-10-03T09:24:05Z",
+  "checked": "2026-11-03T11:08:08Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:10Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:26 GMT",
@@ -775,7 +775,7 @@
  },
  "https://gsarchive.net/pirates/flint/paddling.html": {
   "bytes": 1923,
-  "checked": "2026-10-03T09:41:04Z",
+  "checked": "2026-11-03T11:24:59Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:13Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:07 GMT",
@@ -785,7 +785,7 @@
  },
  "https://gsarchive.net/pirates/flint/paddling.jpg": {
   "bytes": 21091,
-  "checked": "2026-10-03T09:41:09Z",
+  "checked": "2026-11-03T11:25:05Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:18Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:27 GMT",
@@ -795,7 +795,7 @@
  },
  "https://gsarchive.net/pirates/flint/paddling_t.jpg": {
   "bytes": 7160,
-  "checked": "2026-10-03T09:24:09Z",
+  "checked": "2026-11-03T11:08:14Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:15Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:28 GMT",
@@ -805,7 +805,7 @@
  },
  "https://gsarchive.net/pirates/flint/pirates_dance.html": {
   "bytes": 1950,
-  "checked": "2026-10-03T09:41:35Z",
+  "checked": "2026-11-03T11:25:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:43Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:03 GMT",
@@ -815,7 +815,7 @@
  },
  "https://gsarchive.net/pirates/flint/pirates_dance.jpg": {
   "bytes": 25389,
-  "checked": "2026-10-03T09:41:39Z",
+  "checked": "2026-11-03T11:25:32Z",
   "etag": null,
   "fetched": "2026-07-24T12:16:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:29 GMT",
@@ -825,7 +825,7 @@
  },
  "https://gsarchive.net/pirates/flint/pirates_dance_t.jpg": {
   "bytes": 5353,
-  "checked": "2026-10-03T09:24:22Z",
+  "checked": "2026-11-03T11:08:28Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:31Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:29 GMT",
@@ -835,7 +835,7 @@
  },
  "https://gsarchive.net/pirates/flint/struggle_ensues.html": {
   "bytes": 1960,
-  "checked": "2026-10-03T09:42:04Z",
+  "checked": "2026-11-03T11:25:56Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:12Z",
   "last_modified": "Sun, 15 Jan 2023 14:35:09 GMT",
@@ -845,7 +845,7 @@
  },
  "https://gsarchive.net/pirates/flint/struggle_ensues.jpg": {
   "bytes": 23490,
-  "checked": "2026-10-03T09:42:09Z",
+  "checked": "2026-11-03T11:26:00Z",
   "etag": null,
   "fetched": "2026-07-24T12:17:17Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:29 GMT",
@@ -855,7 +855,7 @@
  },
  "https://gsarchive.net/pirates/flint/struggle_ensues_t.jpg": {
   "bytes": 4063,
-  "checked": "2026-10-03T09:24:38Z",
+  "checked": "2026-11-03T11:08:43Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:44Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:30 GMT",
@@ -871,7 +871,7 @@
   "last_modified": "Sun, 15 Jan 2023 14:35:09 GMT",
   "path": "data/snapshot/pirates/flint/too_late.html",
   "sha256": "08f0d1e501c507eb9188ed477dab61fa33e45e8827a1a7dc609ea64f0921ade4",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/flint/too_late.jpg": {
   "bytes": 24865,
@@ -885,7 +885,7 @@
  },
  "https://gsarchive.net/pirates/flint/too_late_t.jpg": {
   "bytes": 4864,
-  "checked": "2026-10-03T09:24:14Z",
+  "checked": "2026-11-03T11:08:19Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:21Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:31 GMT",
@@ -895,7 +895,7 @@
  },
  "https://gsarchive.net/pirates/graphics/MGS.jpg": {
   "bytes": 5615,
-  "checked": "2026-10-03T09:17:43Z",
+  "checked": "2026-11-03T11:01:53Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
@@ -905,7 +905,7 @@
  },
  "https://gsarchive.net/pirates/graphics/PK.jpg": {
   "bytes": 6219,
-  "checked": "2026-10-03T09:17:33Z",
+  "checked": "2026-11-03T11:01:43Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:54Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
@@ -915,7 +915,7 @@
  },
  "https://gsarchive.net/pirates/graphics/brace.gif": {
   "bytes": 210,
-  "checked": "2026-10-03T09:14:58Z",
+  "checked": "2026-11-03T10:59:00Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:17Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:33 GMT",
@@ -925,7 +925,7 @@
  },
  "https://gsarchive.net/pirates/graphics/casts.gif": {
   "bytes": 6605,
-  "checked": "2026-10-03T09:16:50Z",
+  "checked": "2026-11-03T11:00:54Z",
   "etag": null,
   "fetched": "2026-08-03T06:41:55Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:34 GMT",
@@ -935,7 +935,7 @@
  },
  "https://gsarchive.net/pirates/graphics/doc.gif": {
   "bytes": 6929,
-  "checked": "2026-10-03T09:18:06Z",
+  "checked": "2026-11-03T11:02:17Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:26Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:34 GMT",
@@ -945,7 +945,7 @@
  },
  "https://gsarchive.net/pirates/graphics/errata.gif": {
   "bytes": 8871,
-  "checked": "2026-10-03T09:16:20Z",
+  "checked": "2026-11-03T11:00:23Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:39Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
@@ -955,7 +955,7 @@
  },
  "https://gsarchive.net/pirates/graphics/errata_1.gif": {
   "bytes": 3687,
-  "checked": "2026-10-03T09:16:25Z",
+  "checked": "2026-11-03T11:00:29Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:44Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
@@ -965,7 +965,7 @@
  },
  "https://gsarchive.net/pirates/graphics/errata_2.gif": {
   "bytes": 4177,
-  "checked": "2026-10-03T09:16:29Z",
+  "checked": "2026-11-03T11:00:33Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:49Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
@@ -975,7 +975,7 @@
  },
  "https://gsarchive.net/pirates/graphics/errata_3.gif": {
   "bytes": 3011,
-  "checked": "2026-10-03T09:16:34Z",
+  "checked": "2026-11-03T11:00:38Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:53Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:35 GMT",
@@ -985,7 +985,7 @@
  },
  "https://gsarchive.net/pirates/graphics/errata_4.gif": {
   "bytes": 3849,
-  "checked": "2026-10-03T09:16:40Z",
+  "checked": "2026-11-03T11:00:44Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:58Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
@@ -995,7 +995,7 @@
  },
  "https://gsarchive.net/pirates/graphics/gloss.gif": {
   "bytes": 3377,
-  "checked": "2026-10-03T09:15:48Z",
+  "checked": "2026-11-03T10:59:52Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:08Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
@@ -1005,7 +1005,7 @@
  },
  "https://gsarchive.net/pirates/graphics/intro.gif": {
   "bytes": 4411,
-  "checked": "2026-10-03T09:15:12Z",
+  "checked": "2026-11-03T10:59:15Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:33Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:36 GMT",
@@ -1015,7 +1015,7 @@
  },
  "https://gsarchive.net/pirates/graphics/pirate.jpg": {
   "bytes": 13640,
-  "checked": "2026-09-03T08:21:40Z",
+  "checked": "2026-11-03T11:12:27Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:32Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
@@ -1025,7 +1025,7 @@
  },
  "https://gsarchive.net/pirates/graphics/piratespenzanceb.jpg": {
   "bytes": 14823,
-  "checked": "2026-10-03T09:14:09Z",
+  "checked": "2026-11-03T10:58:07Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
@@ -1035,7 +1035,7 @@
  },
  "https://gsarchive.net/pirates/graphics/reviews.gif": {
   "bytes": 6188,
-  "checked": "2026-10-03T09:17:38Z",
+  "checked": "2026-11-03T11:01:48Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:58Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:38 GMT",
@@ -1045,7 +1045,7 @@
  },
  "https://gsarchive.net/pirates/graphics/schirmer_sc.jpg": {
   "bytes": 2984,
-  "checked": "2026-10-03T09:16:11Z",
+  "checked": "2026-11-03T11:00:13Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:29Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:39 GMT",
@@ -1055,7 +1055,7 @@
  },
  "https://gsarchive.net/pirates/graphics/scores.gif": {
   "bytes": 5053,
-  "checked": "2026-10-03T09:15:59Z",
+  "checked": "2026-11-03T11:00:02Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:18Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:39 GMT",
@@ -1065,7 +1065,7 @@
  },
  "https://gsarchive.net/pirates/graphics/sm_title.jpg": {
   "bytes": 10455,
-  "checked": "2026-10-03T09:14:48Z",
+  "checked": "2026-11-03T10:58:50Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:06Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:39 GMT",
@@ -1075,7 +1075,7 @@
  },
  "https://gsarchive.net/pirates/graphics/temple_pk_sm.jpg": {
   "bytes": 26000,
-  "checked": "2026-10-03T09:14:20Z",
+  "checked": "2026-11-03T10:58:18Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:33Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:41 GMT",
@@ -1085,17 +1085,17 @@
  },
  "https://gsarchive.net/pirates/graphics/title.jpg": {
   "bytes": 30306,
-  "checked": "2026-09-03T08:07:10Z",
+  "checked": "2026-11-03T10:58:03Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:17Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:42 GMT",
   "path": "data/snapshot/pirates/graphics/title.jpg",
   "sha256": "b414d96994936cf5fc85b9e109f2785f049029d21ead41fd0cb305c451ec36c7",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/graphics/title11.jpg": {
   "bytes": 14492,
-  "checked": "2026-10-03T09:27:08Z",
+  "checked": "2026-11-03T11:11:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:19Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:42 GMT",
@@ -1105,7 +1105,7 @@
  },
  "https://gsarchive.net/pirates/graphics/webop.gif": {
   "bytes": 2880,
-  "checked": "2026-10-03T09:14:54Z",
+  "checked": "2026-11-03T10:58:54Z",
   "etag": null,
   "fetched": "2026-08-03T06:40:05Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:42 GMT",
@@ -1115,7 +1115,7 @@
  },
  "https://gsarchive.net/pirates/graphics/wostrip.gif": {
   "bytes": 23390,
-  "checked": "2026-10-03T09:28:43Z",
+  "checked": "2026-11-03T11:12:47Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:51Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:43 GMT",
@@ -1125,7 +1125,7 @@
  },
  "https://gsarchive.net/pirates/html/bond_intro.html": {
   "bytes": 5943,
-  "checked": "2026-10-03T09:15:27Z",
+  "checked": "2026-11-03T10:59:31Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:46Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:59 GMT",
@@ -1135,7 +1135,7 @@
  },
  "https://gsarchive.net/pirates/html/casts.html": {
   "bytes": 9822,
-  "checked": "2026-10-03T09:16:44Z",
+  "checked": "2026-11-03T11:00:48Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:03Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:55 GMT",
@@ -1145,7 +1145,7 @@
  },
  "https://gsarchive.net/pirates/html/clip_art.html": {
   "bytes": 6996,
-  "checked": "2026-10-03T09:25:19Z",
+  "checked": "2026-11-03T11:09:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:00:32Z",
   "last_modified": "Mon, 06 Feb 2023 02:58:01 GMT",
@@ -1155,7 +1155,7 @@
  },
  "https://gsarchive.net/pirates/html/comment.html": {
   "bytes": 9787,
-  "checked": "2026-10-03T09:15:33Z",
+  "checked": "2026-11-03T10:59:37Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:51Z",
   "last_modified": "Mon, 06 Feb 2023 02:58:00 GMT",
@@ -1165,7 +1165,7 @@
  },
  "https://gsarchive.net/pirates/html/index.html": {
   "bytes": 17408,
-  "checked": "2026-10-03T09:13:59Z",
+  "checked": "2026-11-03T10:57:59Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:13Z",
   "last_modified": "Mon, 11 May 2026 10:36:06 GMT",
@@ -1175,7 +1175,7 @@
  },
  "https://gsarchive.net/pirates/html/intro.html": {
   "bytes": 13022,
-  "checked": "2026-10-03T09:15:08Z",
+  "checked": "2026-11-03T10:59:10Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:28Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:56 GMT",
@@ -1185,7 +1185,7 @@
  },
  "https://gsarchive.net/pirates/html/notes.html": {
   "bytes": 13670,
-  "checked": "2026-10-03T09:15:42Z",
+  "checked": "2026-11-03T10:59:47Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:03Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:56 GMT",
@@ -1195,7 +1195,7 @@
  },
  "https://gsarchive.net/pirates/html/phil_rehearsal.html": {
   "bytes": 13054,
-  "checked": "2026-10-03T09:17:53Z",
+  "checked": "2026-11-03T11:02:03Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:11Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:59 GMT",
@@ -1205,17 +1205,17 @@
  },
  "https://gsarchive.net/pirates/html/pirates.css": {
   "bytes": 2649,
-  "checked": "2026-09-03T08:07:42Z",
+  "checked": "2026-11-03T10:58:34Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:50Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:47 GMT",
   "path": "data/snapshot/pirates/html/pirates.css",
   "sha256": "d10bda46f109e3d6521a9f57b41be2faeb04cd5852eef2531a3e9c1b9cfdcfed",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/html/pirates_glos.html": {
   "bytes": 10918,
-  "checked": "2026-10-03T09:15:37Z",
+  "checked": "2026-11-03T10:59:42Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:57Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:54 GMT",
@@ -1225,7 +1225,7 @@
  },
  "https://gsarchive.net/pirates/html/pirates_schirmer_errata.html": {
   "bytes": 14363,
-  "checked": "2026-10-03T09:16:16Z",
+  "checked": "2026-11-03T11:00:18Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:34Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:58 GMT",
@@ -1235,7 +1235,7 @@
  },
  "https://gsarchive.net/pirates/html/pirates_scores.html": {
   "bytes": 12363,
-  "checked": "2026-10-03T09:15:54Z",
+  "checked": "2026-11-03T10:59:58Z",
   "etag": null,
   "fetched": "2026-07-24T11:51:14Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:52 GMT",
@@ -1245,7 +1245,7 @@
  },
  "https://gsarchive.net/pirates/html/plaque.html": {
   "bytes": 2667,
-  "checked": "2026-10-03T09:28:07Z",
+  "checked": "2026-11-03T11:12:04Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:12Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:57 GMT",
@@ -1255,7 +1255,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/covers.html": {
   "bytes": 12634,
-  "checked": "2026-10-03T09:27:02Z",
+  "checked": "2026-11-03T11:11:04Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:13Z",
   "last_modified": "Sat, 21 Jan 2023 01:32:00 GMT",
@@ -1265,7 +1265,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/bullet.gif": {
   "bytes": 307,
-  "checked": "2026-10-03T09:27:57Z",
+  "checked": "2026-11-03T11:11:54Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:27 GMT",
@@ -1275,7 +1275,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/next.gif": {
   "bytes": 1010,
-  "checked": "2026-10-03T09:28:03Z",
+  "checked": "2026-11-03T11:11:59Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:06Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:28 GMT",
@@ -1291,11 +1291,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:35:29 GMT",
   "path": "data/snapshot/pirates/illus_cov/graphics/ppgalop_sm.jpg",
   "sha256": "0246ece4ffaef85ce599b3718345b92dd760acb67bfc331b0a2426629f014919",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/pplance_sm.jpg": {
   "bytes": 22015,
-  "checked": "2026-10-03T09:27:24Z",
+  "checked": "2026-11-03T11:11:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:34Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:30 GMT",
@@ -1305,7 +1305,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/pppolka_sm.jpg": {
   "bytes": 29656,
-  "checked": "2026-10-03T09:27:30Z",
+  "checked": "2026-11-03T11:11:30Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:38Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:33 GMT",
@@ -1315,7 +1315,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/ppquad_sm.jpg": {
   "bytes": 33706,
-  "checked": "2026-10-03T09:27:35Z",
+  "checked": "2026-11-03T11:11:36Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:43Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:36 GMT",
@@ -1325,7 +1325,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/ppwaltz1_sm.jpg": {
   "bytes": 16315,
-  "checked": "2026-10-03T09:27:40Z",
+  "checked": "2026-11-03T11:11:40Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:37 GMT",
@@ -1335,7 +1335,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/ppwaltz2_sm.jpg": {
   "bytes": 17975,
-  "checked": "2026-10-03T09:27:46Z",
+  "checked": "2026-11-03T11:11:44Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:52Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:39 GMT",
@@ -1345,7 +1345,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/prev.gif": {
   "bytes": 1168,
-  "checked": "2026-10-03T09:27:51Z",
+  "checked": "2026-11-03T11:11:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:56Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:39 GMT",
@@ -1355,7 +1355,7 @@
  },
  "https://gsarchive.net/pirates/illus_cov/graphics/title.gif": {
   "bytes": 3943,
-  "checked": "2026-10-03T09:27:12Z",
+  "checked": "2026-11-03T11:11:15Z",
   "etag": null,
   "fetched": "2026-07-24T12:02:25Z",
   "last_modified": "Sat, 17 Sep 2016 19:35:39 GMT",
@@ -1365,7 +1365,7 @@
  },
  "https://gsarchive.net/pirates/images/1907poster.jpg": {
   "bytes": 18819,
-  "checked": "2026-10-03T09:15:02Z",
+  "checked": "2026-11-03T10:59:04Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:52 GMT",
@@ -1381,11 +1381,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:32:53 GMT",
   "path": "data/snapshot/pirates/images/1919act2_sm.jpg",
   "sha256": "060dfa3cee431a8c2c7ae8ff1dadc9c67392ddee9c40e07089b910a28b6962be",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/images/1919paradox_sm.jpg": {
   "bytes": 21838,
-  "checked": "2026-10-03T09:33:11Z",
+  "checked": "2026-11-03T11:17:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:17Z",
   "last_modified": "Sat, 17 Sep 2016 19:32:56 GMT",
@@ -1395,7 +1395,7 @@
  },
  "https://gsarchive.net/pirates/images/26act1pardon_sm.jpg": {
   "bytes": 17322,
-  "checked": "2026-10-03T09:29:42Z",
+  "checked": "2026-11-03T11:13:44Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:01 GMT",
@@ -1411,11 +1411,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:33:02 GMT",
   "path": "data/snapshot/pirates/images/26act2fin_sm.jpg",
   "sha256": "ed7f7b0f6236eb556d75f264c1d766d6526fa3d75919a8a65f219573854873a2",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/images/26falseone_sm.jpg": {
   "bytes": 14214,
-  "checked": "2026-10-03T09:30:13Z",
+  "checked": "2026-11-03T11:14:16Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:17Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:03 GMT",
@@ -1425,7 +1425,7 @@
  },
  "https://gsarchive.net/pirates/images/26fin2_sm.jpg": {
   "bytes": 15198,
-  "checked": "2026-10-03T09:35:12Z",
+  "checked": "2026-11-03T11:19:07Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:20Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:04 GMT",
@@ -1435,7 +1435,7 @@
  },
  "https://gsarchive.net/pirates/images/26king_sm.jpg": {
   "bytes": 7900,
-  "checked": "2026-10-03T09:29:57Z",
+  "checked": "2026-11-03T11:14:00Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:05 GMT",
@@ -1445,7 +1445,7 @@
  },
  "https://gsarchive.net/pirates/images/26noise_sm.jpg": {
   "bytes": 12068,
-  "checked": "2026-10-03T09:34:53Z",
+  "checked": "2026-11-03T11:18:48Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:59Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:06 GMT",
@@ -1455,7 +1455,7 @@
  },
  "https://gsarchive.net/pirates/images/26pine_sm.jpg": {
   "bytes": 5911,
-  "checked": "2026-10-03T09:33:48Z",
+  "checked": "2026-11-03T11:17:44Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:53Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:07 GMT",
@@ -1465,7 +1465,7 @@
  },
  "https://gsarchive.net/pirates/images/33glory_sm.jpg": {
   "bytes": 11236,
-  "checked": "2026-10-03T09:34:18Z",
+  "checked": "2026-11-03T11:18:12Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:23Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:13 GMT",
@@ -1475,7 +1475,7 @@
  },
  "https://gsarchive.net/pirates/images/33stay_sm.jpg": {
   "bytes": 10168,
-  "checked": "2026-10-03T09:33:53Z",
+  "checked": "2026-11-03T11:17:48Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:58Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:15 GMT",
@@ -1485,7 +1485,7 @@
  },
  "https://gsarchive.net/pirates/images/33wandering_sm.jpg": {
   "bytes": 13332,
-  "checked": "2026-10-03T09:31:01Z",
+  "checked": "2026-11-03T11:15:06Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:06Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:15 GMT",
@@ -1505,7 +1505,7 @@
  },
  "https://gsarchive.net/pirates/images/39kingkate1_sm.jpg": {
   "bytes": 12558,
-  "checked": "2026-10-03T09:31:22Z",
+  "checked": "2026-11-03T11:15:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:25Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:20 GMT",
@@ -1515,7 +1515,7 @@
  },
  "https://gsarchive.net/pirates/images/39mabel1_sm.jpg": {
   "bytes": 10307,
-  "checked": "2026-10-03T09:31:07Z",
+  "checked": "2026-11-03T11:15:12Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:12Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:20 GMT",
@@ -1525,7 +1525,7 @@
  },
  "https://gsarchive.net/pirates/images/39pirates_sm.jpg": {
   "bytes": 17799,
-  "checked": "2026-10-03T09:32:18Z",
+  "checked": "2026-11-03T11:16:15Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:17Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:21 GMT",
@@ -1535,7 +1535,7 @@
  },
  "https://gsarchive.net/pirates/images/50fred_sm.jpg": {
   "bytes": 9961,
-  "checked": "2026-10-03T09:33:07Z",
+  "checked": "2026-11-03T11:17:04Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:12Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:23 GMT",
@@ -1545,7 +1545,7 @@
  },
  "https://gsarchive.net/pirates/images/50gen2_sm.jpg": {
   "bytes": 10547,
-  "checked": "2026-10-03T09:34:57Z",
+  "checked": "2026-11-03T11:18:53Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:04Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:24 GMT",
@@ -1555,7 +1555,7 @@
  },
  "https://gsarchive.net/pirates/images/50king_sm.jpg": {
   "bytes": 8861,
-  "checked": "2026-10-03T09:32:23Z",
+  "checked": "2026-11-03T11:16:19Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:24 GMT",
@@ -1565,7 +1565,7 @@
  },
  "https://gsarchive.net/pirates/images/50ruth_sm.jpg": {
   "bytes": 12346,
-  "checked": "2026-10-03T09:33:17Z",
+  "checked": "2026-11-03T11:17:15Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:26 GMT",
@@ -1575,7 +1575,7 @@
  },
  "https://gsarchive.net/pirates/images/61girls2_sm.jpg": {
   "bytes": 20351,
-  "checked": "2026-10-03T09:35:02Z",
+  "checked": "2026-11-03T11:18:58Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:10Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:32 GMT",
@@ -1585,7 +1585,7 @@
  },
  "https://gsarchive.net/pirates/images/act22_sm.jpg": {
   "bytes": 37538,
-  "checked": "2026-10-03T09:32:52Z",
+  "checked": "2026-11-03T11:16:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:54Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:39 GMT",
@@ -1595,7 +1595,7 @@
  },
  "https://gsarchive.net/pirates/images/bldg.jpg": {
   "bytes": 189784,
-  "checked": "2026-10-03T09:28:12Z",
+  "checked": "2026-11-03T11:12:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:46 GMT",
@@ -1605,7 +1605,7 @@
  },
  "https://gsarchive.net/pirates/images/fred_round_sm.jpg": {
   "bytes": 17035,
-  "checked": "2026-10-03T09:30:47Z",
+  "checked": "2026-11-03T11:14:52Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:53Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:47 GMT",
@@ -1615,7 +1615,7 @@
  },
  "https://gsarchive.net/pirates/images/king2_sm.jpg": {
   "bytes": 14675,
-  "checked": "2026-10-03T09:33:22Z",
+  "checked": "2026-11-03T11:17:19Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:28Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:49 GMT",
@@ -1625,7 +1625,7 @@
  },
  "https://gsarchive.net/pirates/images/lytton_sm.jpg": {
   "bytes": 5608,
-  "checked": "2026-10-03T09:31:48Z",
+  "checked": "2026-11-03T11:15:45Z",
   "etag": null,
   "fetched": "2026-08-03T06:56:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:51 GMT",
@@ -1635,7 +1635,7 @@
  },
  "https://gsarchive.net/pirates/images/masterson_sm.jpg": {
   "bytes": 14537,
-  "checked": "2026-10-03T09:30:53Z",
+  "checked": "2026-11-03T11:14:56Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:57Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:53 GMT",
@@ -1645,7 +1645,7 @@
  },
  "https://gsarchive.net/pirates/images/morgan-sm.jpg": {
   "bytes": 8144,
-  "checked": "2026-10-03T09:32:57Z",
+  "checked": "2026-11-03T11:16:54Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:00Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:53 GMT",
@@ -1655,7 +1655,7 @@
  },
  "https://gsarchive.net/pirates/images/ov01.jpg": {
   "bytes": 47293,
-  "checked": "2026-10-03T09:28:38Z",
+  "checked": "2026-11-03T11:12:43Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:33:58 GMT",
@@ -1665,7 +1665,7 @@
  },
  "https://gsarchive.net/pirates/images/over_sm.jpg": {
   "bytes": 13378,
-  "checked": "2026-10-03T09:32:03Z",
+  "checked": "2026-11-03T11:15:59Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:04 GMT",
@@ -1675,7 +1675,7 @@
  },
  "https://gsarchive.net/pirates/images/pir_pol_sm.jpg": {
   "bytes": 12109,
-  "checked": "2026-10-03T09:34:43Z",
+  "checked": "2026-11-03T11:18:38Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:06 GMT",
@@ -1685,7 +1685,7 @@
  },
  "https://gsarchive.net/pirates/images/plaque.jpg": {
   "bytes": 211182,
-  "checked": "2026-10-03T09:28:17Z",
+  "checked": "2026-11-03T11:12:16Z",
   "etag": null,
   "fetched": "2026-08-03T06:53:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:11 GMT",
@@ -1695,7 +1695,7 @@
  },
  "https://gsarchive.net/pirates/images/pratt_sm.jpg": {
   "bytes": 8997,
-  "checked": "2026-10-03T09:32:13Z",
+  "checked": "2026-11-03T11:16:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:13Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:08 GMT",
@@ -1705,7 +1705,7 @@
  },
  "https://gsarchive.net/pirates/images/sgt_passmore_sm.jpg": {
   "bytes": 12347,
-  "checked": "2026-10-03T09:34:28Z",
+  "checked": "2026-11-03T11:18:22Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:32Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:16 GMT",
@@ -1715,7 +1715,7 @@
  },
  "https://gsarchive.net/pirates/images/sgt_sheffield_sm.jpg": {
   "bytes": 7996,
-  "checked": "2026-10-03T09:34:32Z",
+  "checked": "2026-11-03T11:18:29Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:37Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:17 GMT",
@@ -1725,7 +1725,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_19801.jpg": {
   "bytes": 16971,
-  "checked": "2026-10-03T09:28:59Z",
+  "checked": "2026-11-03T11:13:03Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:06Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:18 GMT",
@@ -1735,7 +1735,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_19802.jpg": {
   "bytes": 15705,
-  "checked": "2026-10-03T09:31:27Z",
+  "checked": "2026-11-03T11:15:31Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:30Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:18 GMT",
@@ -1745,7 +1745,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_19803.jpg": {
   "bytes": 9346,
-  "checked": "2026-10-03T09:31:54Z",
+  "checked": "2026-11-03T11:15:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:54Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:19 GMT",
@@ -1755,7 +1755,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_5ave.gif": {
   "bytes": 11966,
-  "checked": "2026-10-03T09:16:59Z",
+  "checked": "2026-11-03T11:01:04Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:18Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:19 GMT",
@@ -1765,7 +1765,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_act1.jpg": {
   "bytes": 30708,
-  "checked": "2026-10-03T09:32:27Z",
+  "checked": "2026-11-03T11:16:24Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:28Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:20 GMT",
@@ -1775,7 +1775,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_act2set.jpg": {
   "bytes": 18343,
-  "checked": "2026-10-03T09:15:22Z",
+  "checked": "2026-11-03T10:59:25Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:41Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:21 GMT",
@@ -1785,7 +1785,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_fred_power.jpg": {
   "bytes": 18687,
-  "checked": "2026-10-03T09:30:42Z",
+  "checked": "2026-11-03T11:14:46Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:22 GMT",
@@ -1795,7 +1795,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_fredmab_haygriffin.jpg": {
   "bytes": 13308,
-  "checked": "2026-10-03T09:33:42Z",
+  "checked": "2026-11-03T11:17:39Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:49Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:22 GMT",
@@ -1805,7 +1805,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_king_hewson.jpg": {
   "bytes": 13846,
-  "checked": "2026-10-03T09:29:15Z",
+  "checked": "2026-11-03T11:13:18Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:19Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:22 GMT",
@@ -1815,7 +1815,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_king_temple.jpg": {
   "bytes": 14499,
-  "checked": "2026-10-03T09:29:52Z",
+  "checked": "2026-11-03T11:13:56Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:56Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:23 GMT",
@@ -1825,7 +1825,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_mab_hood1.jpg": {
   "bytes": 16755,
-  "checked": "2026-10-03T09:34:03Z",
+  "checked": "2026-11-03T11:17:58Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:08Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:24 GMT",
@@ -1835,7 +1835,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_opcomprog.gif": {
   "bytes": 15884,
-  "checked": "2026-10-03T09:17:05Z",
+  "checked": "2026-11-03T11:01:09Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:23Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:24 GMT",
@@ -1845,7 +1845,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_painpost.gif": {
   "bytes": 11337,
-  "checked": "2026-10-03T09:16:55Z",
+  "checked": "2026-11-03T11:00:59Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:13Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:25 GMT",
@@ -1855,7 +1855,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_ruth_barnett.jpg": {
   "bytes": 9304,
-  "checked": "2026-10-03T09:29:26Z",
+  "checked": "2026-11-03T11:13:28Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:28Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:26 GMT",
@@ -1865,7 +1865,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_ruth_brandram.jpg": {
   "bytes": 9782,
-  "checked": "2026-10-03T09:29:32Z",
+  "checked": "2026-11-03T11:13:34Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:34Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:26 GMT",
@@ -1875,7 +1875,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_sam_gtemple.jpg": {
   "bytes": 16757,
-  "checked": "2026-10-03T09:29:05Z",
+  "checked": "2026-11-03T11:13:09Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:10Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:27 GMT",
@@ -1885,7 +1885,7 @@
  },
  "https://gsarchive.net/pirates/images/sm_sgt_barrington2.jpg": {
   "bytes": 16170,
-  "checked": "2026-10-03T09:34:08Z",
+  "checked": "2026-11-03T11:18:03Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:14Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:28 GMT",
@@ -1895,7 +1895,7 @@
  },
  "https://gsarchive.net/pirates/images/smquad.jpg": {
   "bytes": 21299,
-  "checked": "2026-10-03T09:15:18Z",
+  "checked": "2026-11-03T10:59:20Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:37Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:18 GMT",
@@ -1911,11 +1911,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:34:30 GMT",
   "path": "data/snapshot/pirates/images/tn_1919act2.jpg",
   "sha256": "843fa26c924a920496f2f83aad8dd6e6a727aa7583f2d2a86cd35dfba4ca1e65",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/images/tn_1919daughters.jpg": {
   "bytes": 3555,
-  "checked": "2026-10-03T09:19:44Z",
+  "checked": "2026-11-03T11:03:57Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:05Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
@@ -1925,7 +1925,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_1919paradox.jpg": {
   "bytes": 3419,
-  "checked": "2026-10-03T09:19:55Z",
+  "checked": "2026-11-03T11:04:07Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:14Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
@@ -1935,7 +1935,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_1919ruthsgt.jpg": {
   "bytes": 3937,
-  "checked": "2026-10-03T09:20:11Z",
+  "checked": "2026-11-03T11:04:19Z",
   "etag": null,
   "fetched": "2026-08-03T06:45:20Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
@@ -1945,7 +1945,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_1919stay.jpg": {
   "bytes": 4142,
-  "checked": "2026-10-03T09:20:01Z",
+  "checked": "2026-11-03T11:04:11Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:19Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:31 GMT",
@@ -1955,7 +1955,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_19801.jpg": {
   "bytes": 4916,
-  "checked": "2026-10-03T09:23:44Z",
+  "checked": "2026-11-03T11:07:49Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:51Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:32 GMT",
@@ -1965,7 +1965,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_19802.jpg": {
   "bytes": 4718,
-  "checked": "2026-10-03T09:23:55Z",
+  "checked": "2026-11-03T11:08:00Z",
   "etag": null,
   "fetched": "2026-07-24T11:59:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:32 GMT",
@@ -1975,7 +1975,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_19803.jpg": {
   "bytes": 3563,
-  "checked": "2026-10-03T09:23:49Z",
+  "checked": "2026-11-03T11:07:54Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:56Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:32 GMT",
@@ -1985,7 +1985,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26act1pardon.jpg": {
   "bytes": 4661,
-  "checked": "2026-10-03T09:20:31Z",
+  "checked": "2026-11-03T11:04:39Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:48Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
@@ -2001,11 +2001,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
   "path": "data/snapshot/pirates/images/tn_26act2fin.jpg",
   "sha256": "e9a0169c3b16106988440b3a145cfde06c9ff2071b52f668b936b44676c27ca4",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/images/tn_26falseone.jpg": {
   "bytes": 4275,
-  "checked": "2026-10-03T09:20:37Z",
+  "checked": "2026-11-03T11:04:44Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:53Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
@@ -2015,7 +2015,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26fin2.jpg": {
   "bytes": 3660,
-  "checked": "2026-10-03T09:21:01Z",
+  "checked": "2026-11-03T11:05:07Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:33 GMT",
@@ -2025,7 +2025,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26king.jpg": {
   "bytes": 2638,
-  "checked": "2026-10-03T09:20:27Z",
+  "checked": "2026-11-03T11:04:35Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:43Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
@@ -2035,7 +2035,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26noise.jpg": {
   "bytes": 3055,
-  "checked": "2026-10-03T09:20:51Z",
+  "checked": "2026-11-03T11:04:57Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:07Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
@@ -2045,7 +2045,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26pine.jpg": {
   "bytes": 2345,
-  "checked": "2026-10-03T09:20:47Z",
+  "checked": "2026-11-03T11:04:52Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:03Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
@@ -2055,7 +2055,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26pour.jpg": {
   "bytes": 4306,
-  "checked": "2026-10-03T09:20:21Z",
+  "checked": "2026-11-03T11:04:29Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:38Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:34 GMT",
@@ -2065,7 +2065,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_26wandering.jpg": {
   "bytes": 4150,
-  "checked": "2026-10-03T09:20:41Z",
+  "checked": "2026-11-03T11:04:48Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:57Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:35 GMT",
@@ -2081,11 +2081,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:34:35 GMT",
   "path": "data/snapshot/pirates/images/tn_29paradox.jpg",
   "sha256": "b9e3c0290d20385e6546491e38001a8f8f1e97187dc229c00370d1f5553f029c",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/images/tn_33disappear.jpg": {
   "bytes": 3641,
-  "checked": "2026-10-03T09:21:33Z",
+  "checked": "2026-11-03T11:05:38Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:35 GMT",
@@ -2095,17 +2095,17 @@
  },
  "https://gsarchive.net/pirates/images/tn_33fredmab.jpg": {
   "bytes": 2499,
-  "checked": "2026-09-03T08:14:42Z",
+  "checked": "2026-11-03T11:05:33Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:42Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:36 GMT",
   "path": "data/snapshot/pirates/images/tn_33fredmab.jpg",
   "sha256": "fe4a8ca8f513a63e7987e2b41b15f163cb5292e78e1a49f21a998a9b1e33a47a",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/images/tn_33glory.jpg": {
   "bytes": 3908,
-  "checked": "2026-10-03T09:21:42Z",
+  "checked": "2026-11-03T11:05:47Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:56Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:36 GMT",
@@ -2115,7 +2115,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_33sgt.jpg": {
   "bytes": 1927,
-  "checked": "2026-10-03T09:21:58Z",
+  "checked": "2026-11-03T11:06:02Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:11Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:36 GMT",
@@ -2125,17 +2125,17 @@
  },
  "https://gsarchive.net/pirates/images/tn_33stay.jpg": {
   "bytes": 3289,
-  "checked": "2026-09-03T08:15:07Z",
+  "checked": "2026-11-03T11:05:57Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:05Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
   "path": "data/snapshot/pirates/images/tn_33stay.jpg",
   "sha256": "f3101a15ad4341c034b7fcdc038530662297cf124c22338629014c619302ff32",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/images/tn_33wandering.jpg": {
   "bytes": 3727,
-  "checked": "2026-10-03T09:21:22Z",
+  "checked": "2026-11-03T11:05:27Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:36Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
@@ -2151,11 +2151,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
   "path": "data/snapshot/pirates/images/tn_39fred1.jpg",
   "sha256": "d2eebfb351d68afd89cc714907354507e0dced5fec6f22c24eecc540b0257ebf",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/images/tn_39gen1.jpg": {
   "bytes": 4525,
-  "checked": "2026-10-03T09:22:27Z",
+  "checked": "2026-11-03T11:06:32Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:42Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:37 GMT",
@@ -2165,7 +2165,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_39girls1.jpg": {
   "bytes": 4780,
-  "checked": "2026-10-03T09:22:07Z",
+  "checked": "2026-11-03T11:06:12Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:20Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
@@ -2175,7 +2175,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_39kingkate1.jpg": {
   "bytes": 4510,
-  "checked": "2026-10-03T09:22:21Z",
+  "checked": "2026-11-03T11:06:28Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:36Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
@@ -2185,7 +2185,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_39mabel1.jpg": {
   "bytes": 4373,
-  "checked": "2026-10-03T09:22:11Z",
+  "checked": "2026-11-03T11:06:18Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:26Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
@@ -2195,7 +2195,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_39pirates.jpg": {
   "bytes": 4444,
-  "checked": "2026-10-03T09:22:03Z",
+  "checked": "2026-11-03T11:06:08Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:38 GMT",
@@ -2205,7 +2205,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_39sgt.jpg": {
   "bytes": 3919,
-  "checked": "2026-10-03T09:22:32Z",
+  "checked": "2026-11-03T11:06:38Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:39 GMT",
@@ -2215,7 +2215,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_50fred.jpg": {
   "bytes": 3448,
-  "checked": "2026-10-03T09:22:58Z",
+  "checked": "2026-11-03T11:07:04Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:10Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:39 GMT",
@@ -2225,7 +2225,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_50gen2.jpg": {
   "bytes": 3873,
-  "checked": "2026-10-03T09:23:08Z",
+  "checked": "2026-11-03T11:07:16Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:19Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:39 GMT",
@@ -2235,7 +2235,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_50mabel.jpg": {
   "bytes": 3890,
-  "checked": "2026-10-03T09:22:43Z",
+  "checked": "2026-11-03T11:06:49Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:56Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
@@ -2245,7 +2245,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_50ruth.jpg": {
   "bytes": 3945,
-  "checked": "2026-10-03T09:22:49Z",
+  "checked": "2026-11-03T11:06:55Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:01Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
@@ -2255,7 +2255,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_61charge.jpg": {
   "bytes": 4256,
-  "checked": "2026-10-03T09:23:33Z",
+  "checked": "2026-11-03T11:07:40Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:43Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
@@ -2265,7 +2265,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_61fred_mab2.jpg": {
   "bytes": 4561,
-  "checked": "2026-10-03T09:23:18Z",
+  "checked": "2026-11-03T11:07:25Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:29Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:40 GMT",
@@ -2275,7 +2275,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_61gen1.jpg": {
   "bytes": 4917,
-  "checked": "2026-10-03T09:23:24Z",
+  "checked": "2026-11-03T11:07:30Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:33Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:41 GMT",
@@ -2285,7 +2285,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_61girls2.jpg": {
   "bytes": 5392,
-  "checked": "2026-10-03T09:23:39Z",
+  "checked": "2026-11-03T11:07:45Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:47Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:41 GMT",
@@ -2295,7 +2295,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_61police.jpg": {
   "bytes": 4161,
-  "checked": "2026-10-03T09:23:29Z",
+  "checked": "2026-11-03T11:07:36Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:38Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:41 GMT",
@@ -2305,7 +2305,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_act1.jpg": {
   "bytes": 5277,
-  "checked": "2026-10-03T09:18:47Z",
+  "checked": "2026-11-03T11:02:56Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:06Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
@@ -2315,7 +2315,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_act2.jpg": {
   "bytes": 4691,
-  "checked": "2026-10-03T09:18:52Z",
+  "checked": "2026-11-03T11:03:01Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:11Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
@@ -2325,7 +2325,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_act21.jpg": {
   "bytes": 5589,
-  "checked": "2026-10-03T09:19:15Z",
+  "checked": "2026-11-03T11:03:26Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:35Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
@@ -2335,7 +2335,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_act22.jpg": {
   "bytes": 5217,
-  "checked": "2026-10-03T09:19:19Z",
+  "checked": "2026-11-03T11:03:32Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:40Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:42 GMT",
@@ -2345,7 +2345,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_act23.jpg": {
   "bytes": 4733,
-  "checked": "2026-10-03T09:19:24Z",
+  "checked": "2026-11-03T11:03:37Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
@@ -2355,7 +2355,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_act2set.jpg": {
   "bytes": 3289,
-  "checked": "2026-10-03T09:20:15Z",
+  "checked": "2026-11-03T11:04:25Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:33Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
@@ -2365,7 +2365,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_fred.jpg": {
   "bytes": 4241,
-  "checked": "2026-10-03T09:21:07Z",
+  "checked": "2026-11-03T11:05:11Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:22Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
@@ -2375,7 +2375,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_fred_power.jpg": {
   "bytes": 4281,
-  "checked": "2026-10-03T09:18:11Z",
+  "checked": "2026-11-03T11:02:21Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:32Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:43 GMT",
@@ -2385,7 +2385,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_fred_round.jpg": {
   "bytes": 3619,
-  "checked": "2026-10-03T09:22:37Z",
+  "checked": "2026-11-03T11:06:43Z",
   "etag": null,
   "fetched": "2026-07-24T11:57:52Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:44 GMT",
@@ -2395,7 +2395,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_kate_edith_isabel.jpg": {
   "bytes": 4915,
-  "checked": "2026-10-03T09:19:28Z",
+  "checked": "2026-11-03T11:03:43Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:50Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:44 GMT",
@@ -2405,7 +2405,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_king_hewson.jpg": {
   "bytes": 4245,
-  "checked": "2026-10-03T09:19:01Z",
+  "checked": "2026-11-03T11:03:10Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:21Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:44 GMT",
@@ -2415,7 +2415,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_king_temple.jpg": {
   "bytes": 4453,
-  "checked": "2026-10-03T09:18:17Z",
+  "checked": "2026-11-03T11:02:26Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:36Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
@@ -2425,7 +2425,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_lytton.jpg": {
   "bytes": 2642,
-  "checked": "2026-10-03T09:19:34Z",
+  "checked": "2026-11-03T11:03:47Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:55Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
@@ -2435,7 +2435,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_mab_hood.jpg": {
   "bytes": 4322,
-  "checked": "2026-10-03T09:18:56Z",
+  "checked": "2026-11-03T11:03:05Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:16Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
@@ -2445,7 +2445,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_mab_hood1.jpg": {
   "bytes": 3677,
-  "checked": "2026-10-03T09:18:23Z",
+  "checked": "2026-11-03T11:02:31Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:42Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:45 GMT",
@@ -2455,17 +2455,17 @@
  },
  "https://gsarchive.net/pirates/images/tn_masterson.jpg": {
   "bytes": 4234,
-  "checked": "2026-09-03T08:16:27Z",
+  "checked": "2026-11-03T11:07:21Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:23Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:46 GMT",
   "path": "data/snapshot/pirates/images/tn_masterson.jpg",
   "sha256": "8264cd790f2ccc86a37bc2a8c34488a03e0f0745b69156e518c7fb580f706c0f",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/images/tn_morgan.jpg": {
   "bytes": 3487,
-  "checked": "2026-10-03T09:23:04Z",
+  "checked": "2026-11-03T11:07:10Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:15Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:46 GMT",
@@ -2475,7 +2475,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_over.jpg": {
   "bytes": 4223,
-  "checked": "2026-10-03T09:21:36Z",
+  "checked": "2026-11-03T11:05:43Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:51Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:46 GMT",
@@ -2485,7 +2485,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_pir_pol.jpg": {
   "bytes": 3894,
-  "checked": "2026-10-03T09:20:05Z",
+  "checked": "2026-11-03T11:04:15Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:24Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
@@ -2495,7 +2495,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_pratt.jpg": {
   "bytes": 3178,
-  "checked": "2026-10-03T09:22:54Z",
+  "checked": "2026-11-03T11:06:59Z",
   "etag": null,
   "fetched": "2026-07-24T11:58:06Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
@@ -2505,7 +2505,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_ruth_barnett.jpg": {
   "bytes": 4363,
-  "checked": "2026-10-03T09:18:26Z",
+  "checked": "2026-11-03T11:02:37Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
@@ -2515,7 +2515,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_ruth_brandram.jpg": {
   "bytes": 3496,
-  "checked": "2026-10-03T09:19:06Z",
+  "checked": "2026-11-03T11:03:15Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:26Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:47 GMT",
@@ -2525,7 +2525,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_ruth_lewis.jpg": {
   "bytes": 3867,
-  "checked": "2026-10-03T09:21:12Z",
+  "checked": "2026-11-03T11:05:16Z",
   "etag": null,
   "fetched": "2026-08-03T06:46:20Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
@@ -2535,7 +2535,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_sam_griffin.jpg": {
   "bytes": 3555,
-  "checked": "2026-10-03T09:21:18Z",
+  "checked": "2026-11-03T11:05:21Z",
   "etag": null,
   "fetched": "2026-07-24T11:56:31Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
@@ -2545,7 +2545,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_sam_gtemple.jpg": {
   "bytes": 3952,
-  "checked": "2026-10-03T09:18:33Z",
+  "checked": "2026-11-03T11:02:42Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:52Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
@@ -2555,7 +2555,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_sgt_barrington1.jpg": {
   "bytes": 3304,
-  "checked": "2026-10-03T09:18:38Z",
+  "checked": "2026-11-03T11:02:47Z",
   "etag": null,
   "fetched": "2026-07-24T11:53:57Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:48 GMT",
@@ -2565,7 +2565,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_sgt_barrington2.jpg": {
   "bytes": 3668,
-  "checked": "2026-10-03T09:18:42Z",
+  "checked": "2026-11-03T11:02:52Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:02Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:49 GMT",
@@ -2575,7 +2575,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_sgt_passmore.jpg": {
   "bytes": 3441,
-  "checked": "2026-10-03T09:19:10Z",
+  "checked": "2026-11-03T11:03:21Z",
   "etag": null,
   "fetched": "2026-07-24T11:54:31Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:49 GMT",
@@ -2585,7 +2585,7 @@
  },
  "https://gsarchive.net/pirates/images/tn_sgt_sheffield.jpg": {
   "bytes": 2717,
-  "checked": "2026-10-03T09:19:38Z",
+  "checked": "2026-11-03T11:03:53Z",
   "etag": null,
   "fetched": "2026-07-24T11:55:01Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:49 GMT",
@@ -2595,7 +2595,7 @@
  },
  "https://gsarchive.net/pirates/photos/39girls1_sm.jpg": {
   "bytes": 17872,
-  "checked": "2026-10-03T09:30:28Z",
+  "checked": "2026-11-03T11:14:32Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:32Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:51 GMT",
@@ -2605,7 +2605,7 @@
  },
  "https://gsarchive.net/pirates/photos/sm_kate_edith_isabel.jpg": {
   "bytes": 13818,
-  "checked": "2026-10-03T09:30:24Z",
+  "checked": "2026-11-03T11:14:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:27Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:52 GMT",
@@ -2630,7 +2630,7 @@
  },
  "https://gsarchive.net/pirates/posters/ac_pp_s.jpg": {
   "bytes": 35911,
-  "checked": "2026-10-03T09:14:29Z",
+  "checked": "2026-11-03T10:58:29Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:44Z",
   "last_modified": "Sat, 17 Sep 2016 19:34:55 GMT",
@@ -2640,7 +2640,7 @@
  },
  "https://gsarchive.net/pirates/reviews/USA/NYtimes.html": {
   "bytes": 12274,
-  "checked": "2026-10-03T09:35:32Z",
+  "checked": "2026-11-03T11:19:32Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:45Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:47 GMT",
@@ -2650,7 +2650,7 @@
  },
  "https://gsarchive.net/pirates/reviews/USA/erany.html": {
   "bytes": 39837,
-  "checked": "2026-10-03T09:35:44Z",
+  "checked": "2026-11-03T11:19:41Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:55Z",
   "last_modified": "Mon, 20 Feb 2023 03:03:00 GMT",
@@ -2660,7 +2660,7 @@
  },
  "https://gsarchive.net/pirates/reviews/USA/tribune.html": {
   "bytes": 26011,
-  "checked": "2026-10-03T09:35:22Z",
+  "checked": "2026-11-03T11:19:22Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:35Z",
   "last_modified": "Mon, 20 Feb 2023 03:02:58 GMT",
@@ -2670,7 +2670,7 @@
  },
  "https://gsarchive.net/pirates/reviews/USA/ustours.html": {
   "bytes": 11152,
-  "checked": "2026-10-03T09:35:53Z",
+  "checked": "2026-11-03T11:19:51Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:04Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:50 GMT",
@@ -2680,7 +2680,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800405MP.html": {
   "bytes": 14783,
-  "checked": "2026-10-03T09:36:18Z",
+  "checked": "2026-11-03T11:20:18Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:27Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:56 GMT",
@@ -2690,7 +2690,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800405glasgow.html": {
   "bytes": 15580,
-  "checked": "2026-10-03T09:36:14Z",
+  "checked": "2026-11-03T11:20:12Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:23Z",
   "last_modified": "Mon, 20 Feb 2023 03:03:04 GMT",
@@ -2700,7 +2700,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800405stand.html": {
   "bytes": 20583,
-  "checked": "2026-10-03T09:36:24Z",
+  "checked": "2026-11-03T11:20:23Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:32Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:52 GMT",
@@ -2710,7 +2710,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800406pmg.html": {
   "bytes": 18539,
-  "checked": "2026-10-03T09:36:45Z",
+  "checked": "2026-11-03T11:20:42Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:52Z",
   "last_modified": "Mon, 20 Feb 2023 03:03:02 GMT",
@@ -2720,7 +2720,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800410graphic.html": {
   "bytes": 17456,
-  "checked": "2026-10-03T09:36:51Z",
+  "checked": "2026-11-03T11:20:46Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:57Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:58 GMT",
@@ -2730,7 +2730,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800411era.html": {
   "bytes": 30241,
-  "checked": "2026-10-03T09:36:56Z",
+  "checked": "2026-11-03T11:20:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:02Z",
   "last_modified": "Fri, 17 Feb 2023 12:18:00 GMT",
@@ -2740,7 +2740,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/800814exam.html": {
   "bytes": 11205,
-  "checked": "2026-10-03T09:37:01Z",
+  "checked": "2026-11-03T11:20:56Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:06Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:59 GMT",
@@ -2750,7 +2750,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/lloyds800404.html": {
   "bytes": 12931,
-  "checked": "2026-10-03T09:36:03Z",
+  "checked": "2026-11-03T11:20:01Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:14Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:55 GMT",
@@ -2760,7 +2760,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/times1880.html": {
   "bytes": 20123,
-  "checked": "2026-10-03T09:36:29Z",
+  "checked": "2026-11-03T11:20:27Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:38Z",
   "last_modified": "Mon, 20 Feb 2023 03:03:06 GMT",
@@ -2770,7 +2770,7 @@
  },
  "https://gsarchive.net/pirates/reviews/op_com/times1881.html": {
   "bytes": 10338,
-  "checked": "2026-10-03T09:37:11Z",
+  "checked": "2026-11-03T11:21:06Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:17Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:54 GMT",
@@ -2780,17 +2780,17 @@
  },
  "https://gsarchive.net/pirates/reviews/paignton/paignton.html": {
   "bytes": 17119,
-  "checked": "2026-09-03T08:28:09Z",
+  "checked": "2026-11-03T11:19:11Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:26Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:43 GMT",
   "path": "data/snapshot/pirates/reviews/paignton/paignton.html",
   "sha256": "e13cec22c8c3a2f61865fa1f301ddbb4686edb1eda74a4ba068bdf37934739c8",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/reviews/reviews_index.html": {
   "bytes": 16077,
-  "checked": "2026-10-03T09:17:09Z",
+  "checked": "2026-11-03T11:01:15Z",
   "etag": null,
   "fetched": "2026-07-24T11:52:28Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:42 GMT",
@@ -2800,7 +2800,7 @@
  },
  "https://gsarchive.net/pirates/reviews/savoy1888/times1888.html": {
   "bytes": 14336,
-  "checked": "2026-10-03T09:37:21Z",
+  "checked": "2026-11-03T11:21:18Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:27Z",
   "last_modified": "Sat, 21 Jan 2023 01:30:45 GMT",
@@ -2810,7 +2810,7 @@
  },
  "https://gsarchive.net/pirates/reviews/savoy1900/times1900.html": {
   "bytes": 11570,
-  "checked": "2026-10-03T09:37:31Z",
+  "checked": "2026-11-03T11:21:27Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:37Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:46 GMT",
@@ -2820,7 +2820,7 @@
  },
  "https://gsarchive.net/pirates/reviews/savoy1908/times1908.html": {
   "bytes": 12744,
-  "checked": "2026-10-03T09:37:41Z",
+  "checked": "2026-11-03T11:21:37Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:47Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:45 GMT",
@@ -2830,7 +2830,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/NY1880.gif": {
   "bytes": 6655,
-  "checked": "2026-10-03T09:35:27Z",
+  "checked": "2026-11-03T11:19:26Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:40Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:24 GMT",
@@ -2846,11 +2846,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:36:24 GMT",
   "path": "data/snapshot/pirates/reviews/titles/NYTi1880.gif",
   "sha256": "95a57e283b98ae6d0e9d6dcd32e0d039b1777f90704ad06a90f835f62a282eb4",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/reviews/titles/NYera1880.gif": {
   "bytes": 6904,
-  "checked": "2026-10-03T09:35:48Z",
+  "checked": "2026-11-03T11:19:45Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:00Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:24 GMT",
@@ -2860,7 +2860,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/OC1880.gif": {
   "bytes": 6682,
-  "checked": "2026-10-03T09:36:08Z",
+  "checked": "2026-11-03T11:20:06Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:18Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:25 GMT",
@@ -2870,7 +2870,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/OC1880a.gif": {
   "bytes": 6657,
-  "checked": "2026-10-03T09:37:06Z",
+  "checked": "2026-11-03T11:21:02Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:12Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:25 GMT",
@@ -2880,7 +2880,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/invis.gif": {
   "bytes": 55,
-  "checked": "2026-10-03T09:36:39Z",
+  "checked": "2026-11-03T11:20:37Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:46Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:23 GMT",
@@ -2890,7 +2890,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/paignton.gif": {
   "bytes": 8227,
-  "checked": "2026-09-03T08:28:15Z",
+  "checked": "2026-11-03T11:19:16Z",
   "etag": null,
   "fetched": "2026-07-24T12:10:30Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:25 GMT",
@@ -2900,7 +2900,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/times_title1880.jpg": {
   "bytes": 17130,
-  "checked": "2026-10-03T09:36:34Z",
+  "checked": "2026-11-03T11:20:32Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:42Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:26 GMT",
@@ -2910,7 +2910,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/times_title1881.jpg": {
   "bytes": 18664,
-  "checked": "2026-10-03T09:37:15Z",
+  "checked": "2026-11-03T11:21:12Z",
   "etag": null,
   "fetched": "2026-08-03T07:02:25Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:26 GMT",
@@ -2920,7 +2920,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/times_title1888.jpg": {
   "bytes": 17019,
-  "checked": "2026-10-03T09:37:27Z",
+  "checked": "2026-11-03T11:21:23Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:31Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:26 GMT",
@@ -2936,11 +2936,11 @@
   "last_modified": "Sat, 17 Sep 2016 19:36:27 GMT",
   "path": "data/snapshot/pirates/reviews/titles/times_title1900.jpg",
   "sha256": "7708162ef71d8b2181fb06194dbcc2ff2ddbef12f529ca4d47b4c4b325e054b8",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/reviews/titles/times_title1908.jpg": {
   "bytes": 17005,
-  "checked": "2026-10-03T09:37:47Z",
+  "checked": "2026-11-03T11:21:43Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:53Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:27 GMT",
@@ -2950,7 +2950,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/tour.gif": {
   "bytes": 5782,
-  "checked": "2026-10-03T09:37:57Z",
+  "checked": "2026-11-03T11:21:53Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:04Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:27 GMT",
@@ -2960,7 +2960,7 @@
  },
  "https://gsarchive.net/pirates/reviews/titles/ustour.gif": {
   "bytes": 5660,
-  "checked": "2026-10-03T09:35:58Z",
+  "checked": "2026-11-03T11:19:56Z",
   "etag": null,
   "fetched": "2026-07-24T12:11:10Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:28 GMT",
@@ -2970,7 +2970,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/801011bristol.html": {
   "bytes": 17414,
-  "checked": "2026-10-03T09:37:52Z",
+  "checked": "2026-11-03T11:21:49Z",
   "etag": null,
   "fetched": "2026-07-24T12:12:58Z",
   "last_modified": "Mon, 20 Feb 2023 03:03:08 GMT",
@@ -2980,7 +2980,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/801012bristol.html": {
   "bytes": 14556,
-  "checked": "2026-10-03T09:38:02Z",
+  "checked": "2026-11-03T11:21:57Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:08Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:07 GMT",
@@ -2990,7 +2990,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/801017era.html": {
   "bytes": 10133,
-  "checked": "2026-10-03T09:38:07Z",
+  "checked": "2026-11-03T11:22:03Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:12Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:35 GMT",
@@ -3000,7 +3000,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/801113leicester.html": {
   "bytes": 13222,
-  "checked": "2026-10-03T09:38:11Z",
+  "checked": "2026-11-03T11:22:07Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:17Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:29 GMT",
@@ -3016,21 +3016,21 @@
   "last_modified": "Sat, 21 Jan 2023 01:31:16 GMT",
   "path": "data/snapshot/pirates/reviews/tour/801116liverpool.html",
   "sha256": "e60480dfe73ca13faadf1e0036bf4010c8dcdeff97f0a4868e8ca43f82575a85",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/reviews/tour/810104whartle.html": {
   "bytes": 10496,
-  "checked": "2026-08-03T07:03:32Z",
+  "checked": "2026-11-03T11:22:18Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:25Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:14 GMT",
   "path": "data/snapshot/pirates/reviews/tour/810104whartle.html",
   "sha256": "e4dea623a638d7583d8a5940c332f14943f573b8c94f35eacec8c72558cfcbd9",
-  "status": "error:RemoteProtocolError"
+  "status": "ok"
  },
  "https://gsarchive.net/pirates/reviews/tour/810122edin.html": {
   "bytes": 10851,
-  "checked": "2026-10-03T09:38:28Z",
+  "checked": "2026-11-03T11:22:23Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:31Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:40 GMT",
@@ -3040,7 +3040,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810129chester.html": {
   "bytes": 12186,
-  "checked": "2026-10-03T09:38:32Z",
+  "checked": "2026-11-03T11:22:27Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:35Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:43 GMT",
@@ -3050,7 +3050,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810216york.html": {
   "bytes": 16268,
-  "checked": "2026-10-03T09:38:37Z",
+  "checked": "2026-11-03T11:22:33Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:41Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:11 GMT",
@@ -3060,7 +3060,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810228cardiff.html": {
   "bytes": 11097,
-  "checked": "2026-10-03T09:38:43Z",
+  "checked": "2026-11-03T11:22:38Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:47Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:33 GMT",
@@ -3070,7 +3070,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810302liverpool.html": {
   "bytes": 9203,
-  "checked": "2026-10-03T09:38:48Z",
+  "checked": "2026-11-03T11:22:42Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:53Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:10 GMT",
@@ -3080,7 +3080,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810319mcr.html": {
   "bytes": 12545,
-  "checked": "2026-10-03T09:38:53Z",
+  "checked": "2026-11-03T11:22:47Z",
   "etag": null,
   "fetched": "2026-07-24T12:13:57Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:08 GMT",
@@ -3090,7 +3090,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8103soton.html": {
   "bytes": 10351,
-  "checked": "2026-10-03T09:39:15Z",
+  "checked": "2026-11-03T11:23:08Z",
   "etag": null,
   "fetched": "2026-08-03T07:04:18Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:19 GMT",
@@ -3100,7 +3100,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810420pmouth.html": {
   "bytes": 17901,
-  "checked": "2026-10-03T09:38:57Z",
+  "checked": "2026-11-03T11:22:52Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:02Z",
   "last_modified": "Mon, 20 Feb 2023 03:03:12 GMT",
@@ -3110,7 +3110,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810423dublin.html": {
   "bytes": 10739,
-  "checked": "2026-10-03T09:39:09Z",
+  "checked": "2026-11-03T11:23:02Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:11Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:26 GMT",
@@ -3120,7 +3120,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810517bristol.html": {
   "bytes": 13304,
-  "checked": "2026-10-03T09:39:20Z",
+  "checked": "2026-11-03T11:23:12Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:21Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:38 GMT",
@@ -3130,7 +3130,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810621huddsfld.html": {
   "bytes": 19590,
-  "checked": "2026-10-03T09:39:24Z",
+  "checked": "2026-11-03T11:23:17Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:26Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:42 GMT",
@@ -3140,7 +3140,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810716douglas.html": {
   "bytes": 10768,
-  "checked": "2026-10-03T09:39:29Z",
+  "checked": "2026-11-03T11:23:21Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:32Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:20 GMT",
@@ -3150,7 +3150,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810730era.html": {
   "bytes": 9868,
-  "checked": "2026-10-03T09:39:34Z",
+  "checked": "2026-11-03T11:23:27Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:37Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:37 GMT",
@@ -3160,7 +3160,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810803derby.html": {
   "bytes": 9016,
-  "checked": "2026-10-03T09:39:38Z",
+  "checked": "2026-11-03T11:23:32Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:42Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:32 GMT",
@@ -3170,7 +3170,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810817potsmth.html": {
   "bytes": 12920,
-  "checked": "2026-10-03T09:39:42Z",
+  "checked": "2026-11-03T11:23:37Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:47Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:01 GMT",
@@ -3180,7 +3180,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810823belfast.html": {
   "bytes": 14933,
-  "checked": "2026-10-03T09:39:47Z",
+  "checked": "2026-11-03T11:23:43Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:52Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:18 GMT",
@@ -3190,7 +3190,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/810924nwch.html": {
   "bytes": 9480,
-  "checked": "2026-10-03T09:39:52Z",
+  "checked": "2026-11-03T11:23:47Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:58Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:36 GMT",
@@ -3200,7 +3200,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/811008york.html": {
   "bytes": 9213,
-  "checked": "2026-10-03T09:39:56Z",
+  "checked": "2026-11-03T11:23:52Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:02Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:17 GMT",
@@ -3210,7 +3210,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/811129bristol.html": {
   "bytes": 9632,
-  "checked": "2026-10-03T09:40:01Z",
+  "checked": "2026-11-03T11:23:56Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:08Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:13 GMT",
@@ -3220,7 +3220,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/811203bristol.html": {
   "bytes": 9636,
-  "checked": "2026-10-03T09:40:07Z",
+  "checked": "2026-11-03T11:24:02Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:12Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:09 GMT",
@@ -3230,7 +3230,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/820418huddfld.html": {
   "bytes": 10867,
-  "checked": "2026-10-03T09:40:11Z",
+  "checked": "2026-11-03T11:24:06Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:18Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:23 GMT",
@@ -3240,7 +3240,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/820425sheff.html": {
   "bytes": 10752,
-  "checked": "2026-10-03T09:40:16Z",
+  "checked": "2026-11-03T11:24:11Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:24Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:02 GMT",
@@ -3250,7 +3250,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8205dundee.html": {
   "bytes": 14144,
-  "checked": "2026-10-03T09:40:21Z",
+  "checked": "2026-11-03T11:24:16Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:29Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:04 GMT",
@@ -3260,7 +3260,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8206leed.html": {
   "bytes": 9250,
-  "checked": "2026-10-03T09:40:26Z",
+  "checked": "2026-11-03T11:24:21Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:34Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:27 GMT",
@@ -3270,7 +3270,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8208mcr.html": {
   "bytes": 9442,
-  "checked": "2026-10-03T09:40:30Z",
+  "checked": "2026-11-03T11:24:25Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:38Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:28 GMT",
@@ -3280,7 +3280,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8209dublin.html": {
   "bytes": 8824,
-  "checked": "2026-10-03T09:40:35Z",
+  "checked": "2026-11-03T11:24:31Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:44Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:15 GMT",
@@ -3290,7 +3290,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8209lpool.html": {
   "bytes": 9352,
-  "checked": "2026-10-03T09:40:39Z",
+  "checked": "2026-11-03T11:24:35Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:48Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:21 GMT",
@@ -3300,7 +3300,7 @@
  },
  "https://gsarchive.net/pirates/reviews/tour/8212sheff.html": {
   "bytes": 10530,
-  "checked": "2026-10-03T09:40:45Z",
+  "checked": "2026-11-03T11:24:39Z",
   "etag": null,
   "fetched": "2026-07-24T12:15:54Z",
   "last_modified": "Sat, 21 Jan 2023 01:31:31 GMT",
@@ -3316,11 +3316,11 @@
   "last_modified": "Sat, 21 Jan 2023 01:31:24 GMT",
   "path": "data/snapshot/pirates/reviews/tour/8305cardiff.html",
   "sha256": "cba4ea4d0fc41ef8a939ad92ba5c44bf27e4c79f1930e9f6e95cadeafe5436f2",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/reviews/tour/spacer.gif": {
   "bytes": 255,
-  "checked": "2026-10-03T09:39:04Z",
+  "checked": "2026-11-03T11:22:57Z",
   "etag": null,
   "fetched": "2026-07-24T12:14:07Z",
   "last_modified": "Sat, 17 Sep 2016 19:36:42 GMT",
@@ -3456,7 +3456,7 @@
  },
  "https://gsarchive.net/pirates/web_op/operhome.html": {
   "bytes": 15577,
-  "checked": "2026-10-03T09:14:43Z",
+  "checked": "2026-11-03T10:58:45Z",
   "etag": null,
   "fetched": "2026-07-24T11:50:00Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:47 GMT",
@@ -3466,7 +3466,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates00.html": {
   "bytes": 4840,
-  "checked": "2026-10-03T09:28:28Z",
+  "checked": "2026-11-03T11:12:32Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:37Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:54 GMT",
@@ -3476,7 +3476,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates01.html": {
   "bytes": 8210,
-  "checked": "2026-10-03T09:28:49Z",
+  "checked": "2026-11-03T11:12:53Z",
   "etag": null,
   "fetched": "2026-07-24T12:03:56Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:51 GMT",
@@ -3486,7 +3486,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates02.html": {
   "bytes": 6920,
-  "checked": "2026-10-03T09:29:21Z",
+  "checked": "2026-11-03T11:13:23Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:24Z",
   "last_modified": "Mon, 20 Feb 2023 03:02:36 GMT",
@@ -3496,7 +3496,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates02d.html": {
   "bytes": 10191,
-  "checked": "2026-10-03T09:29:37Z",
+  "checked": "2026-11-03T11:13:39Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:40Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:06 GMT",
@@ -3506,7 +3506,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates03.html": {
   "bytes": 7878,
-  "checked": "2026-10-03T09:29:46Z",
+  "checked": "2026-11-03T11:13:50Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:51Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:43 GMT",
@@ -3516,7 +3516,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates03d.html": {
   "bytes": 5894,
-  "checked": "2026-10-03T09:30:03Z",
+  "checked": "2026-11-03T11:14:05Z",
   "etag": null,
   "fetched": "2026-08-03T06:55:01Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:04 GMT",
@@ -3526,7 +3526,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates04.html": {
   "bytes": 9954,
-  "checked": "2026-10-03T09:30:09Z",
+  "checked": "2026-11-03T11:14:10Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:12Z",
   "last_modified": "Mon, 20 Feb 2023 03:02:39 GMT",
@@ -3536,7 +3536,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates05.html": {
   "bytes": 8362,
-  "checked": "2026-10-03T09:30:19Z",
+  "checked": "2026-11-03T11:14:22Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:23Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:47 GMT",
@@ -3546,7 +3546,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates05d.html": {
   "bytes": 4702,
-  "checked": "2026-10-03T09:30:32Z",
+  "checked": "2026-11-03T11:14:37Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:38Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:58 GMT",
@@ -3556,7 +3556,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates06.html": {
   "bytes": 12073,
-  "checked": "2026-10-03T09:30:36Z",
+  "checked": "2026-11-03T11:14:42Z",
   "etag": null,
   "fetched": "2026-07-24T12:05:42Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:48 GMT",
@@ -3566,7 +3566,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates08.html": {
   "bytes": 8677,
-  "checked": "2026-10-03T09:30:57Z",
+  "checked": "2026-11-03T11:15:01Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:02Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:00 GMT",
@@ -3576,7 +3576,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates09.html": {
   "bytes": 10597,
-  "checked": "2026-10-03T09:31:13Z",
+  "checked": "2026-11-03T11:15:17Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:17Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:56 GMT",
@@ -3586,7 +3586,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates11.html": {
   "bytes": 8552,
-  "checked": "2026-10-03T09:31:17Z",
+  "checked": "2026-11-03T11:15:21Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:21Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:50 GMT",
@@ -3602,11 +3602,11 @@
   "last_modified": "Mon, 06 Feb 2023 02:56:57 GMT",
   "path": "data/snapshot/pirates/web_op/pirates12.html",
   "sha256": "6f4d12850c3baa27cad5fe716f0d99248ae8b2e28db60abeeb8300fd285cafd7",
-  "status": "ok"
+  "status": "error:RemoteProtocolError"
  },
  "https://gsarchive.net/pirates/web_op/pirates13.html": {
   "bytes": 10344,
-  "checked": "2026-10-03T09:31:44Z",
+  "checked": "2026-11-03T11:15:40Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:43Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:45 GMT",
@@ -3616,7 +3616,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates13d.html": {
   "bytes": 8259,
-  "checked": "2026-10-03T09:31:59Z",
+  "checked": "2026-11-03T11:15:55Z",
   "etag": null,
   "fetched": "2026-07-24T12:06:58Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:52 GMT",
@@ -3626,7 +3626,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates14.html": {
   "bytes": 19274,
-  "checked": "2026-10-03T09:32:08Z",
+  "checked": "2026-11-03T11:16:05Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:08Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:02 GMT",
@@ -3636,7 +3636,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates15.html": {
   "bytes": 6307,
-  "checked": "2026-10-03T09:32:31Z",
+  "checked": "2026-11-03T11:16:30Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:33Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:42 GMT",
@@ -3646,7 +3646,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates15d.html": {
   "bytes": 5751,
-  "checked": "2026-10-03T09:32:41Z",
+  "checked": "2026-11-03T11:16:41Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:44Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:53 GMT",
@@ -3656,7 +3656,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates16.html": {
   "bytes": 23712,
-  "checked": "2026-10-03T09:32:46Z",
+  "checked": "2026-11-03T11:16:45Z",
   "etag": null,
   "fetched": "2026-07-24T12:07:48Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:55 GMT",
@@ -3666,7 +3666,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates18.html": {
   "bytes": 15928,
-  "checked": "2026-10-03T09:33:03Z",
+  "checked": "2026-11-03T11:16:59Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:06Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:57 GMT",
@@ -3676,7 +3676,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates18d.html": {
   "bytes": 7363,
-  "checked": "2026-10-03T09:33:27Z",
+  "checked": "2026-11-03T11:17:25Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:33Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:05 GMT",
@@ -3686,7 +3686,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates1d.html": {
   "bytes": 5144,
-  "checked": "2026-10-03T09:29:11Z",
+  "checked": "2026-11-03T11:13:14Z",
   "etag": null,
   "fetched": "2026-07-24T12:04:14Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:46 GMT",
@@ -3696,7 +3696,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates20.html": {
   "bytes": 8715,
-  "checked": "2026-10-03T09:33:33Z",
+  "checked": "2026-11-03T11:17:29Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:39Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:43 GMT",
@@ -3706,7 +3706,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates21.html": {
   "bytes": 15383,
-  "checked": "2026-10-03T09:33:37Z",
+  "checked": "2026-11-03T11:17:33Z",
   "etag": null,
   "fetched": "2026-07-24T12:08:43Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:41 GMT",
@@ -3716,7 +3716,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates23.html": {
   "bytes": 10042,
-  "checked": "2026-10-03T09:33:57Z",
+  "checked": "2026-11-03T11:17:54Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:03Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:01 GMT",
@@ -3726,7 +3726,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates23d.html": {
   "bytes": 5959,
-  "checked": "2026-10-03T09:34:12Z",
+  "checked": "2026-11-03T11:18:07Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:18Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:51 GMT",
@@ -3736,7 +3736,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates24.html": {
   "bytes": 11716,
-  "checked": "2026-10-03T09:34:24Z",
+  "checked": "2026-11-03T11:18:17Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:27Z",
   "last_modified": "Mon, 06 Feb 2023 02:56:49 GMT",
@@ -3746,7 +3746,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates25.html": {
   "bytes": 14009,
-  "checked": "2026-10-03T09:34:37Z",
+  "checked": "2026-11-03T11:18:33Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:43Z",
   "last_modified": "Mon, 06 Feb 2023 02:57:03 GMT",
@@ -3756,7 +3756,7 @@
  },
  "https://gsarchive.net/pirates/web_op/pirates27.html": {
   "bytes": 30331,
-  "checked": "2026-10-03T09:34:47Z",
+  "checked": "2026-11-03T11:18:42Z",
   "etag": null,
   "fetched": "2026-07-24T12:09:53Z",
   "last_modified": "Mon, 20 Feb 2023 03:02:47 GMT",
@@ -3772,7 +3772,7 @@
  },
  "https://gsarchive.net/styles/gsarchive.css": {
   "bytes": 3514,
-  "checked": "2026-10-03T09:14:39Z",
+  "checked": "2026-11-03T10:58:40Z",
   "etag": null,
   "fetched": "2026-07-24T11:49:55Z",
   "last_modified": "Fri, 23 Jan 2026 11:05:42 GMT",
